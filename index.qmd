@@ -1,14 +1,26 @@
 ---
 title-block-banner: "#009ca6"
 title-block-banner-color: "#FFFFFF"
-format:
+format: 
   html:
-    toc: false
-#bibliography: references.bib
+    toc: true
 ---
 
 ## Bakgrund {.unnumbered}
 
-[RISE Research Institutes of Sweden](https://ri.se) har fått i uppdrag att utvärdera och vidareutveckla ...
+Något om Data i Dialog...
 
-## Referenser {.unnumbered}
+## Del 1: Kartläggning av förutsättningar och readiness
+
+Kanske mera info här?
+
+## Del 2: Kartläggning utifrån ett basutbud av insatser och verksamheter
+
+Ett verktyg för att:
+
+1.  kartlägga befintlig verksamhet
+2.  kvalitetssäkra befintlig verksamhet
+3.  utveckla befintlig verksamhet
+4.  implementera insatser och program
+
+Utgår från lagstiftning, forskning och myndigheters kunskapsunderlag
