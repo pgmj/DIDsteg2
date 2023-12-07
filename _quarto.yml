@@ -4,7 +4,7 @@ project:
 
 book:
   title: "Data i Dialog - basutbud"
-  repo-url: "https://github.com/pgmj/DIDbasutbud"
+  repo-url: "https://github.com/pgmj"
   sidebar:
     style: floating
     search: true
@@ -27,8 +27,7 @@ format:
     number-sections: true
     layout-align: left
     page-layout: full
-    mainfont: 'Lato'
-    monofont: 'Roboto Mono'
+    mainfont: 'Atkinson'
     linestretch: 1.6
     theme:
       - materia

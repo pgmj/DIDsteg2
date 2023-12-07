@@ -1,7 +1,5 @@
 ---
+title-block-banner: "#2D6B97"
+title-block-banner-color: "#BBDBEC"
 title: "Måluppfyllelse i skolan"
-title-block-banner: "#009ca6"
-title-block-banner-color: "#FFFFFF"
-format: html
-
 ---

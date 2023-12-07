@@ -1,9 +1,7 @@
 ---
 title: "God föräldra-barnrelation"
-title-block-banner: "#009ca6"
-title-block-banner-color: "#FFFFFF"
-format: html
-
+title-block-banner: "#2D6B97"
+title-block-banner-color: "#BBDBEC"
 ---
 
 ## Definition

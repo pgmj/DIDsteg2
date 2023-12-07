@@ -1,9 +1,9 @@
 ---
-title-block-banner: "#009ca6"
-title-block-banner-color: "#FFFFFF"
+title-block-banner: "#2D6B97"
+title-block-banner-color: "#BBDBEC"
 format: 
   html:
-    toc: true
+    toc: false
 ---
 
 ## Bakgrund {.unnumbered}
@@ -24,3 +24,4 @@ Ett verktyg för att:
 4.  implementera insatser och program
 
 Utgår från lagstiftning, forskning och myndigheters kunskapsunderlag
+
