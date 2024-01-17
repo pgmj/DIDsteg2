@@ -20,18 +20,461 @@ En god relation mellan barn och föräldrar minskar dessutom risken för en rad 
 
 ### Utökat hembesöksprogram 
 
-Kort beskrivning av insatsen varför är det kan vara en bra insats
+Kort beskrivning av insatsen varför är det kan vara en bra insats...
 
-Samt länkar till material.
+Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
 
-### Familjecentral av hög kvalitet 
+**Checklista för hembesöksprogram:**
+
+☐  Erbjuds utökat hembesöksprogram i vår kommun?
+
+☐  Finns det mål/strategier för arbetet med utökat hembesöksprogram?
+
+☐  Vilka aktörer ingår i det utökade hembesöksprogrammet?
+
+☐  Finns långsiktig finansiering för arbetet?
+
+☐  Vilka förutsättningar/plattformar för samverkan finns?
+
+☐  Vilka målgrupper erbjuds det utökade hembesöksprogrammet?
+
+☐  Görs uppföljning av vilka som deltar i det utökade hembesöksprogrammet? Nås rätt målgrupp?
+
+☐  Följs effekterna upp?
+
+**Indikatorer:**
+
+- Ej identifierat i dagsläget.
+
+**Läs mer:**
+
+- [download(ki.se)](https://ki.se/media/77454/download)
+
+- [Forskning - Växa tryggt (kfsk.se)](https://kfsk.se/vaxatryggt/forskning/)
+
+- [Rapport-FHM-utokat-barnhalsovardsprogram.pdf](http://dok.slso.sll.se/CES/FHG/Rapport-FHM-utokat-barnhalsovardsprogram.pdf)
+
+- [Det utökade hembesöksprogrammet - diskussionsunderlag.docx (uppdragpsykiskhalsa.se)](https://goteborgsregionen.se/kunskapsbank/foraldrastodjarnasarbeteibarnhalsovarden.5.35b4a66318002ba975a13312.html)
+
+- [Betydelser och effekter av utökade hembesök i Göteborg | Göteborgsregionen (GR) (goteborgsregionen.se)](https://goteborgsregionen.se/kunskapsbank/betydelserocheffekteravutokadehembesokigoteborg.5.28065c9318a25ff30f8d89a.html)
+
+- [Extended postnatal home visiting programme | Karolinska Institutet (ki.se)](https://ki.se/en/gph/extended-postnatal-home-visiting-programme)
+
+- [Utökat hembesöksprogram för förstagångsföräldrar i Rinkeby – samverkan mellan barnhälsovård och socialtjänst | NVC (nordicwelfare.org)](https://nordicwelfare.org/integration-norden/exempel/utokat-hembesoksprogram-for-forstagangsforaldrar-i-rinkeby-samverkan-mellan-barnhalsovard-och-socialtjanst/)
+
+- [Uppdrag att stödja och stimulera barnhälsovårdens förebyggande arbete med hembesöksprogram - Regeringen.se](https://www.regeringen.se/regeringsuppdrag/2023/05/uppdrag-att-stodja-och-stimulera-barnhalsovardens-forebyggande-arbete-med-hembesoksprogram/)
+
+- [RISE (2021). Risk och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen? OSF](https://osf.io/ntcw3)
+
+### Familjecentral av hög kvalitet
+
+Kort beskrivning av insatsen varför är det kan vara en bra insats...
+
+Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+
+**Checklista för familjecentral av hög kvalitet:**
+
+☐  Finns det en eller flera familjecentraler i kommunen?
+
+☐  Finns det mål/strategier för arbetet med familjecentraler?
+
+☐  Finns långsiktig finansiering av familjecentraler?
+
+☐  Finns det en struktur för arbetet? Ex. samordnare, kompentensutveckling?
+
+☐  Var i kommunen är FC placerad? Tillgänglighet?
+
+☐  Vilka förutsättningar för samverkan finns?
+
+☐  Görs uppföljning av vilka som besöker familjecentralen?
+
+☐  Följs effekterna upp? 
+
+**Indikatorer:**
+
+- Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun.
+
+**Läs mer om familjecentraler:**
+
+- Abrahamsson A, Bing V. Vad är en familjecentral? Socialmedicinsk tidskrift. 2011;88(2):98-9. 
+
+- Kouvonen P, editor. Nordens barn - utvecklingen av nordiska familjecentraler. Stockholm: Nordens välfärdscenter; 2012.
+
+- [Family centre practice and modernity - a qualitative study from Sweden](https://www.diva-portal.org/smash/get/diva2:407369/FULLTEXT01.pdf)
+
+- Bing V. Historisk utveckling av familjecentraler i Sverige och Norden. In: Kekkonen M, Montonen M, Viitala R, editors. Familjecenter i Norden – en resurs för barn och familjer. Köpenhamn: Nordiska ministerrådet; 2011. 
+
+- [Föreningen för familjecentralers främjande (FFFF). Vad är en familjecentral?](https://familjecentraler.se/foreningen/vad-ar-en-familjecentral/)
+
+- [Socialstyrelsen. Familjecentraler: kartläggning och kunskapsöversikt. Stockholm; 2008.](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-9-8728.pdf)
+
+- [Rikshandboken Barnhälsovård. Samverkan på familjecentral](https://www.rikshandboken-bhv.se/metoder--riktlinjer/samverkan/familjecentraler)
+
+- [Föreningen för familjecentralers främjande (FFFF). Vad är en familjecentral?](https://familjecentraler.se/foreningen/vad-ar-en-familjecentral/)
+
+- Trumberg A. Vad är känt om betydelsen av familjecentralers arbete för att främja barn och familjers hälsa och välmående? Folkhälsomyndigheten (ej publicerad)
+
+- [Föreningen för familjecentralers främjande (FFFF). Nationell vägledning Familjecentral Samverkan för barns bästa!](https://utveckling.regionorebrolan.se/contentassets/28b5fc54d5454595ae632c79c415a178/nationell-vagledning-familjecentral---samverkan-for-barns-basta.pdf)
+
 ### Föräldragrupp MHV/BHV
+
+Kort beskrivning av insatsen varför är det kan vara en bra insats...
+
+**Checklista för föräldragrupp MHV/BHV:**
+
+☐  Erbjuds föräldrar i kommunen föräldragrupp via MHV respektive BHV?
+
+☐  Vilka förutsättningar finns för samverkan mellan region och kommun? 
+
+☐  Vilka föräldrar erbjuds föräldragrupp via MHV resp. BHV?
+
+☐  Görs uppföljning av vilka som deltar i föräldragrupper på MHV resp. BHV?
+
+☐  Följs effekterna upp?
+
+**Indikatorer:**
+
+- Andel kvinnor respektive partner som deltagit i föräldrastöd efter typ av region. 
+- Andel kvinnor och män som deltagit i föräldragrupp på BHV av totalt antal födda barn per region.
+
+**Läs mer om föräldragrupper MVC/BVC**
+
+- [Föräldraskapsstöd i grupp - översikt - Rikshandboken i barnhälsovård (rikshandboken-bhv.se)](https://www.rikshandboken-bhv.se/metoder--riktlinjer/foraldraskapsstod-i-grupp/)
+
+- [Föräldragrupper inom mödra- och barnhälsovård (diva-portal.org)](https://www.diva-portal.org/smash/get/diva2:1599399/FULLTEXT01.pdf)
+
+- [Föräldrastöd inom hälso- och sjukvård (socialstyrelsen.se)](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2015-12-38.pdf)
+
 ### Öppen förskola av hög kvalitet
+
+Kort beskrivning av insatsen varför är det kan vara en bra insats...
+
+**Checklista för öppen förskola av hög kvalitet:**
+
+☐  Erbjuds utökat hembesöksprogram i vår kommun?
+
+☐  Finns det en eller flera öppna förskolor i kommunen? 
+
+☐  Vem är huvudman?
+
+☐  Är de samlokaliserade med andra verksamheter? 
+
+☐  Finns det mål/strategier för arbetet med öppen förskola?
+
+☐  Finns långsiktig finansiering av den öppna förskolan?
+
+☐  Finns det en struktur för arbetet? Ex. samordnare, kompentensutveckling?
+
+☐  Var i kommunen är den öppna förskolan placerad? Tillgänglighet?
+
+☐  Vilka förutsättningar för samverkan finns? 
+
+☐  Görs uppföljning av vilka som besöker den öppna förskolan?  
+
+☐  Följs effekterna upp? 
+
+**Lagstiftning:**
+
+*Skollagen 25 kap. 3 §*
+
+En kommun får anordna öppen förskola som komplement till förskola och pedagogisk omsorg. Den öppna förskolan ska erbjuda barn en pedagogisk verksamhet i samarbete med de till barnen medföljande vuxna samtidigt som de vuxna ges möjlighet till social gemenskap.
+
+**Indikatorer:**
+
+- Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun.
+
+**Läs mer:**
+
+- [Öppen förskola - Startsida (mfof.se)](https://www.mfof.se/foraldraskapsstod/arenor-for-foraldraskapsstod/oppen-forskola.html)
+
+- [Öppen förskola för språk och integration | SKR](https://skr.se/skr/skolakulturfritid/forskolagrundochgymnasieskolakomvux/oppenforskolaforsprakochintegration.46558.html)
+
+- [Öppen förskola öppnar många dörrar (skr.se)](https://www.skolverket.se/regler-och-ansvar/ansvar-i-skolfragor/ratt-till-forskola)
+
+- [Rätt till förskola – Skolverket](https://ki.se/media/77454/download)
+
+- [Allmänna råd med kommentarer för öppen förskola (skolverket.se)](https://www.skolverket.se/download/18.6bfaca41169863e6a6538f8/1553956773578/pdf607.pdf)
+
 ### Individuella föräldrastödssamtal
-### Universella föräldrastödsprogram 
+
+Kort beskrivning av insatsen varför är det kan vara en bra insats...
+
+**Checklista för individuella föräldrastödssamtal:**
+
+☐  Erbjuder socialtjänsten individuella föräldrastödssamtal utan behovsprövning
+
+☐  Finns det mål/strategier för arbetet med individuella stödsamtal?
+
+☐  Finns långsiktig finansiering av individuella stödsamtal?
+
+☐  Finns det en struktur för arbetet? Ex. samordnare, kompentensutveckling?
+
+☐  Vilka förutsättningar för samverkan finns? 
+
+☐  Görs uppföljning av vilka som tar del av samtalen? 
+
+☐  Följs effekterna upp? 
+
+**Lagstiftning:**
+
+**Indikatorer:**
+
+- Ej identifierat i dagsläget.
+
+**Läs mer om individuella föräldrastödssamtal:**
+
+- [Socialtjänst - Startsida (mfof.se)](https://mfof.se/foraldraskapsstod/arenor-for-foraldraskapsstod/socialtjanst.html)
+
+### Universella föräldrastödsprogram
+
+Kort beskrivning av insatsen varför är det kan vara en bra insats...
+
+Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+
+**Checklista för universella föräldrastödsprogram:**
+
+☐  Finns det mål/strategier för arbetet med universella föräldraskapsstödsprogram?
+
+☐  Erbjuds universella föräldraskapsstödsprogram i kommunen? Vilka? 
+
+☐  Vilka aktörer erbjuder universella föräldraskapsstödsprogram?
+
+☐  På vilka arenor erbjuds föräldraskapsstödsprogram?
+
+☐  Finns långsiktig finansiering för universella föräldraskapsstödsprogram? 
+
+☐  Finns struktur för arbetet? Ex. återkommande utbildning av gruppledare, samordnare, kompentensutveckling?
+
+☐  Vilka förutsättningar för samverkan finns? 
+
+☐  Antal yrkespersoner utbildade i föräldraskapsstödsprogram X och X.
+
+☐  Antal föräldrar som kan erbjudas universella föräldraskapsstödsprogram?
+
+☐  Görs återkommande uppföljningar av vilka som deltar? 
+
+☐  Följs effekterna upp?
+
+**Lagstiftning:**
+
+**Indikatorer:**
+
+- Ej identifierat i dagsläget.
+
+**Läs mer om universella föräldrastödsprogram:**
+
+- [Effekter av föräldraskapsstöd - Startsida (mfof.se)](https://mfof.se/foraldraskapsstod/effekter-av-foraldraskapsstod.html)
+
+- [Föräldraskapsstöd kan främja lärande och hälsa – Skolverket](https://www.skolverket.se/skolutveckling/forskning-och-utvarderingar/artiklar-om-forskning/foraldraskapsstod-kan-framja-larande-och-halsa)
+
+- [Främjande av psykiskt välbefinnande hos barn och ungdomar (sbu.se)](https://www.sbu.se/sv/publikationer/SBU-utvarderar/framjande-av-psykiskt-valbefinnande-hos-barn-och-ungdomar/)
+
+- [RISE (2021). Risk och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?](https://osf.io/ntcw3)
+
 ### Riktade föräldrastödsprogram
+
+Kort beskrivning av insatsen varför är det kan vara en bra insats...
+
+Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+
+**Checklista för ...:**
+
+☐  Finns det mål/strategier för arbetet med riktade föräldraskapsstödsprogram?
+ 
+☐  Erbjuds riktade föräldraskapsstödsprogram i vår kommun? Vilka?
+
+☐  Vilka aktörer erbjuder riktade föräldraskapsstödsprogram?
+
+☐  Finns långsiktig finansiering för riktade föräldraskapsstödsprogram?
+
+☐  Finns struktur för arbetet? Ex. återkommande utbildning av gruppledare, samordnare, kompentensutveckling?
+
+☐  Vilka förutsättningar för samverkan finns? 
+
+☐  Antal yrkespersoner utbildade i föräldraskapsstödsprogram X och X.
+
+☐  Antal föräldrar som kan erbjudas universella föräldraskapsstödsprogram?
+
+☐  Görs återkommande uppföljningar av vilka som deltar? 
+
+☐  Följs effekterna upp?
+
+**Lagstiftning:**
+
+**Indikatorer:**
+
+- Andel kommuner/stadsdelar som erbjuder minst ett manualbaserat föräldrastöd i grupp för barn med bråkigt/normbrytande beteende, per län.  
+
+**Läs mer:**
+
+- [Foraldraskapsstod_for_nyanlanda_foraldrar_–_vad_fungerar.pdf (goteborgsregionen.se)](https://goteborgsregionen.se/download/18.22a3cc881780d1faddf1b9f/1615394403965/Foraldraskapsstod_for_nyanlanda_foraldrar_%E2%80%93_vad_fungerar.pdf)
+
+- [Förebyggande arbete, stöd och insatser – Kunskapsguiden](https://kunskapsguiden.se/omraden-och-teman/arbetsmetoder-och-perspektiv/interkulturellt-perspektiv/forebyggande-arbete-stod-och-insatser/)
+
+- [Program och metoder för föräldraskapsstöd - söksida - Startsida (mfof.se)](https://mfof.se/foraldraskapsstod/program-och-metoder-for-foraldraskapsstod---soksida.html#query/*)
+
+- [Program för att förebygga psykisk ohälsa hos barn. Stockholm: SBU, 2021. SBU-rapport nr 339](https://www.sbu.se/sv/publikationer/SBU-utvarderar/program-for-att-forebygga-psykisk-ohalsa-hos-barn2/)
+
+- [Program för att förebygga suicid och suicidförsök hos barn. Stockholm: SBU, 2021. SBU-rapport nr 336](https://www.sbu.se/sv/publikationer/SBU-utvarderar/program-for-att-forebygga-suicid-och-suicidforsok-hos-barn/)
+
+- [Föräldrastödsprogram vid utagerande beteende hos barn: effekter och verksamma komponenter (sbu.se)](https://www.sbu.se/2019_08?pub=40790)
+
+- [RISE (2021). Risk och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?](https://osf.io/ntcw3)
+
 ### Föräldraföreläsningar
-### Samverkan förskola/skola –  föräldrar
+
+Kort beskrivning av insatsen varför är det kan vara en bra insats...
+
+Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+
+**Checklista för föräldraföreläsningar:**
+
+☐  Erbjuds föräldraföreläsningar regelbundet till föräldrar i kommunen? 
+
+☐  Vilka teman handlar föräldraföreläsningarna om? 
+
+☐  Finns det mål/strategier för arbetet med föräldraföreläsningar?
+
+☐  Finns långsiktig finansiering av föräldraföreläsningar?
+
+☐  Finns det en struktur för arbetet? Ex. samordnare, kompentensutveckling?
+
+☐  Vilka förutsättningar för samverkan finns? 
+
+☐  Görs uppföljning av vilka som tar del av föräldraföreläsningarna? 
+
+☐  Följs effekterna upp? 
+
+**Lagstiftning:**
+
+**Indikatorer:**
+
+- Ej identifierat i dagsläget.
+
+**Läs mer:**
+
+- [Inspirationsföreläsning gör nyblivna föräldrar tryggare - | forskning.se ](https://www.forskning.se/2020/08/25/inspirationsforelasning-gor-nyblivna-foraldrar-tryggare/)
+
+### Samverkan förskola/skola och föräldrar
+
+Kort beskrivning av insatsen varför är det kan vara en bra insats...
+
+Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+
+**Checklista för samverkan förskola/skola och föräldrar:**
+
+☐  Finns det en kommunövergripande plan för förskolans och skolans samverkan med föräldrar
+
+☐  Har respektive förskola/skola en gemensam strategi för att möjliggöra för hem och vårdnadshavare att bli delaktiga i frågor som rör elevens skolgång?
+
+☐  Har respektive förskola/skola gemensamma förhållningssätt i kontakter med vårdnadshavare och hemmen?
+
+☐  Erbjuds kunskapshöjande insatser om föräldraskapsstöd och föräldrasamverkan?  
+
+☐  På vilket sett sker samverkan med vårdnadshavare och hemmet?
+
+☐  Finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård?
+
+☐  Hur följs det arbetet upp?
+
+**Lagstiftning:**
+
+*Skollagen 1 kap. 4 §*
+Utbildningen syftar också till att i samarbete med hemmen främja barns och elevers allsidiga personliga utveckling till aktiva, kreativa, kompetenta och ansvarskännande individer och medborgare.
+
+
+**Indikatorer:**
+
+- Ej identifierat i dagsläget.
+
+**Läs mer om samverkan mellan förskola/skola och föräldrar:**
+
+- [Skolan och hemmet – exempel och forskning om lärares samarbete med elevernas vårdnadshavare](https://www.skolverket.se/publikationsserier/stodmaterial/2015/skolan-och-hemmet)
+
+- [Koll på samverkan med hem och vårdnadshavare](https://www.skolverket.se/skolutveckling/inspiration-och-stod-i-arbetet/stod-i-arbetet/koll-pa-samverkan-med-hem-och-vardnadshavare)
+
+- [Synligt lärande](https://skr.se/download/18.7c1c4ddb17e3d28cf9ba687f/1643196854985/7164-706-1.pdf)
+
+- [Del 2 - Samarbete och kommunikation för elevernas bästa (spsm.se)](https://www.spsm.se/systematik-for-tidiga-stodinsatser/del-4---att-prova-och-omprova-tillsammans/samarbete-och-kommunikation-for-elevernas-basta/)
+
+- [Moment 3 – Samverkan för lärande (spsm.se)](https://spsm.se/studiepaket-amnesomraden/moment-3/)
+
 ### Tidiga samordnade insatser
+
+TSI kan ses som ett paraplybegrepp för strukturerad samverkan för tidigt och förebyggande arbete. Arbete som bedrivs gemensamt för att åstadkomma tidiga och samordnade insatser till barn och unga och involverar exempelvis skola, hälso- och sjukvård, socialtjänst, fritidsverksamhet och polis. TSI är alltså inte en specifik metod, utan en form för strukturerad samverkan. Grunden för arbetet med TSI är att samla kompetens från flera verksamheter för att få en helhetsbild av barnets eller den unges behov av stöd och lämpliga insatser.
+
+Alla vinner på att en ogynnsam utveckling hos barn och unga vänds, ju förr desto bättre. Det samhället investerar i barn och unga i ett tidigt skede har vi igen mångfalt senare. Att få tillgång till tidiga insatser kan på individnivå förebygga framtida utanförskap, till exempel i form av fysisk och psykisk ohälsa, arbetslöshet, missbruk och kriminalitet. Här finns också stora vinster på samhällsnivå att hämta. (Socialstyrelsen och Skolverket, 2023)
+
+**Checklista för tidiga samordnade insatser:**
+
+☐  Finns det en kommunövergripande plan för arbetet med tidiga samordnade insatser
+
+☐  Finns en samverkansöverenskommelse? I så fall mellan vilka aktörer?
+
+☐  Finns ett tvärsektoriellt team? I så fall, hur är uppdraget formulerat, vilka ingår, hur är ansvar och roller fördelade?
+
+☐  Erbjuds kunskapshöjande insatser om tidiga samordnade insatser? Målgupp? 
+
+☐  På vilket sett involveras vårdnadshavare?
+
+☐  På vilket sätt involveras barn och unga?
+
+☐  Finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård?
+
+☐  Vilken målgrupp nås av tidiga samordnade insatser? 
+
+☐  Hur följs det arbetet upp?
+
+**Lagstiftning:**
+
+**Indikatorer:**
+
+- Ej identifierat i dagsläget.
+
+**Läs mer:**
+
+- [Om tidiga och samordnade insatser – Kunskapsguiden](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/om-tidiga-och-samordnade-insatser/)
+
+- [Skottlandsmodellen – Kunskapsguiden](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/skottlandsmodellen/)
+
+- [TSI-boken – Stöd i arbetet med tidiga och samordnade insatser för barn och unga (socialstyrelsen.se)](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-10-8779.pdf)
+
 ### Familjerådgivning
+
+Kort beskrivning av insatsen varför är det kan vara en bra insats...
+
+Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+
+**Checklista för ...:**
+
+☐  Erbjuds utökat hembesöksprogram i vår kommun?
+
+**Lagstiftning:**
+
+**Indikatorer:**
+
+- Ej identifierat i dagsläget.
+
+**Läs mer:**
+
+- [download(ki.se)](https://ki.se/media/77454/download)
+
 ### Samarbetssamtal
+
+Kort beskrivning av insatsen varför är det kan vara en bra insats...
+
+Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+
+**Checklista för ...:**
+
+☐  Erbjuds utökat hembesöksprogram i vår kommun?
+
+**Lagstiftning:**
+
+**Indikatorer:**
+
+- Ej identifierat i dagsläget.
+
+**Läs mer:**
+
+- [download(ki.se)](https://ki.se/media/77454/download)
