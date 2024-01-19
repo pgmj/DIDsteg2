@@ -14,9 +14,9 @@ book:
   chapters:
   - index.qmd
   - fldr.qmd
-  # - skola.qmd
-  # - fritid.qmd
-  # - community.qmd
+  - skola.qmd
+  - fritid.qmd
+  - community.qmd
 
 format:
   html:

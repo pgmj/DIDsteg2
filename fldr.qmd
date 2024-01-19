@@ -46,7 +46,7 @@ Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogra
 
 - Ej identifierat i dagsläget.
 
-**Läs mer:**
+**Läs mer om hembesöksprogram:**
 
 - [download(ki.se)](https://ki.se/media/77454/download)
 
@@ -183,7 +183,7 @@ En kommun får anordna öppen förskola som komplement till förskola och pedago
 
 - Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun.
 
-**Läs mer:**
+**Läs mer om öppen förskola:**
 
 - [Öppen förskola - Startsida (mfof.se)](https://www.mfof.se/foraldraskapsstod/arenor-for-foraldraskapsstod/oppen-forskola.html)
 
@@ -277,7 +277,7 @@ Kort beskrivning av insatsen varför är det kan vara en bra insats...
 
 Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
 
-**Checklista för ...:**
+**Checklista för riktade föräldrastödsprogram:**
 
 ☐  Finns det mål/strategier för arbetet med riktade föräldraskapsstödsprogram?
  
@@ -305,7 +305,7 @@ Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogra
 
 - Andel kommuner/stadsdelar som erbjuder minst ett manualbaserat föräldrastöd i grupp för barn med bråkigt/normbrytande beteende, per län.  
 
-**Läs mer:**
+**Läs mer om riktade föräldrastödsprogram:**
 
 - [Foraldraskapsstod_for_nyanlanda_foraldrar_–_vad_fungerar.pdf (goteborgsregionen.se)](https://goteborgsregionen.se/download/18.22a3cc881780d1faddf1b9f/1615394403965/Foraldraskapsstod_for_nyanlanda_foraldrar_%E2%80%93_vad_fungerar.pdf)
 
@@ -351,7 +351,7 @@ Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogra
 
 - Ej identifierat i dagsläget.
 
-**Läs mer:**
+**Läs mer om föräldraföreläsningar:**
 
 - [Inspirationsföreläsning gör nyblivna föräldrar tryggare - | forskning.se ](https://www.forskning.se/2020/08/25/inspirationsforelasning-gor-nyblivna-foraldrar-tryggare/)
 
@@ -432,7 +432,7 @@ Alla vinner på att en ogynnsam utveckling hos barn och unga vänds, ju förr de
 
 - Ej identifierat i dagsläget.
 
-**Läs mer:**
+**Läs mer om tidiga samordnade insatser:**
 
 - [Om tidiga och samordnade insatser – Kunskapsguiden](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/om-tidiga-och-samordnade-insatser/)
 
@@ -444,36 +444,98 @@ Alla vinner på att en ogynnsam utveckling hos barn och unga vänds, ju förr de
 
 Familjerådgivningen är en viktig förebyggande verksamhet på flera nivåer. MFoF anser att en väl utbyggd familjerådgivning som kan ta emot människor tidigt är viktigt både samhällsekonomiskt och för den enskilde. När råd och behandling vid relationsproblem ges i ett tidigt skede minskar belastningen på andra verksamheter i samhället, såsom socialtjänst, hälso- och sjukvård och försäkringskassa. Samtidigt som det på individnivå innebär ett ökat välbefinnande och en ökad förmåga att hantera framtida relationsproblem. På universell nivå kan familjerådgivningen genom sitt utåtriktade uppdrag ge breda folkbildade insatser om relationer och relationsproblem på arenor som exempelvis mödravårdens, barnhälsovårdens och familjecentralens föräldrautbildningar. På selektiv nivå kan familjerådgivning istället rikta insatser mot särskilda grupper som identifierats av kommunen. (Myndigheten för familjerätt och föräldraskapsstöd)
 
-**Checklista för ...:**
+**Checklista för familjerådgivning:**
 
-☐  Erbjuds utökat hembesöksprogram i vår kommun?
+☐  Finns det mål/strategier för arbetet med familjerådgivning?
+
+☐  Vilken aktör erbjuder familjerådgivning?
+
+☐  Hur många föräldrar deltar årligen i familjerådgivning?
+
+☐  I vilken utsträckning ges barn möjlighet att komma till tals i samband 
+familjerådgivning?
+
+☐  Används specifika modeller, metoder, verktyg eller bedömningsinstrument under samtalen?
+
+☐  Vilken utbildning har samtalsledarna? Ges samtalsledarna möjlighet till kompetensutveckling och vidareutbildning? 
+
+☐  Vilka förutsättningar/plattformar för samverkan med andra aktörer finns? 
+
+☐  Gör ni återkommande kartläggningar för att ta reda på om det är lämpligt med familjerådgivning?
+
+☐  Görs uppföljning av vilka som deltar i familjerådgivning?
+
+☐  Följs effekterna upp? 
 
 **Lagstiftning:**
+*Socialtjänstlagen 5 kap. 3 §*
+
+Kommunen ska sörja för att familjerådgivning genom kommunens försorg eller annars genom lämplig yrkesmässig rådgivare kan erbjudas dem som begär det.
+
+Med familjerådgivning avses i denna lag en verksamhet som består i samtal med syfte att bearbeta samlevnadskonflikter i parförhållanden och familjer.
 
 **Indikatorer:**
 
-- Ej identifierat i dagsläget.
+Det finns flera indikatorer på kommunnivå. Läs mer: 
 
-**Läs mer:**
+- [Familjerådgivning (mfof.se)](https://mfof.se/statistik_familjeradgivning)
 
-- [download(ki.se)](https://ki.se/media/77454/download)
+- [Statistik familjerådgivning 2022_Teknisk rapport.pdf (mfof.se)](https://mfof.se/download/18.7fecc00c1884c539cd42e4b1/1686116419181/Statistik%20familjer%C3%A5dgivning%202022_Teknisk%20rapport.pdf)
+
+**Läs mer om familjerådgivning:**
+
+- [Familjerådgivning - Startsida (mfof.se)](https://mfof.se/familjeradgivning.html)
+
+- [Vägledning familjerådgivning februari 2022.pdf (mfof.se)](https://mfof.se/download/18.70103d0c17f2a79704e4486/1645793221507/V%C3%A4gledning%20familjer%C3%A5dgivning%20februari%202022.pdf)
 
 ### Samarbetssamtal
 
-Kort beskrivning av insatsen varför är det kan vara en bra insats...
+Familjerådgivningen är en viktig förebyggande verksamhet på flera nivåer. MFoF anser att en väl utbyggd familjerådgivning som kan ta emot människor tidigt är viktigt både samhällsekonomiskt och för den enskilde. När råd och behandling vid relationsproblem ges i ett tidigt skede minskar belastningen på andra verksamheter i samhället, såsom socialtjänst, hälso- och sjukvård och försäkringskassa. Samtidigt som det på individnivå innebär ett ökat välbefinnande och en ökad förmåga att hantera framtida relationsproblem. På universell nivå kan familjerådgivningen genom sitt utåtriktade uppdrag ge breda folkbildade insatser om relationer och relationsproblem på arenor som exempelvis mödravårdens, barnhälsovårdens och familjecentralens föräldrautbildningar. På selektiv nivå kan familjerådgivning istället rikta insatser mot särskilda grupper som identifierats av kommunen. (Myndigheten för familjerätt och föräldraskapsstöd)
 
-Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+**Checklista för samarbetssamtal:**
 
-**Checklista för ...:**
+☐  Finns det mål/strategier för arbetet med samarbetssamtal?
 
-☐  Erbjuds utökat hembesöksprogram i vår kommun?
+☐  Vilken aktör erbjuder samarbetssamtal?
+
+☐  Hur många föräldrar deltar årligen i samarbetssamtal?
+
+☐  I vilken utsträckning ges barn möjlighet att komma till tals i samband  samarbetssamtalen?
+
+☐  Används specifika modeller, metoder, verktyg eller bedömningsinstrument under samtalen?
+
+☐  Vilken utbildning har samtalsledarna? Ges samtalsledarna möjlighet till kompetensutveckling och vidareutbildning? 
+
+☐  Vilka förutsättningar/plattformar för samverkan med andra aktörer finns? 
+
+☐  Gör ni återkommande kartläggningar för att ta reda på om det är lämpligt med samarbetssamtal?
+
+☐  Görs uppföljning av vilka som deltar i samarbetssamtal?
+
+☐  Följs effekterna upp? 
 
 **Lagstiftning:**
 
+Enligt socialtjänstlagen (2001:453), (5 kap. 3 §) , ska kommunen sörja för att föräldrar kan erbjudas samtal under sakkunnig ledning i syfte att nå enighet i frågor som gäller vårdnad, boende och umgänge (samarbetssamtal). I föräldrabalken, FB infördes samtidigt en möjlighet för rätten att besluta om samarbetssamtal när en process om vårdnad och umgänge inletts.
+
 **Indikatorer:**
 
-- Ej identifierat i dagsläget.
+Det finns flera indikatorer på kommunnivå. Läs mer:
 
-**Läs mer:**
+- [Familjerätt (mfof.se)](https://mfof.se/sarskilda-innehallssidor/statistik/officiell-statistik/familjeratt.html)
 
-- [download(ki.se)](https://ki.se/media/77454/download)
+- [Statistik om familjerätt 2022_Teknisk rapport.pdf (mfof.se)](https://mfof.se/download/18.7fecc00c1884c539cd429235/1685968985912/Statistik%20om%20familjer%C3%A4tt%202022_Teknisk%20rapport.pdf)
+
+**Läs mer om samarbetssamtal:**
+
+- [Vad är samarbetssamtal? (mfof.se)](https://mfof.se/vardnad-boende-och-umgange/information-for-foraldrar/vad-ar-samarbetssamtal.html)
+
+- [Forskning om samarbetssamtal och medling.pdf (mfof.se)](https://www.mfof.se/download/18.78bdeb3e17e98c36ecf5a5f3/1643878965346/Forskning%20om%20samarbetssamtal%20och%20medling.pdf)
+
+- [Interventioner för att förebygga och hantera föräldrars konflikter och tvister kring vårdnad, boende och umgänge (socialstyrelsen.se)](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2011-6-32.pdf)
+
+- [Samarbetssamtal Kartläggning av föräldrars och samtalsledares erfarenheter (mfof.se)](https://mfof.se/download/18.7a15f94516e8e25421b18716/1574925630064/samarbetssamtal-kartlaggning.pdf)
+
+- [Samarbetssamtal och medling vid vårdnadstvist eller konflikt (sbu.se)](https://www.sbu.se/sv/publikationer/sbus-upplysningstjanst/samarbetssamtal-och-medling-vid-vardnadstvist-eller-konflikt/?pub=68399&lang=sv)
+
+- [Intervensjoner-for-a-dempe-foreldrekonflikt---en-kunnskapsoversikt.pdf (fhi.no)](https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2013/intervensjoner-for-a-dempe-foreldrekonflikt---en-kunnskapsoversikt.pdf)

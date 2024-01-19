@@ -10,6 +10,8 @@ format:
 
 Något om Data i Dialog...
 
+![](/basutbud_bild.jpg)
+
 ## Del 1: Kartläggning av förutsättningar och readiness
 
 Kanske mera info här?
@@ -24,8 +26,4 @@ Ett verktyg för att:
 4.  implementera insatser och program
 
 Utgår från lagstiftning, forskning och myndigheters kunskapsunderlag
-
-## Översikt
-
-![](/basutbud_bild.jpg)
 
