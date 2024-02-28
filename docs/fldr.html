@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.475">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -61,11 +61,22 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-    .quarto-title-block .quarto-title-banner {
-      color: #BBDBEC;
+
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: #BBDBEC;
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        color: #BBDBEC;
 background: #2D6B97;
-    }
-    </style>
+      }
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -75,11 +86,16 @@ background: #2D6B97;
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">God föräldra-barnrelation</span></h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./fldr.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">God föräldra-barnrelation</span></a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -88,7 +104,7 @@ background: #2D6B97;
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title d-none d-lg-block"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">God föräldra-barnrelation</span></h1>
+      <h1 class="title"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">God föräldra-barnrelation</span></h1>
                       </div>
   </div>
     
@@ -103,72 +119,77 @@ background: #2D6B97;
   
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Data i Dialog - basutbud</a> 
         <div class="sidebar-tools-main">
-    <a href="https://github.com/pgmj" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/pgmj" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
 </div>
     </div>
       </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">Bakgrund</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Bakgrund</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./fldr.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">God föräldra-barnrelation</span></a>
+  <a href="./fldr.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">God föräldra-barnrelation</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./skola.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Måluppfyllelse i skolan</span></a>
+  <a href="./skola.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Måluppfyllelse i skolan</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./fritid.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">En meningsfull fritid</span></a>
+  <a href="./fritid.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">En meningsfull fritid</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./community.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Ett tryggt närsamhälle</span></a>
+  <a href="./community.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Ett tryggt närsamhälle</span></span></a>
   </div>
 </li>
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Innehållsförteckning</h2>
    
   <ul>
-  <li><a href="#definition" id="toc-definition" class="nav-link active" data-scroll-target="#definition"><span class="toc-section-number">1.1</span>  Definition</a></li>
-  <li><a href="#kärnbudskap" id="toc-kärnbudskap" class="nav-link" data-scroll-target="#kärnbudskap"><span class="toc-section-number">1.2</span>  Kärnbudskap</a></li>
-  <li><a href="#basutbud" id="toc-basutbud" class="nav-link" data-scroll-target="#basutbud"><span class="toc-section-number">1.3</span>  Basutbud</a>
+  <li><a href="#definition-skyddsfaktor" id="toc-definition-skyddsfaktor" class="nav-link active" data-scroll-target="#definition-skyddsfaktor"><span class="header-section-number">1.1</span> Definition Skyddsfaktor</a></li>
+  <li><a href="#basutbud" id="toc-basutbud" class="nav-link" data-scroll-target="#basutbud"><span class="header-section-number">1.2</span> Basutbud</a>
   <ul class="collapse">
-  <li><a href="#utökat-hembesöksprogram" id="toc-utökat-hembesöksprogram" class="nav-link" data-scroll-target="#utökat-hembesöksprogram"><span class="toc-section-number">1.3.1</span>  Utökat hembesöksprogram</a></li>
-  <li><a href="#familjecentral-av-hög-kvalitet" id="toc-familjecentral-av-hög-kvalitet" class="nav-link" data-scroll-target="#familjecentral-av-hög-kvalitet"><span class="toc-section-number">1.3.2</span>  Familjecentral av hög kvalitet</a></li>
-  <li><a href="#föräldragrupp-mhvbhv" id="toc-föräldragrupp-mhvbhv" class="nav-link" data-scroll-target="#föräldragrupp-mhvbhv"><span class="toc-section-number">1.3.3</span>  Föräldragrupp MHV/BHV</a></li>
-  <li><a href="#öppen-förskola-av-hög-kvalitet" id="toc-öppen-förskola-av-hög-kvalitet" class="nav-link" data-scroll-target="#öppen-förskola-av-hög-kvalitet"><span class="toc-section-number">1.3.4</span>  Öppen förskola av hög kvalitet</a></li>
-  <li><a href="#individuella-föräldrastödssamtal" id="toc-individuella-föräldrastödssamtal" class="nav-link" data-scroll-target="#individuella-föräldrastödssamtal"><span class="toc-section-number">1.3.5</span>  Individuella föräldrastödssamtal</a></li>
-  <li><a href="#universella-föräldrastödsprogram" id="toc-universella-föräldrastödsprogram" class="nav-link" data-scroll-target="#universella-föräldrastödsprogram"><span class="toc-section-number">1.3.6</span>  Universella föräldrastödsprogram</a></li>
-  <li><a href="#riktade-föräldrastödsprogram" id="toc-riktade-föräldrastödsprogram" class="nav-link" data-scroll-target="#riktade-föräldrastödsprogram"><span class="toc-section-number">1.3.7</span>  Riktade föräldrastödsprogram</a></li>
-  <li><a href="#föräldraföreläsningar" id="toc-föräldraföreläsningar" class="nav-link" data-scroll-target="#föräldraföreläsningar"><span class="toc-section-number">1.3.8</span>  Föräldraföreläsningar</a></li>
-  <li><a href="#samverkan-förskolaskola-och-föräldrar" id="toc-samverkan-förskolaskola-och-föräldrar" class="nav-link" data-scroll-target="#samverkan-förskolaskola-och-föräldrar"><span class="toc-section-number">1.3.9</span>  Samverkan förskola/skola och föräldrar</a></li>
-  <li><a href="#tidiga-samordnade-insatser" id="toc-tidiga-samordnade-insatser" class="nav-link" data-scroll-target="#tidiga-samordnade-insatser"><span class="toc-section-number">1.3.10</span>  Tidiga samordnade insatser</a></li>
-  <li><a href="#familjerådgivning" id="toc-familjerådgivning" class="nav-link" data-scroll-target="#familjerådgivning"><span class="toc-section-number">1.3.11</span>  Familjerådgivning</a></li>
-  <li><a href="#samarbetssamtal" id="toc-samarbetssamtal" class="nav-link" data-scroll-target="#samarbetssamtal"><span class="toc-section-number">1.3.12</span>  Samarbetssamtal</a></li>
+  <li><a href="#utökat-hembesöksprogram" id="toc-utökat-hembesöksprogram" class="nav-link" data-scroll-target="#utökat-hembesöksprogram"><span class="header-section-number">1.2.1</span> Utökat hembesöksprogram</a></li>
+  <li><a href="#familjecentral-av-hög-kvalitet" id="toc-familjecentral-av-hög-kvalitet" class="nav-link" data-scroll-target="#familjecentral-av-hög-kvalitet"><span class="header-section-number">1.2.2</span> Familjecentral av hög kvalitet</a></li>
+  <li><a href="#föräldragrupp-mhvbhv" id="toc-föräldragrupp-mhvbhv" class="nav-link" data-scroll-target="#föräldragrupp-mhvbhv"><span class="header-section-number">1.2.3</span> Föräldragrupp MHV/BHV</a></li>
+  <li><a href="#öppen-förskola-av-hög-kvalitet" id="toc-öppen-förskola-av-hög-kvalitet" class="nav-link" data-scroll-target="#öppen-förskola-av-hög-kvalitet"><span class="header-section-number">1.2.4</span> Öppen förskola av hög kvalitet</a></li>
+  <li><a href="#individuella-föräldrastödssamtal" id="toc-individuella-föräldrastödssamtal" class="nav-link" data-scroll-target="#individuella-föräldrastödssamtal"><span class="header-section-number">1.2.5</span> Individuella föräldrastödssamtal</a></li>
+  <li><a href="#universella-föräldrastödsprogram" id="toc-universella-föräldrastödsprogram" class="nav-link" data-scroll-target="#universella-föräldrastödsprogram"><span class="header-section-number">1.2.6</span> Universella föräldrastödsprogram</a></li>
+  <li><a href="#riktade-föräldrastödsprogram" id="toc-riktade-föräldrastödsprogram" class="nav-link" data-scroll-target="#riktade-föräldrastödsprogram"><span class="header-section-number">1.2.7</span> Riktade föräldrastödsprogram</a></li>
+  <li><a href="#föräldraföreläsningar" id="toc-föräldraföreläsningar" class="nav-link" data-scroll-target="#föräldraföreläsningar"><span class="header-section-number">1.2.8</span> Föräldraföreläsningar</a></li>
+  <li><a href="#samverkan-förskolaskola-och-föräldrar" id="toc-samverkan-förskolaskola-och-föräldrar" class="nav-link" data-scroll-target="#samverkan-förskolaskola-och-föräldrar"><span class="header-section-number">1.2.9</span> Samverkan förskola/skola och föräldrar</a></li>
+  <li><a href="#tidiga-samordnade-insatser" id="toc-tidiga-samordnade-insatser" class="nav-link" data-scroll-target="#tidiga-samordnade-insatser"><span class="header-section-number">1.2.10</span> Tidiga samordnade insatser</a></li>
+  <li><a href="#familjerådgivning" id="toc-familjerådgivning" class="nav-link" data-scroll-target="#familjerådgivning"><span class="header-section-number">1.2.11</span> Familjerådgivning</a></li>
+  <li><a href="#samarbetssamtal" id="toc-samarbetssamtal" class="nav-link" data-scroll-target="#samarbetssamtal"><span class="header-section-number">1.2.12</span> Samarbetssamtal</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -179,61 +200,59 @@ background: #2D6B97;
 
 
 
-<section id="definition" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="definition"><span class="header-section-number">1.1</span> Definition</h2>
-<p>En god relation mellan barn och föräldrar kännetecknas av ett gott samspel mellan föräldrar och barn och en trygg anknytning där föräldrarna har förmåga att lyhörda för barnets signaler och svara på dem på ett adekvat sätt, men också av föräldrarnas förmåga att sätta gränser för sina barn.</p>
-<p>Ett gott samspel och en trygg anknytningen främjas genom värme, kärlek, bekräftelse, lyhördhet och närvaro. Det är också en förutsättning för att kunna sätta gränser som barnet respekterar.</p>
+<section id="definition-skyddsfaktor" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="definition-skyddsfaktor"><span class="header-section-number">1.1</span> Definition Skyddsfaktor</h2>
+<p>En god relation mellan barn och föräldrar kännetecknas av ett gott samspel mellan föräldrar och barn med värme, närvaro, bekräftelse och tydliga ramar från föräldrarnas sida.</p>
+<p>Ett gott samspel främjas enligt forskningen genom att föräldrarna ger tillräckligt med positiv uppmärksamhet och att denna överväger den negativa uppmärksamheten i form av tjat och tillsägelser. En god relation är också en förutsättning för att kunna sätta gränser som barnet respekterar.</p>
+<p>En god föräldra-barnrelation är en av de viktigaste skyddsfaktorerna för barn och unga. Det främjar en god fysisk, psykisk, kognitiv och social utveckling och ökar sannolikheten för en god psykisk och fysisk hälsa genom hela livet. En god relation mellan barn och föräldrar minskar dessutom de negativa konsekvenserna av olika påfrestningar och riskbeteenden hos barnen och skyddet består långt upp i åldrarna.</p>
 </section>
-<section id="kärnbudskap" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="kärnbudskap"><span class="header-section-number">1.2</span> Kärnbudskap</h2>
-<p>En god föräldra-barnrelation är en av de viktigaste skyddsfaktorerna för barn och unga. Det främjar en god fysisk, psykisk, kognitiv och social utveckling och ökar sannolikheten för en god och jämlik hälsa genom hela livet.</p>
-<p>En god relation mellan barn och föräldrar minskar dessutom risken för en rad olika hälsoproblem och riskbeteenden hos barnen och skyddet består långt upp i livet.</p>
-</section>
-<section id="basutbud" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="basutbud"><span class="header-section-number">1.3</span> Basutbud</h2>
-<section id="utökat-hembesöksprogram" class="level3" data-number="1.3.1">
-<h3 data-number="1.3.1" class="anchored" data-anchor-id="utökat-hembesöksprogram"><span class="header-section-number">1.3.1</span> Utökat hembesöksprogram</h3>
+<section id="basutbud" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="basutbud"><span class="header-section-number">1.2</span> Basutbud</h2>
+<p>Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag bör erbjuda för att stärka skyddsfaktorn En god föräldra-barn relation.</p>
+<section id="utökat-hembesöksprogram" class="level3" data-number="1.2.1">
+<h3 data-number="1.2.1" class="anchored" data-anchor-id="utökat-hembesöksprogram"><span class="header-section-number">1.2.1</span> Utökat hembesöksprogram</h3>
 <p>Kort beskrivning av insatsen varför är det kan vara en bra insats…</p>
 <p>Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X</p>
 <p><strong>Checklista för hembesöksprogram:</strong></p>
-<p>☐ Erbjuds utökat hembesöksprogram i vår kommun?</p>
-<p>☐ Finns det mål/strategier för arbetet med utökat hembesöksprogram?</p>
-<p>☐ Vilka aktörer ingår i det utökade hembesöksprogrammet?</p>
-<p>☐ Finns långsiktig finansiering för arbetet?</p>
-<p>☐ Vilka förutsättningar/plattformar för samverkan finns?</p>
-<p>☐ Vilka målgrupper erbjuds det utökade hembesöksprogrammet?</p>
-<p>☐ Görs uppföljning av vilka som deltar i det utökade hembesöksprogrammet? Nås rätt målgrupp?</p>
-<p>☐ Följs effekterna upp?</p>
+<p>☐ Utökat hembesöksprogram erbjuds i vår kommun (sidlogik som slussar vidare de som svarat ja)</p>
+<p>☐ Det finns mål/strategier för arbetet med utökat hembesöksprogram</p>
+<p>☐ Vilka aktörer ingår i det utökade hembesöksprogrammet? (ta bort?)</p>
+<p>☐ Det finns långsiktig finansiering för arbetet</p>
+<p>☐ Vilka förutsättningar/plattformar för samverkan finns? (ta bort?)</p>
+<p>☐ Vilka målgrupper erbjuds det utökade hembesöksprogrammet? (ta bort)</p>
+<p>☐ Det görs uppföljning av vilka som deltar i det utökade hembesöksprogrammet.</p>
+<p>☐ Nås rätt målgrupp? (tas bort)</p>
+<p>☐ Effekterna följs upp</p>
 <p><strong>Indikatorer:</strong></p>
 <ul>
 <li>Ej identifierat i dagsläget.</li>
 </ul>
-<p><strong>Läs mer om hembesöksprogram:</strong></p>
+<p><strong>Läs mer om hembesöksprogram:</strong> (fixa med rubrik/underrubrik på alla)</p>
 <ul>
-<li><p><a href="https://ki.se/media/77454/download">download(ki.se)</a></p></li>
-<li><p><a href="https://kfsk.se/vaxatryggt/forskning/">Forskning - Växa tryggt (kfsk.se)</a></p></li>
-<li><p><a href="http://dok.slso.sll.se/CES/FHG/Rapport-FHM-utokat-barnhalsovardsprogram.pdf">Rapport-FHM-utokat-barnhalsovardsprogram.pdf</a></p></li>
-<li><p><a href="https://goteborgsregionen.se/kunskapsbank/foraldrastodjarnasarbeteibarnhalsovarden.5.35b4a66318002ba975a13312.html">Det utökade hembesöksprogrammet - diskussionsunderlag.docx (uppdragpsykiskhalsa.se)</a></p></li>
-<li><p><a href="https://goteborgsregionen.se/kunskapsbank/betydelserocheffekteravutokadehembesokigoteborg.5.28065c9318a25ff30f8d89a.html">Betydelser och effekter av utökade hembesök i Göteborg | Göteborgsregionen (GR) (goteborgsregionen.se)</a></p></li>
-<li><p><a href="https://ki.se/en/gph/extended-postnatal-home-visiting-programme">Extended postnatal home visiting programme | Karolinska Institutet (ki.se)</a></p></li>
-<li><p><a href="https://nordicwelfare.org/integration-norden/exempel/utokat-hembesoksprogram-for-forstagangsforaldrar-i-rinkeby-samverkan-mellan-barnhalsovard-och-socialtjanst/">Utökat hembesöksprogram för förstagångsföräldrar i Rinkeby – samverkan mellan barnhälsovård och socialtjänst | NVC (nordicwelfare.org)</a></p></li>
-<li><p><a href="https://www.regeringen.se/regeringsuppdrag/2023/05/uppdrag-att-stodja-och-stimulera-barnhalsovardens-forebyggande-arbete-med-hembesoksprogram/">Uppdrag att stödja och stimulera barnhälsovårdens förebyggande arbete med hembesöksprogram - Regeringen.se</a></p></li>
-<li><p><a href="https://osf.io/ntcw3">RISE (2021). Risk och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen? OSF</a></p></li>
+<li><p><a href="https://ki.se/media/77454/download">Rinkeby hembesöksprogram - Ett utökat hembesöksprogram i samarbete mellan barnhälsovården och socialtjänsten</a></p></li>
+<li><p><a href="https://kfsk.se/vaxatryggt/forskning/">Växa tryggt - Ett föräldraskapsstöd i samverkan</a></p></li>
+<li><p><a href="http://dok.slso.sll.se/CES/FHG/Rapport-FHM-utokat-barnhalsovardsprogram.pdf">Utökat barnhälsovårdsprogram för förstagångsföräldrar - samverkan mellan Rinkeby BVC och föräldrarådgivare inom Rinkeby-Kista socialtjänst. Utvärderingsrapport 2015</a></p></li>
+<li><p><a href="https://goteborgsregionen.se/kunskapsbank/foraldrastodjarnasarbeteibarnhalsovarden.5.35b4a66318002ba975a13312.html">Att finna sin roll, att så ett frö – föräldrastödjarnas arbete i barnhälsovården)</a></p></li>
+<li><p><a href="https://goteborgsregionen.se/kunskapsbank/betydelserocheffekteravutokadehembesokigoteborg.5.28065c9318a25ff30f8d89a.html">Betydelser och effekter av utökade hembesök i Göteborg)</a></p></li>
+<li><p><a href="https://ki.se/en/gph/extended-postnatal-home-visiting-programme">Extended postnatal home visiting programme</a></p></li>
+<li><p><a href="https://nordicwelfare.org/integration-norden/exempel/utokat-hembesoksprogram-for-forstagangsforaldrar-i-rinkeby-samverkan-mellan-barnhalsovard-och-socialtjanst/">Utökat hembesöksprogram för förstagångsföräldrar i Rinkeby – samverkan mellan barnhälsovård och socialtjänst</a></p></li>
+<li><p><a href="https://www.regeringen.se/regeringsuppdrag/2023/05/uppdrag-att-stodja-och-stimulera-barnhalsovardens-forebyggande-arbete-med-hembesoksprogram/">Uppdrag att stödja och stimulera barnhälsovårdens förebyggande arbete med hembesöksprogram</a></p></li>
+<li><p><a href="https://osf.io/ntcw3">Risk och skyddsfaktorer - vad vet vi och vad kan göras med kunskapen?</a></p></li>
 </ul>
 </section>
-<section id="familjecentral-av-hög-kvalitet" class="level3" data-number="1.3.2">
-<h3 data-number="1.3.2" class="anchored" data-anchor-id="familjecentral-av-hög-kvalitet"><span class="header-section-number">1.3.2</span> Familjecentral av hög kvalitet</h3>
+<section id="familjecentral-av-hög-kvalitet" class="level3" data-number="1.2.2">
+<h3 data-number="1.2.2" class="anchored" data-anchor-id="familjecentral-av-hög-kvalitet"><span class="header-section-number">1.2.2</span> Familjecentral av hög kvalitet</h3>
 <p>Kort beskrivning av insatsen varför är det kan vara en bra insats…</p>
 <p>Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X</p>
 <p><strong>Checklista för familjecentral av hög kvalitet:</strong></p>
-<p>☐ Finns det en eller flera familjecentraler i kommunen?</p>
-<p>☐ Finns det mål/strategier för arbetet med familjecentraler?</p>
-<p>☐ Finns långsiktig finansiering av familjecentraler?</p>
-<p>☐ Finns det en struktur för arbetet? Ex. samordnare, kompentensutveckling?</p>
-<p>☐ Var i kommunen är FC placerad? Tillgänglighet?</p>
-<p>☐ Vilka förutsättningar för samverkan finns?</p>
-<p>☐ Görs uppföljning av vilka som besöker familjecentralen?</p>
-<p>☐ Följs effekterna upp?</p>
+<p>☐ Det finns en eller flera familjecentraler i kommunen</p>
+<p>☐ Det finns mål/strategier för arbetet med familjecentraler</p>
+<p>☐ Det finns långsiktig finansiering av familjecentraler</p>
+<p>☐ Finns det en struktur för arbetet? Ex. samordnare, kompentensutveckling? (ta bort? fördjupning?)</p>
+<p>☐ Var i kommunen är FC placerad? Tillgänglighet? (ta bort? fördjupning?)</p>
+<p>☐ Vilka förutsättningar för samverkan finns? (ta bort? fördjupning?)</p>
+<p>☐ Det görs uppföljning av vilka som besöker familjecentralen</p>
+<p>☐ Effekterna följs upp</p>
 <p><strong>Indikatorer:</strong></p>
 <ul>
 <li>Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun.</li>
@@ -244,23 +263,22 @@ background: #2D6B97;
 <li><p>Kouvonen P, editor. Nordens barn - utvecklingen av nordiska familjecentraler. Stockholm: Nordens välfärdscenter; 2012.</p></li>
 <li><p><a href="https://www.diva-portal.org/smash/get/diva2:407369/FULLTEXT01.pdf">Family centre practice and modernity - a qualitative study from Sweden</a></p></li>
 <li><p>Bing V. Historisk utveckling av familjecentraler i Sverige och Norden. In: Kekkonen M, Montonen M, Viitala R, editors. Familjecenter i Norden – en resurs för barn och familjer. Köpenhamn: Nordiska ministerrådet; 2011.</p></li>
-<li><p><a href="https://familjecentraler.se/foreningen/vad-ar-en-familjecentral/">Föreningen för familjecentralers främjande (FFFF). Vad är en familjecentral?</a></p></li>
-<li><p><a href="https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-9-8728.pdf">Socialstyrelsen. Familjecentraler: kartläggning och kunskapsöversikt. Stockholm; 2008.</a></p></li>
-<li><p><a href="https://www.rikshandboken-bhv.se/metoder--riktlinjer/samverkan/familjecentraler">Rikshandboken Barnhälsovård. Samverkan på familjecentral</a></p></li>
-<li><p><a href="https://familjecentraler.se/foreningen/vad-ar-en-familjecentral/">Föreningen för familjecentralers främjande (FFFF). Vad är en familjecentral?</a></p></li>
+<li><p><a href="https://familjecentraler.se/foreningen/vad-ar-en-familjecentral/">Vad är en familjecentral?</a></p></li>
+<li><p><a href="https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-9-8728.pdf">Familjecentraler och familjecentralsliknande verksamheter - Kartläggning, analys och förslag</a></p></li>
+<li><p><a href="https://www.rikshandboken-bhv.se/metoder--riktlinjer/samverkan-med-andra-verksamheter---oversikt/familjecentraler/">Familjecentraler</a></p></li>
 <li><p>Trumberg A. Vad är känt om betydelsen av familjecentralers arbete för att främja barn och familjers hälsa och välmående? Folkhälsomyndigheten (ej publicerad)</p></li>
-<li><p><a href="https://utveckling.regionorebrolan.se/contentassets/28b5fc54d5454595ae632c79c415a178/nationell-vagledning-familjecentral---samverkan-for-barns-basta.pdf">Föreningen för familjecentralers främjande (FFFF). Nationell vägledning Familjecentral Samverkan för barns bästa!</a></p></li>
+<li><p><a href="https://utveckling.regionorebrolan.se/contentassets/28b5fc54d5454595ae632c79c415a178/nationell-vagledning-familjecentral---samverkan-for-barns-basta.pdf">Nationell vägledning Familjecentral - Samverkan för barns bästa!</a></p></li>
 </ul>
 </section>
-<section id="föräldragrupp-mhvbhv" class="level3" data-number="1.3.3">
-<h3 data-number="1.3.3" class="anchored" data-anchor-id="föräldragrupp-mhvbhv"><span class="header-section-number">1.3.3</span> Föräldragrupp MHV/BHV</h3>
+<section id="föräldragrupp-mhvbhv" class="level3" data-number="1.2.3">
+<h3 data-number="1.2.3" class="anchored" data-anchor-id="föräldragrupp-mhvbhv"><span class="header-section-number">1.2.3</span> Föräldragrupp MHV/BHV</h3>
 <p>Kort beskrivning av insatsen varför är det kan vara en bra insats…</p>
 <p><strong>Checklista för föräldragrupp MHV/BHV:</strong></p>
-<p>☐ Erbjuds föräldrar i kommunen föräldragrupp via MHV respektive BHV?</p>
-<p>☐ Vilka förutsättningar finns för samverkan mellan region och kommun?</p>
-<p>☐ Vilka föräldrar erbjuds föräldragrupp via MHV resp. BHV?</p>
-<p>☐ Görs uppföljning av vilka som deltar i föräldragrupper på MHV resp. BHV?</p>
-<p>☐ Följs effekterna upp?</p>
+<p>☐ Föräldrar i kommunen erbjuds föräldragrupp via MHV respektive BHV</p>
+<p>☐ Vilka förutsättningar finns för samverkan mellan region och kommun? (ta bort? fördjupning?)</p>
+<p>☐ Vilka föräldrar erbjuds föräldragrupp via MHV respektive BHV? (ta bort? fördjupning?)</p>
+<p>☐ Uppföljning görs av vilka som deltar i föräldragrupper på MHV respektive BHV</p>
+<p>☐ FEffekterna följs upp</p>
 <p><strong>Indikatorer:</strong></p>
 <ul>
 <li>Andel kvinnor respektive partner som deltagit i föräldrastöd efter typ av region.</li>
@@ -268,53 +286,52 @@ background: #2D6B97;
 </ul>
 <p><strong>Läs mer om föräldragrupper MVC/BVC</strong></p>
 <ul>
-<li><p><a href="https://www.rikshandboken-bhv.se/metoder--riktlinjer/foraldraskapsstod-i-grupp/">Föräldraskapsstöd i grupp - översikt - Rikshandboken i barnhälsovård (rikshandboken-bhv.se)</a></p></li>
-<li><p><a href="https://www.diva-portal.org/smash/get/diva2:1599399/FULLTEXT01.pdf">Föräldragrupper inom mödra- och barnhälsovård (diva-portal.org)</a></p></li>
-<li><p><a href="https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2015-12-38.pdf">Föräldrastöd inom hälso- och sjukvård (socialstyrelsen.se)</a></p></li>
+<li><p><a href="https://www.rikshandboken-bhv.se/metoder--riktlinjer/foraldraskapsstod-i-grupp/">Föräldraskapsstöd i grupp - översikt</a></p></li>
+<li><p><a href="https://www.diva-portal.org/smash/get/diva2:1599399/FULLTEXT01.pdf">Föräldragrupper inom mödra- och barnhälsovård - Forskning, tillämpning och metoder om ledarskap för välfungerande grupper</a></p></li>
+<li><p><a href="https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2015-12-38.pdf">Föräldrastöd inom hälso- och sjukvård</a></p></li>
 </ul>
 </section>
-<section id="öppen-förskola-av-hög-kvalitet" class="level3" data-number="1.3.4">
-<h3 data-number="1.3.4" class="anchored" data-anchor-id="öppen-förskola-av-hög-kvalitet"><span class="header-section-number">1.3.4</span> Öppen förskola av hög kvalitet</h3>
+<section id="öppen-förskola-av-hög-kvalitet" class="level3" data-number="1.2.4">
+<h3 data-number="1.2.4" class="anchored" data-anchor-id="öppen-förskola-av-hög-kvalitet"><span class="header-section-number">1.2.4</span> Öppen förskola av hög kvalitet</h3>
 <p>Kort beskrivning av insatsen varför är det kan vara en bra insats…</p>
 <p><strong>Checklista för öppen förskola av hög kvalitet:</strong></p>
-<p>☐ Erbjuds utökat hembesöksprogram i vår kommun?</p>
-<p>☐ Finns det en eller flera öppna förskolor i kommunen?</p>
-<p>☐ Vem är huvudman?</p>
-<p>☐ Är de samlokaliserade med andra verksamheter?</p>
-<p>☐ Finns det mål/strategier för arbetet med öppen förskola?</p>
-<p>☐ Finns långsiktig finansiering av den öppna förskolan?</p>
-<p>☐ Finns det en struktur för arbetet? Ex. samordnare, kompentensutveckling?</p>
-<p>☐ Var i kommunen är den öppna förskolan placerad? Tillgänglighet?</p>
-<p>☐ Vilka förutsättningar för samverkan finns?</p>
-<p>☐ Görs uppföljning av vilka som besöker den öppna förskolan?</p>
-<p>☐ Följs effekterna upp?</p>
+<p>☐ Erbjuds utökat hembesöksprogram i vår kommun? (ska den vara så?)</p>
+<p>☐ Det finns en eller flera öppna förskolor i kommunen</p>
+<p>☐ Vem är huvudman? (ta bort/fördjupning?)</p>
+<p>☐ De är samlokaliserade med andra verksamheter</p>
+<p>☐ Det finns mål/strategier för arbetet med öppen förskola</p>
+<p>☐ Det finns långsiktig finansiering av den öppna förskolan</p>
+<p>☐ Det finns en struktur för arbetet (Ex. samordnare, kompentensutveckling)</p>
+<p>☐ Var i kommunen är den öppna förskolan placerad? Tillgänglighet? (ta bort/fördjupning?)</p>
+<p>☐ Vilka förutsättningar för samverkan finns? (ta bort/fördjupning?)</p>
+<p>☐ Det görs uppföljning av vilka som besöker den öppna förskolan</p>
+<p>☐ Effekterna följs upp</p>
 <p><strong>Lagstiftning:</strong></p>
 <p><em>Skollagen 25 kap. 3 §</em></p>
-<p>En kommun får anordna öppen förskola som komplement till förskola och pedagogisk omsorg. Den öppna förskolan ska erbjuda barn en pedagogisk verksamhet i samarbete med de till barnen medföljande vuxna samtidigt som de vuxna ges möjlighet till social gemenskap.</p>
+<p>En kommun får anordna öppen förskola som komplement till förskola och pedagogisk omsorg. Den öppna förskolan ska erbjuda barn en pedagogisk verksamhet i samarbete med de till barnen medföljande vuxna, samtidigt som de vuxna ges möjlighet till social gemenskap.</p>
 <p><strong>Indikatorer:</strong></p>
 <ul>
 <li>Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun.</li>
 </ul>
 <p><strong>Läs mer om öppen förskola:</strong></p>
 <ul>
-<li><p><a href="https://www.mfof.se/foraldraskapsstod/arenor-for-foraldraskapsstod/oppen-forskola.html">Öppen förskola - Startsida (mfof.se)</a></p></li>
-<li><p><a href="https://skr.se/skr/skolakulturfritid/forskolagrundochgymnasieskolakomvux/oppenforskolaforsprakochintegration.46558.html">Öppen förskola för språk och integration | SKR</a></p></li>
-<li><p><a href="https://www.skolverket.se/regler-och-ansvar/ansvar-i-skolfragor/ratt-till-forskola">Öppen förskola öppnar många dörrar (skr.se)</a></p></li>
-<li><p><a href="https://ki.se/media/77454/download">Rätt till förskola – Skolverket</a></p></li>
-<li><p><a href="https://www.skolverket.se/download/18.6bfaca41169863e6a6538f8/1553956773578/pdf607.pdf">Allmänna råd med kommentarer för öppen förskola (skolverket.se)</a></p></li>
+<li><p><a href="https://www.mfof.se/foraldraskapsstod/arenor-for-foraldraskapsstod/oppen-forskola.html">Öppen förskola</a></p></li>
+<li><p><a href="https://skr.se/skr/skolakulturfritid/forskolagrundochgymnasieskolakomvux/oppenforskolaforsprakochintegration.46558.html">Öppen förskola – tillsammans för jobb och integration</a></p></li>
+<li><p><a href="https://www.skolverket.se/regler-och-ansvar/ansvar-i-skolfragor/ratt-till-forskola">Rätt till förskola</a></p></li>
+<li><p><a href="https://www.skolverket.se/download/18.6bfaca41169863e6a6538f8/1553956773578/pdf607.pdf">Allmänna råd för öppen förskola</a></p></li>
 </ul>
 </section>
-<section id="individuella-föräldrastödssamtal" class="level3" data-number="1.3.5">
-<h3 data-number="1.3.5" class="anchored" data-anchor-id="individuella-föräldrastödssamtal"><span class="header-section-number">1.3.5</span> Individuella föräldrastödssamtal</h3>
+<section id="individuella-föräldrastödssamtal" class="level3" data-number="1.2.5">
+<h3 data-number="1.2.5" class="anchored" data-anchor-id="individuella-föräldrastödssamtal"><span class="header-section-number">1.2.5</span> Individuella föräldrastödssamtal</h3>
 <p>Kort beskrivning av insatsen varför är det kan vara en bra insats…</p>
 <p><strong>Checklista för individuella föräldrastödssamtal:</strong></p>
-<p>☐ Erbjuder socialtjänsten individuella föräldrastödssamtal utan behovsprövning</p>
-<p>☐ Finns det mål/strategier för arbetet med individuella stödsamtal?</p>
-<p>☐ Finns långsiktig finansiering av individuella stödsamtal?</p>
-<p>☐ Finns det en struktur för arbetet? Ex. samordnare, kompentensutveckling?</p>
-<p>☐ Vilka förutsättningar för samverkan finns?</p>
-<p>☐ Görs uppföljning av vilka som tar del av samtalen?</p>
-<p>☐ Följs effekterna upp?</p>
+<p>☐ Socialtjänsten erbjuder individuella föräldrastödssamtal utan behovsprövning</p>
+<p>☐ Det finns det mål/strategier för arbetet med individuella stödsamtal</p>
+<p>☐ Det finns långsiktig finansiering av individuella stödsamtal</p>
+<p>☐ Det finns det en struktur för arbetet (Exempelvis samordnare, kompentensutveckling)</p>
+<p>☐ Vilka förutsättningar för samverkan finns? (fördjupning?)</p>
+<p>☐ Det görs uppföljning av vilka som tar del av samtalen</p>
+<p>☐ Effekterna följs upp</p>
 <p><strong>Lagstiftning:</strong></p>
 <p><strong>Indikatorer:</strong></p>
 <ul>
@@ -322,25 +339,25 @@ background: #2D6B97;
 </ul>
 <p><strong>Läs mer om individuella föräldrastödssamtal:</strong></p>
 <ul>
-<li><a href="https://mfof.se/foraldraskapsstod/arenor-for-foraldraskapsstod/socialtjanst.html">Socialtjänst - Startsida (mfof.se)</a></li>
+<li><a href="https://mfof.se/foraldraskapsstod/arenor-for-foraldraskapsstod/socialtjanst.html">Socialtjänst</a></li>
 </ul>
 </section>
-<section id="universella-föräldrastödsprogram" class="level3" data-number="1.3.6">
-<h3 data-number="1.3.6" class="anchored" data-anchor-id="universella-föräldrastödsprogram"><span class="header-section-number">1.3.6</span> Universella föräldrastödsprogram</h3>
+<section id="universella-föräldrastödsprogram" class="level3" data-number="1.2.6">
+<h3 data-number="1.2.6" class="anchored" data-anchor-id="universella-föräldrastödsprogram"><span class="header-section-number">1.2.6</span> Universella föräldrastödsprogram</h3>
 <p>Kort beskrivning av insatsen varför är det kan vara en bra insats…</p>
 <p>Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X</p>
 <p><strong>Checklista för universella föräldrastödsprogram:</strong></p>
-<p>☐ Finns det mål/strategier för arbetet med universella föräldraskapsstödsprogram?</p>
-<p>☐ Erbjuds universella föräldraskapsstödsprogram i kommunen? Vilka?</p>
-<p>☐ Vilka aktörer erbjuder universella föräldraskapsstödsprogram?</p>
-<p>☐ På vilka arenor erbjuds föräldraskapsstödsprogram?</p>
-<p>☐ Finns långsiktig finansiering för universella föräldraskapsstödsprogram?</p>
-<p>☐ Finns struktur för arbetet? Ex. återkommande utbildning av gruppledare, samordnare, kompentensutveckling?</p>
-<p>☐ Vilka förutsättningar för samverkan finns?</p>
-<p>☐ Antal yrkespersoner utbildade i föräldraskapsstödsprogram X och X.</p>
-<p>☐ Antal föräldrar som kan erbjudas universella föräldraskapsstödsprogram?</p>
-<p>☐ Görs återkommande uppföljningar av vilka som deltar?</p>
-<p>☐ Följs effekterna upp?</p>
+<p>☐ Det finns mål/strategier för arbetet med universella föräldraskapsstödsprogram?</p>
+<p>☐ Det erbjuds universella föräldraskapsstödsprogram i kommunen? Vilka? (fördjupning?)</p>
+<p>☐ Vilka aktörer erbjuder universella föräldraskapsstödsprogram? (fördjupning?)</p>
+<p>☐ På vilka arenor erbjuds föräldraskapsstödsprogram? (fördjupning?)</p>
+<p>☐ Det finns långsiktig finansiering för universella föräldraskapsstödsprogram</p>
+<p>☐ Det finns struktur för arbetet ( Till exempel återkommande utbildning av gruppledare, samordnare, kompentensutveckling)</p>
+<p>☐ Vilka förutsättningar för samverkan finns? (fördjupning?)</p>
+<p>☐ Antal yrkespersoner utbildade i föräldraskapsstödsprogram X och X. (fördjupning?)</p>
+<p>☐ Antal föräldrar som kan erbjudas universella föräldraskapsstödsprogram? (fördjupning?)</p>
+<p>☐ Det görs återkommande uppföljningar av vilka som deltar</p>
+<p>☐ Effekterna följs upp</p>
 <p><strong>Lagstiftning:</strong></p>
 <p><strong>Indikatorer:</strong></p>
 <ul>
@@ -348,27 +365,27 @@ background: #2D6B97;
 </ul>
 <p><strong>Läs mer om universella föräldrastödsprogram:</strong></p>
 <ul>
-<li><p><a href="https://mfof.se/foraldraskapsstod/effekter-av-foraldraskapsstod.html">Effekter av föräldraskapsstöd - Startsida (mfof.se)</a></p></li>
-<li><p><a href="https://www.skolverket.se/skolutveckling/forskning-och-utvarderingar/artiklar-om-forskning/foraldraskapsstod-kan-framja-larande-och-halsa">Föräldraskapsstöd kan främja lärande och hälsa – Skolverket</a></p></li>
-<li><p><a href="https://www.sbu.se/sv/publikationer/SBU-utvarderar/framjande-av-psykiskt-valbefinnande-hos-barn-och-ungdomar/">Främjande av psykiskt välbefinnande hos barn och ungdomar (sbu.se)</a></p></li>
-<li><p><a href="https://osf.io/ntcw3">RISE (2021). Risk och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?</a></p></li>
+<li><p><a href="https://mfof.se/foraldraskapsstod/effekter-av-foraldraskapsstod.html">Effekter av föräldraskapsstöd</a></p></li>
+<li><p><a href="https://www.skolverket.se/skolutveckling/forskning-och-utvarderingar/artiklar-om-forskning/foraldraskapsstod-kan-framja-larande-och-halsa">Föräldraskapsstöd kan främja lärande och hälsa</a></p></li>
+<li><p><a href="https://www.sbu.se/sv/publikationer/SBU-utvarderar/framjande-av-psykiskt-valbefinnande-hos-barn-och-ungdomar/">Främjande av psykiskt välbefinnande hos barn och ungdomar</a></p></li>
+<li><p><a href="https://osf.io/ntcw3">Risk och skyddsfaktorer - vad vet vi och vad kan göras med kunskapen?</a></p></li>
 </ul>
 </section>
-<section id="riktade-föräldrastödsprogram" class="level3" data-number="1.3.7">
-<h3 data-number="1.3.7" class="anchored" data-anchor-id="riktade-föräldrastödsprogram"><span class="header-section-number">1.3.7</span> Riktade föräldrastödsprogram</h3>
+<section id="riktade-föräldrastödsprogram" class="level3" data-number="1.2.7">
+<h3 data-number="1.2.7" class="anchored" data-anchor-id="riktade-föräldrastödsprogram"><span class="header-section-number">1.2.7</span> Riktade föräldrastödsprogram</h3>
 <p>Kort beskrivning av insatsen varför är det kan vara en bra insats…</p>
 <p>Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X</p>
 <p><strong>Checklista för riktade föräldrastödsprogram:</strong></p>
-<p>☐ Finns det mål/strategier för arbetet med riktade föräldraskapsstödsprogram?</p>
-<p>☐ Erbjuds riktade föräldraskapsstödsprogram i vår kommun? Vilka?</p>
-<p>☐ Vilka aktörer erbjuder riktade föräldraskapsstödsprogram?</p>
-<p>☐ Finns långsiktig finansiering för riktade föräldraskapsstödsprogram?</p>
-<p>☐ Finns struktur för arbetet? Ex. återkommande utbildning av gruppledare, samordnare, kompentensutveckling?</p>
-<p>☐ Vilka förutsättningar för samverkan finns?</p>
-<p>☐ Antal yrkespersoner utbildade i föräldraskapsstödsprogram X och X.</p>
-<p>☐ Antal föräldrar som kan erbjudas universella föräldraskapsstödsprogram?</p>
-<p>☐ Görs återkommande uppföljningar av vilka som deltar?</p>
-<p>☐ Följs effekterna upp?</p>
+<p>☐ Det finns det mål/strategier för arbetet med riktade föräldraskapsstödsprogram</p>
+<p>☐ Det erbjuds riktade föräldraskapsstödsprogram i vår kommun? Vilka? (fördjupning?) Ha en lista?</p>
+<p>☐ Vilka aktörer erbjuder riktade föräldraskapsstödsprogram? (fördjupning?)</p>
+<p>☐ Det finns långsiktig finansiering för riktade föräldraskapsstödsprogram</p>
+<p>☐ Det finns struktur för arbetet (Exempelvis återkommande utbildning av gruppledare, samordnare, kompentensutveckling)</p>
+<p>☐ Vilka förutsättningar för samverkan finns?(fördjupning?)</p>
+<p>☐ Antal yrkespersoner utbildade i föräldraskapsstödsprogram X och X.(fördjupning?)</p>
+<p>☐ Antal föräldrar som kan erbjudas universella föräldraskapsstödsprogram? (fördjupning?)</p>
+<p>☐ Det görs återkommande uppföljningar av vilka som deltar</p>
+<p>☐ Effekterna följs upp</p>
 <p><strong>Lagstiftning:</strong></p>
 <p><strong>Indikatorer:</strong></p>
 <ul>
@@ -376,28 +393,28 @@ background: #2D6B97;
 </ul>
 <p><strong>Läs mer om riktade föräldrastödsprogram:</strong></p>
 <ul>
-<li><p><a href="https://goteborgsregionen.se/download/18.22a3cc881780d1faddf1b9f/1615394403965/Foraldraskapsstod_for_nyanlanda_foraldrar_%E2%80%93_vad_fungerar.pdf">Foraldraskapsstod_for_nyanlanda_foraldrar_–_vad_fungerar.pdf (goteborgsregionen.se)</a></p></li>
-<li><p><a href="https://kunskapsguiden.se/omraden-och-teman/arbetsmetoder-och-perspektiv/interkulturellt-perspektiv/forebyggande-arbete-stod-och-insatser/">Förebyggande arbete, stöd och insatser – Kunskapsguiden</a></p></li>
-<li><p><a href="https://mfof.se/foraldraskapsstod/program-och-metoder-for-foraldraskapsstod---soksida.html#query/*">Program och metoder för föräldraskapsstöd - söksida - Startsida (mfof.se)</a></p></li>
-<li><p><a href="https://www.sbu.se/sv/publikationer/SBU-utvarderar/program-for-att-forebygga-psykisk-ohalsa-hos-barn2/">Program för att förebygga psykisk ohälsa hos barn. Stockholm: SBU, 2021. SBU-rapport nr 339</a></p></li>
-<li><p><a href="https://www.sbu.se/sv/publikationer/SBU-utvarderar/program-for-att-forebygga-suicid-och-suicidforsok-hos-barn/">Program för att förebygga suicid och suicidförsök hos barn. Stockholm: SBU, 2021. SBU-rapport nr 336</a></p></li>
-<li><p><a href="https://www.sbu.se/2019_08?pub=40790">Föräldrastödsprogram vid utagerande beteende hos barn: effekter och verksamma komponenter (sbu.se)</a></p></li>
-<li><p><a href="https://osf.io/ntcw3">RISE (2021). Risk och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?</a></p></li>
+<li><p><a href="https://mfof.se/foraldraskapsstod/program-och-metoder-for-foraldraskapsstod---soksida.html#query/*">Program och metoder för föräldraskapsstöd</a></p></li>
+<li><p><a href="https://goteborgsregionen.se/download/18.22a3cc881780d1faddf1b9f/1615394403965/Foraldraskapsstod_for_nyanlanda_foraldrar_%E2%80%93_vad_fungerar.pdf">Föräldraskapsstöd för nyanlända - vad fungerar?</a></p></li>
+<li><p><a href="https://kunskapsguiden.se/omraden-och-teman/arbetsmetoder-och-perspektiv/interkulturellt-perspektiv/forebyggande-arbete-stod-och-insatser/">Exempel på förebyggande arbete, stöd och insatser</a></p></li>
+<li><p><a href="https://www.sbu.se/sv/publikationer/SBU-utvarderar/program-for-att-forebygga-psykisk-ohalsa-hos-barn2/">Program för att förebygga psykisk ohälsa hos barn</a></p></li>
+<li><p><a href="https://www.sbu.se/sv/publikationer/SBU-utvarderar/program-for-att-forebygga-suicid-och-suicidforsok-hos-barn/">Program för att förebygga suicid och suicidförsök hos barn</a></p></li>
+<li><p><a href="https://www.sbu.se/2019_08?pub=40790">Föräldrastödsprogram vid utagerande beteende hos barn: effekter och verksamma komponenter</a></p></li>
+<li><p><a href="https://osf.io/ntcw3">Risk- och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?</a></p></li>
 </ul>
 </section>
-<section id="föräldraföreläsningar" class="level3" data-number="1.3.8">
-<h3 data-number="1.3.8" class="anchored" data-anchor-id="föräldraföreläsningar"><span class="header-section-number">1.3.8</span> Föräldraföreläsningar</h3>
+<section id="föräldraföreläsningar" class="level3" data-number="1.2.8">
+<h3 data-number="1.2.8" class="anchored" data-anchor-id="föräldraföreläsningar"><span class="header-section-number">1.2.8</span> Föräldraföreläsningar</h3>
 <p>Kort beskrivning av insatsen varför är det kan vara en bra insats…</p>
 <p>Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X</p>
 <p><strong>Checklista för föräldraföreläsningar:</strong></p>
-<p>☐ Erbjuds föräldraföreläsningar regelbundet till föräldrar i kommunen?</p>
-<p>☐ Vilka teman handlar föräldraföreläsningarna om?</p>
-<p>☐ Finns det mål/strategier för arbetet med föräldraföreläsningar?</p>
-<p>☐ Finns långsiktig finansiering av föräldraföreläsningar?</p>
-<p>☐ Finns det en struktur för arbetet? Ex. samordnare, kompentensutveckling?</p>
-<p>☐ Vilka förutsättningar för samverkan finns?</p>
-<p>☐ Görs uppföljning av vilka som tar del av föräldraföreläsningarna?</p>
-<p>☐ Följs effekterna upp?</p>
+<p>☐ Det erbjuds öräldraföreläsningar regelbundet till föräldrar i kommunen</p>
+<p>☐ Vilka teman handlar föräldraföreläsningarna om?(fördjupning?)</p>
+<p>☐ Det finns det mål/strategier för arbetet med föräldraföreläsningar</p>
+<p>☐ Det finns långsiktig finansiering av föräldraföreläsningar</p>
+<p>☐ Det finns det en struktur för arbetet (Exempelvis samordnare, kompentensutveckling)</p>
+<p>☐ Vilka förutsättningar för samverkan finns? (fördjupning?)</p>
+<p>☐ Det görs uppföljning av vilka som tar del av föräldraföreläsningarna</p>
+<p>☐ Effekterna följs upp</p>
 <p><strong>Lagstiftning:</strong></p>
 <p><strong>Indikatorer:</strong></p>
 <ul>
@@ -405,21 +422,21 @@ background: #2D6B97;
 </ul>
 <p><strong>Läs mer om föräldraföreläsningar:</strong></p>
 <ul>
-<li><a href="https://www.forskning.se/2020/08/25/inspirationsforelasning-gor-nyblivna-foraldrar-tryggare/">Inspirationsföreläsning gör nyblivna föräldrar tryggare - | forskning.se</a></li>
+<li><a href="https://www.forskning.se/2020/08/25/inspirationsforelasning-gor-nyblivna-foraldrar-tryggare/">Inspirationsföreläsning gör nyblivna föräldrar tryggare</a></li>
 </ul>
 </section>
-<section id="samverkan-förskolaskola-och-föräldrar" class="level3" data-number="1.3.9">
-<h3 data-number="1.3.9" class="anchored" data-anchor-id="samverkan-förskolaskola-och-föräldrar"><span class="header-section-number">1.3.9</span> Samverkan förskola/skola och föräldrar</h3>
+<section id="samverkan-förskolaskola-och-föräldrar" class="level3" data-number="1.2.9">
+<h3 data-number="1.2.9" class="anchored" data-anchor-id="samverkan-förskolaskola-och-föräldrar"><span class="header-section-number">1.2.9</span> Samverkan förskola/skola och föräldrar</h3>
 <p>Kort beskrivning av insatsen varför är det kan vara en bra insats…</p>
 <p>Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X</p>
 <p><strong>Checklista för samverkan förskola/skola och föräldrar:</strong></p>
-<p>☐ Finns det en kommunövergripande plan för förskolans och skolans samverkan med föräldrar</p>
-<p>☐ Har respektive förskola/skola en gemensam strategi för att möjliggöra för hem och vårdnadshavare att bli delaktiga i frågor som rör elevens skolgång?</p>
-<p>☐ Har respektive förskola/skola gemensamma förhållningssätt i kontakter med vårdnadshavare och hemmen?</p>
-<p>☐ Erbjuds kunskapshöjande insatser om föräldraskapsstöd och föräldrasamverkan?</p>
-<p>☐ På vilket sett sker samverkan med vårdnadshavare och hemmet?</p>
-<p>☐ Finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård?</p>
-<p>☐ Hur följs det arbetet upp?</p>
+<p>☐ Det finns en kommunövergripande plan för förskolans och skolans samverkan med föräldrar</p>
+<p>☐ Respektive förskola/skola har en gemensam strategi för att möjliggöra för hem och vårdnadshavare att bli delaktiga i frågor som rör elevens skolgång</p>
+<p>☐ Respektive förskola/skola har gemensamma förhållningssätt i kontakter med vårdnadshavare och hemmen</p>
+<p>☐ Det erbjuds kunskapshöjande insatser om föräldraskapsstöd och föräldrasamverkan</p>
+<p>☐ På vilket sett sker samverkan med vårdnadshavare och hemmet? (fördjupning?)</p>
+<p>☐ Det finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård</p>
+<p>☐ Hur följs det arbetet upp?(fördjupning?)</p>
 <p><strong>Lagstiftning:</strong></p>
 <p><em>Skollagen 1 kap. 4 §</em></p>
 <p>Utbildningen syftar också till att i samarbete med hemmen främja barns och elevers allsidiga personliga utveckling till aktiva, kreativa, kompetenta och ansvarskännande individer och medborgare.</p>
@@ -429,27 +446,27 @@ background: #2D6B97;
 </ul>
 <p><strong>Läs mer om samverkan mellan förskola/skola och föräldrar:</strong></p>
 <ul>
-<li><p><a href="https://www.skolverket.se/publikationsserier/stodmaterial/2015/skolan-och-hemmet">Skolan och hemmet – exempel och forskning om lärares samarbete med elevernas vårdnadshavare</a></p></li>
+<li><p><a href="https://www.skolverket.se/publikationsserier/stodmaterial/2015/skolan-och-hemmet">Skolan och hemmet - exempel och forskning om lärares samarbete med elevernas vårdnadshavare</a></p></li>
 <li><p><a href="https://www.skolverket.se/skolutveckling/inspiration-och-stod-i-arbetet/stod-i-arbetet/koll-pa-samverkan-med-hem-och-vardnadshavare">Koll på samverkan med hem och vårdnadshavare</a></p></li>
 <li><p><a href="https://skr.se/download/18.7c1c4ddb17e3d28cf9ba687f/1643196854985/7164-706-1.pdf">Synligt lärande</a></p></li>
-<li><p><a href="https://www.spsm.se/systematik-for-tidiga-stodinsatser/del-4---att-prova-och-omprova-tillsammans/samarbete-och-kommunikation-for-elevernas-basta/">Del 2 - Samarbete och kommunikation för elevernas bästa (spsm.se)</a></p></li>
-<li><p><a href="https://spsm.se/studiepaket-amnesomraden/moment-3/">Moment 3 – Samverkan för lärande (spsm.se)</a></p></li>
+<li><p><a href="https://www.spsm.se/systematik-for-tidiga-stodinsatser/del-4---att-prova-och-omprova-tillsammans/samarbete-och-kommunikation-for-elevernas-basta/">Del 2 - Samarbete och kommunikation för elevernas bästa</a></p></li>
+<li><p><a href="https://spsm.se/studiepaket-amnesomraden/moment-3/">Moment 3 - Samverkan för lärande</a></p></li>
 </ul>
 </section>
-<section id="tidiga-samordnade-insatser" class="level3" data-number="1.3.10">
-<h3 data-number="1.3.10" class="anchored" data-anchor-id="tidiga-samordnade-insatser"><span class="header-section-number">1.3.10</span> Tidiga samordnade insatser</h3>
+<section id="tidiga-samordnade-insatser" class="level3" data-number="1.2.10">
+<h3 data-number="1.2.10" class="anchored" data-anchor-id="tidiga-samordnade-insatser"><span class="header-section-number">1.2.10</span> Tidiga samordnade insatser</h3>
 <p>TSI kan ses som ett paraplybegrepp för strukturerad samverkan för tidigt och förebyggande arbete. Arbete som bedrivs gemensamt för att åstadkomma tidiga och samordnade insatser till barn och unga och involverar exempelvis skola, hälso- och sjukvård, socialtjänst, fritidsverksamhet och polis. TSI är alltså inte en specifik metod, utan en form för strukturerad samverkan. Grunden för arbetet med TSI är att samla kompetens från flera verksamheter för att få en helhetsbild av barnets eller den unges behov av stöd och lämpliga insatser.</p>
 <p>Alla vinner på att en ogynnsam utveckling hos barn och unga vänds, ju förr desto bättre. Det samhället investerar i barn och unga i ett tidigt skede har vi igen mångfalt senare. Att få tillgång till tidiga insatser kan på individnivå förebygga framtida utanförskap, till exempel i form av fysisk och psykisk ohälsa, arbetslöshet, missbruk och kriminalitet. Här finns också stora vinster på samhällsnivå att hämta. (Socialstyrelsen och Skolverket, 2023)</p>
 <p><strong>Checklista för tidiga samordnade insatser:</strong></p>
-<p>☐ Finns det en kommunövergripande plan för arbetet med tidiga samordnade insatser</p>
-<p>☐ Finns en samverkansöverenskommelse? I så fall mellan vilka aktörer?</p>
-<p>☐ Finns ett tvärsektoriellt team? I så fall, hur är uppdraget formulerat, vilka ingår, hur är ansvar och roller fördelade?</p>
-<p>☐ Erbjuds kunskapshöjande insatser om tidiga samordnade insatser? Målgupp?</p>
-<p>☐ På vilket sett involveras vårdnadshavare?</p>
-<p>☐ På vilket sätt involveras barn och unga?</p>
-<p>☐ Finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård?</p>
-<p>☐ Vilken målgrupp nås av tidiga samordnade insatser?</p>
-<p>☐ Hur följs det arbetet upp?</p>
+<p>☐ Det finns det kommunövergripande plan för arbetet med tidiga samordnade insatser</p>
+<p>☐ Det finns en samverkansöverenskommelse I så fall mellan vilka aktörer? (fördjupning?)</p>
+<p>☐ Det finns ett tvärsektoriellt team I så fall, hur är uppdraget formulerat, vilka ingår, hur är ansvar och roller fördelade? (fördjupning?)</p>
+<p>☐ Kunskapshöjande insatser om tidiga samordnade insatser erbjuds Målgupp? (fördjupning?)</p>
+<p>☐ På vilket sett involveras vårdnadshavare? (fördjupning?)</p>
+<p>☐ På vilket sätt involveras barn och unga? (fördjupning?)</p>
+<p>☐ Det finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård</p>
+<p>☐ Vilken målgrupp nås av tidiga samordnade insatser? (fördjupning?)</p>
+<p>☐ Hur följs det arbetet upp? (fördjupning?)</p>
 <p><strong>Lagstiftning:</strong></p>
 <p><strong>Indikatorer:</strong></p>
 <ul>
@@ -457,70 +474,70 @@ background: #2D6B97;
 </ul>
 <p><strong>Läs mer om tidiga samordnade insatser:</strong></p>
 <ul>
-<li><p><a href="https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/om-tidiga-och-samordnade-insatser/">Om tidiga och samordnade insatser – Kunskapsguiden</a></p></li>
-<li><p><a href="https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/skottlandsmodellen/">Skottlandsmodellen – Kunskapsguiden</a></p></li>
-<li><p><a href="https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-10-8779.pdf">TSI-boken – Stöd i arbetet med tidiga och samordnade insatser för barn och unga (socialstyrelsen.se)</a></p></li>
+<li><p><a href="https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/om-tidiga-och-samordnade-insatser/">Om tidiga och samordnade insatser</a></p></li>
+<li><p><a href="https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/skottlandsmodellen/">Skottlandsmodellen</a></p></li>
+<li><p><a href="https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-10-8779.pdf">TSI-boken - Stöd i arbetet med tidiga och samordnade insatser för barn och unga</a></p></li>
 </ul>
 </section>
-<section id="familjerådgivning" class="level3" data-number="1.3.11">
-<h3 data-number="1.3.11" class="anchored" data-anchor-id="familjerådgivning"><span class="header-section-number">1.3.11</span> Familjerådgivning</h3>
+<section id="familjerådgivning" class="level3" data-number="1.2.11">
+<h3 data-number="1.2.11" class="anchored" data-anchor-id="familjerådgivning"><span class="header-section-number">1.2.11</span> Familjerådgivning</h3>
 <p>Familjerådgivningen är en viktig förebyggande verksamhet på flera nivåer. MFoF anser att en väl utbyggd familjerådgivning som kan ta emot människor tidigt är viktigt både samhällsekonomiskt och för den enskilde. När råd och behandling vid relationsproblem ges i ett tidigt skede minskar belastningen på andra verksamheter i samhället, såsom socialtjänst, hälso- och sjukvård och försäkringskassa. Samtidigt som det på individnivå innebär ett ökat välbefinnande och en ökad förmåga att hantera framtida relationsproblem. På universell nivå kan familjerådgivningen genom sitt utåtriktade uppdrag ge breda folkbildade insatser om relationer och relationsproblem på arenor som exempelvis mödravårdens, barnhälsovårdens och familjecentralens föräldrautbildningar. På selektiv nivå kan familjerådgivning istället rikta insatser mot särskilda grupper som identifierats av kommunen. (Myndigheten för familjerätt och föräldraskapsstöd)</p>
 <p><strong>Checklista för familjerådgivning:</strong></p>
-<p>☐ Finns det mål/strategier för arbetet med familjerådgivning?</p>
-<p>☐ Vilken aktör erbjuder familjerådgivning?</p>
-<p>☐ Hur många föräldrar deltar årligen i familjerådgivning?</p>
-<p>☐ I vilken utsträckning ges barn möjlighet att komma till tals i samband familjerådgivning?</p>
-<p>☐ Används specifika modeller, metoder, verktyg eller bedömningsinstrument under samtalen?</p>
-<p>☐ Vilken utbildning har samtalsledarna? Ges samtalsledarna möjlighet till kompetensutveckling och vidareutbildning?</p>
-<p>☐ Vilka förutsättningar/plattformar för samverkan med andra aktörer finns?</p>
-<p>☐ Gör ni återkommande kartläggningar för att ta reda på om det är lämpligt med familjerådgivning?</p>
-<p>☐ Görs uppföljning av vilka som deltar i familjerådgivning?</p>
-<p>☐ Följs effekterna upp?</p>
+<p>☐ Det finns det mål/strategier för arbetet med familjerådgivning</p>
+<p>☐ Vilken aktör erbjuder familjerådgivning? (fördjupning?)</p>
+<p>☐ Hur många föräldrar deltar årligen i familjerådgivning? (fördjupning?)</p>
+<p>☐ I vilken utsträckning ges barn möjlighet att komma till tals i samband familjerådgivning? (fördjupning?)</p>
+<p>☐ Specifika modeller, metoder, verktyg eller bedömningsinstrument används under samtalen</p>
+<p>☐ Vilken utbildning har samtalsledarna? Ges samtalsledarna möjlighet till kompetensutveckling och vidareutbildning? (fördjupning?)</p>
+<p>☐ Vilka förutsättningar/plattformar för samverkan med andra aktörer finns? (fördjupning?)</p>
+<p>☐ Det görs återkommande kartläggningar för att ta reda på om det är lämpligt med familjerådgivning</p>
+<p>☐ Det görs uppföljning av vilka som deltar i familjerådgivning</p>
+<p>☐ Effekterna följs upp</p>
 <p><strong>Lagstiftning:</strong> <em>Socialtjänstlagen 5 kap. 3 §</em></p>
 <p>Kommunen ska sörja för att familjerådgivning genom kommunens försorg eller annars genom lämplig yrkesmässig rådgivare kan erbjudas dem som begär det.</p>
 <p>Med familjerådgivning avses i denna lag en verksamhet som består i samtal med syfte att bearbeta samlevnadskonflikter i parförhållanden och familjer.</p>
 <p><strong>Indikatorer:</strong></p>
 <p>Det finns flera indikatorer på kommunnivå. Läs mer:</p>
 <ul>
-<li><p><a href="https://mfof.se/statistik_familjeradgivning">Familjerådgivning (mfof.se)</a></p></li>
-<li><p><a href="https://mfof.se/download/18.7fecc00c1884c539cd42e4b1/1686116419181/Statistik%20familjer%C3%A5dgivning%202022_Teknisk%20rapport.pdf">Statistik familjerådgivning 2022_Teknisk rapport.pdf (mfof.se)</a></p></li>
+<li><p><a href="https://mfof.se/statistik_familjeradgivning">Familjerådgivning</a></p></li>
+<li><p><a href="https://mfof.se/download/18.7fecc00c1884c539cd42e4b1/1686116419181/Statistik%20familjer%C3%A5dgivning%202022_Teknisk%20rapport.pdf">Familjerådgivning: Teknisk rapport - En beskrivning av genomförande och metoder</a></p></li>
 </ul>
 <p><strong>Läs mer om familjerådgivning:</strong></p>
 <ul>
-<li><p><a href="https://mfof.se/familjeradgivning.html">Familjerådgivning - Startsida (mfof.se)</a></p></li>
-<li><p><a href="https://mfof.se/download/18.70103d0c17f2a79704e4486/1645793221507/V%C3%A4gledning%20familjer%C3%A5dgivning%20februari%202022.pdf">Vägledning familjerådgivning februari 2022.pdf (mfof.se)</a></p></li>
+<li><p><a href="https://mfof.se/familjeradgivning.html">Familjerådgivning</a></p></li>
+<li><p><a href="https://mfof.se/download/18.70103d0c17f2a79704e4486/1645793221507/V%C3%A4gledning%20familjer%C3%A5dgivning%20februari%202022.pdf">Vägledning, familjerådgivning - MFoF:s vägledande material för arbetet med familjerådgivning i Sveriges kommuner</a></p></li>
 </ul>
 </section>
-<section id="samarbetssamtal" class="level3" data-number="1.3.12">
-<h3 data-number="1.3.12" class="anchored" data-anchor-id="samarbetssamtal"><span class="header-section-number">1.3.12</span> Samarbetssamtal</h3>
+<section id="samarbetssamtal" class="level3" data-number="1.2.12">
+<h3 data-number="1.2.12" class="anchored" data-anchor-id="samarbetssamtal"><span class="header-section-number">1.2.12</span> Samarbetssamtal</h3>
 <p>Familjerådgivningen är en viktig förebyggande verksamhet på flera nivåer. MFoF anser att en väl utbyggd familjerådgivning som kan ta emot människor tidigt är viktigt både samhällsekonomiskt och för den enskilde. När råd och behandling vid relationsproblem ges i ett tidigt skede minskar belastningen på andra verksamheter i samhället, såsom socialtjänst, hälso- och sjukvård och försäkringskassa. Samtidigt som det på individnivå innebär ett ökat välbefinnande och en ökad förmåga att hantera framtida relationsproblem. På universell nivå kan familjerådgivningen genom sitt utåtriktade uppdrag ge breda folkbildade insatser om relationer och relationsproblem på arenor som exempelvis mödravårdens, barnhälsovårdens och familjecentralens föräldrautbildningar. På selektiv nivå kan familjerådgivning istället rikta insatser mot särskilda grupper som identifierats av kommunen. (Myndigheten för familjerätt och föräldraskapsstöd)</p>
 <p><strong>Checklista för samarbetssamtal:</strong></p>
-<p>☐ Finns det mål/strategier för arbetet med samarbetssamtal?</p>
-<p>☐ Vilken aktör erbjuder samarbetssamtal?</p>
-<p>☐ Hur många föräldrar deltar årligen i samarbetssamtal?</p>
-<p>☐ I vilken utsträckning ges barn möjlighet att komma till tals i samband samarbetssamtalen?</p>
-<p>☐ Används specifika modeller, metoder, verktyg eller bedömningsinstrument under samtalen?</p>
-<p>☐ Vilken utbildning har samtalsledarna? Ges samtalsledarna möjlighet till kompetensutveckling och vidareutbildning?</p>
-<p>☐ Vilka förutsättningar/plattformar för samverkan med andra aktörer finns?</p>
-<p>☐ Gör ni återkommande kartläggningar för att ta reda på om det är lämpligt med samarbetssamtal?</p>
-<p>☐ Görs uppföljning av vilka som deltar i samarbetssamtal?</p>
-<p>☐ Följs effekterna upp?</p>
+<p>☐ Det finn mål/strategier för arbetet med samarbetssamtal</p>
+<p>☐ Vilken aktör erbjuder samarbetssamtal? (fördjupning?)</p>
+<p>☐ Hur många föräldrar deltar årligen i samarbetssamtal? (fördjupning?)</p>
+<p>☐ I vilken utsträckning ges barn möjlighet att komma till tals i samband samarbetssamtalen? (fördjupning?)</p>
+<p>☐ Specifika modeller, metoder, verktyg eller bedömningsinstrument används under samtalen</p>
+<p>☐ Vilken utbildning har samtalsledarna? Ges samtalsledarna möjlighet till kompetensutveckling och vidareutbildning? (fördjupning?)</p>
+<p>☐ Vilka förutsättningar/plattformar för samverkan med andra aktörer finns? (fördjupning?)</p>
+<p>☐ Det görs återkommande kartläggningar för att ta reda på om det är lämpligt med samarbetssamtal</p>
+<p>☐ Det örs uppföljning av vilka som deltar i samarbetssamtal</p>
+<p>☐ Effekterna följs upp</p>
 <p><strong>Lagstiftning:</strong></p>
 <p>Enligt socialtjänstlagen (2001:453), (5 kap. 3 §) , ska kommunen sörja för att föräldrar kan erbjudas samtal under sakkunnig ledning i syfte att nå enighet i frågor som gäller vårdnad, boende och umgänge (samarbetssamtal). I föräldrabalken, FB infördes samtidigt en möjlighet för rätten att besluta om samarbetssamtal när en process om vårdnad och umgänge inletts.</p>
 <p><strong>Indikatorer:</strong></p>
 <p>Det finns flera indikatorer på kommunnivå. Läs mer:</p>
 <ul>
-<li><p><a href="https://mfof.se/sarskilda-innehallssidor/statistik/officiell-statistik/familjeratt.html">Familjerätt (mfof.se)</a></p></li>
-<li><p><a href="https://mfof.se/download/18.7fecc00c1884c539cd429235/1685968985912/Statistik%20om%20familjer%C3%A4tt%202022_Teknisk%20rapport.pdf">Statistik om familjerätt 2022_Teknisk rapport.pdf (mfof.se)</a></p></li>
+<li><p><a href="https://mfof.se/sarskilda-innehallssidor/statistik/officiell-statistik/familjeratt.html">Familjerätt</a></p></li>
+<li><p><a href="https://mfof.se/download/18.7fecc00c1884c539cd429235/1685968985912/Statistik%20om%20familjer%C3%A4tt%202022_Teknisk%20rapport.pdf">Familjerätt: Teknisk rapport - En beskrivning av genomförande och metoder</a></p></li>
 </ul>
 <p><strong>Läs mer om samarbetssamtal:</strong></p>
 <ul>
-<li><p><a href="https://mfof.se/vardnad-boende-och-umgange/information-for-foraldrar/vad-ar-samarbetssamtal.html">Vad är samarbetssamtal? (mfof.se)</a></p></li>
-<li><p><a href="https://www.mfof.se/download/18.78bdeb3e17e98c36ecf5a5f3/1643878965346/Forskning%20om%20samarbetssamtal%20och%20medling.pdf">Forskning om samarbetssamtal och medling.pdf (mfof.se)</a></p></li>
-<li><p><a href="https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2011-6-32.pdf">Interventioner för att förebygga och hantera föräldrars konflikter och tvister kring vårdnad, boende och umgänge (socialstyrelsen.se)</a></p></li>
-<li><p><a href="https://mfof.se/download/18.7a15f94516e8e25421b18716/1574925630064/samarbetssamtal-kartlaggning.pdf">Samarbetssamtal Kartläggning av föräldrars och samtalsledares erfarenheter (mfof.se)</a></p></li>
-<li><p><a href="https://www.sbu.se/sv/publikationer/sbus-upplysningstjanst/samarbetssamtal-och-medling-vid-vardnadstvist-eller-konflikt/?pub=68399&amp;lang=sv">Samarbetssamtal och medling vid vårdnadstvist eller konflikt (sbu.se)</a></p></li>
-<li><p><a href="https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2013/intervensjoner-for-a-dempe-foreldrekonflikt---en-kunnskapsoversikt.pdf">Intervensjoner-for-a-dempe-foreldrekonflikt—en-kunnskapsoversikt.pdf (fhi.no)</a></p></li>
+<li><p><a href="https://mfof.se/vardnad-boende-och-umgange/information-for-foraldrar/vad-ar-samarbetssamtal.html">Vad är samarbetssamtal?</a></p></li>
+<li><p><a href="https://www.mfof.se/download/18.78bdeb3e17e98c36ecf5a5f3/1643878965346/Forskning%20om%20samarbetssamtal%20och%20medling.pdf">Forskning om samarbetssamtal och medling)</a></p></li>
+<li><p><a href="https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2011-6-32.pdf">Interventioner för att förebygga och hantera föräldrars konflikter och tvister kring vårdnad, boende och umgänge</a></p></li>
+<li><p><a href="https://mfof.se/download/18.7a15f94516e8e25421b18716/1574925630064/samarbetssamtal-kartlaggning.pdf">Samarbetssamtal- Kartläggning av föräldrars och samtalsledares erfarenheter</a></p></li>
+<li><p><a href="https://www.sbu.se/sv/publikationer/sbus-upplysningstjanst/samarbetssamtal-och-medling-vid-vardnadstvist-eller-konflikt/?pub=68399&amp;lang=sv">Samarbetssamtal och medling vid vårdnadstvist eller konflikt</a></p></li>
+<li><p><a href="https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2013/intervensjoner-for-a-dempe-foreldrekonflikt---en-kunnskapsoversikt.pdf">Intervensjoner for å dempe foreldrekonflikt – en kunnskapsoversikt</a></p></li>
 </ul>
 
 
@@ -555,9 +572,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -622,6 +653,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -665,7 +782,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
-    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
