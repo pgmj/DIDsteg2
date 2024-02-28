@@ -7,96 +7,10 @@ title: "Måluppfyllelse i skolan"
 ## Definition Skyddsfaktor
 
 ## Kartläggning Basutbud
-I vår kommun finns: 
-
-☐ Förskola som lever upp till riktlinjer om storlek på barngrupper 
-
-    (länk till info? lägga info nedan om riktlinje? även ha indikator under?)
-
-☐ Förskolor och skolor som lever upp till riktlinjerna kring förskole- och skolgårdar 
-
-☐	Möjlighet till fysisk aktivitet och rörelse inom ramen för förskole- och skoldagen 
-
-☐	Rutiner för en trygg övergång mellan och inom olika skolformer
-
-☐	Kommunövergripande plan samt rutiner för närvarofrämjande arbete
-
-☐	Kommunövergripande plan för förskolans och skolans samverkan med föräldrar
-
-☐	Läsfrämjande insatser, t ex på bibliotek
-
-☐	Tidiga och samordnade insatser (TSI)
-
-☐	Skolsociala team
-
-☐	Skolan som arena
-
-
-Kunskapsbaserade program för psykisk hälsa
-
-☐	FRIENDS
-
-☐	Youth Aware of Mental health (YAM)
-
-☐	SEL-program
-
-☐	Förskola: Promoting Alternative Thinking Strategies (PATHS)
-
-
-Kunskapsbaserade mobbningsförebyggande program
-
-☐	PALS
-
-☐	Olweusprogrammet mot mobbning
-
-☐	KiVa Skola
-
-☐	Annat: 
-
-
-Kunskapsbaserade våldspreventiva program
-
-☐	Mentors in Violence Prevention (MVP)
-  
-☐	Annat:
-
-
-Kunskapsbaserade program för ökad trygghet och studiero
-
-☐	PAX i skolan
-  
-☐	Höjaspelet (varianter av Good Behavior Game) 
-
-☐	Skol-KOMET 
-  
-☐	Annat:
-
-
-Kunskapsbaserade föräldrastödsprogram (som erbjuds via skola eller förskola?)
-
-☐ Family Check-Up och iKomet
-  
-☐	Växa Tryggt, Rinkebymodellen, Utökade hembesök 
-  
-☐	Komet, COPE, Connect, samt De Otroliga Åren   
-  
-☐	Alla Barn i Centrum (ABC)
-  
-☐	Triple P
-  
-☐	Annat:
-
-
-Kunskapshöjande insatser till personal i förskolan
-
-☐	ABC i förskolan
-
-☐	Annat:
-
+För att kartlägga basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMEYxMDREQ1YzTE00UFVKV1lJUUM2WDJPSS4u)
 
 ## Basutbud
-
-bild??
 
 
 ### Förskola av hög kvalitét
@@ -105,9 +19,9 @@ Text om varför förskolan är viktig
 
 **Indikatorer:**
 
--   Andel barn registrerade i förskola 3-5 år 
+-  [Andel barn registrerade i förskola 3-5 år](https://www.kolada.se/)
 
--   Förskollärare med pedagogisk högskoleexamen
+-  [Förskollärare med pedagogisk högskoleexamen](https://www.kolada.se/)
 
 
 **Fördjupande frågor:** 
@@ -117,6 +31,8 @@ Text om varför förskolan är viktig
 ☐ Vilken möjlighet finns till kompetensutveckling kring främjande och förebyggande arbete?
 
 ☐ I vilken utsträckning sker resurstilldelning och utbildning i förskolan på analyser av hur barns olika villkor och bakgrund ser ut? 
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 
 **Skollagen:**
@@ -164,6 +80,7 @@ Beskrivning av insatsen
 
 ☐ Följs effekterna upp? 
 
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Bibliotekslagen:**
 
@@ -211,6 +128,8 @@ Beskrivning av trygga skolövergångar
 
 ☐ Genomförs uppföljning av arbetet?
 
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+
 
 **Läs mer om trygga skolövergångar:**
 
@@ -230,7 +149,7 @@ Beskrivning av närvarofrämjande arbete
 
 **Indikatorer:**
 
--  Skolfrånvaro, andel elever över x % (15-20).
+-  [Skolfrånvaro, andel elever över x % (15-20)](https://www.kolada.se/)
 
 
 **Fördjupande frågor:** 
@@ -240,6 +159,8 @@ Beskrivning av närvarofrämjande arbete
 ☐ På vilket sett sker samverkan med vårdnadshavare och elever i det närvarofrämjande arbetet?
 
 ☐ Hur följs det närvarofrämjande arbetet upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 
 **Skollagen**
@@ -267,7 +188,7 @@ Beskriv vikten av samverkan...
 
 **Indikatorer:**
 
--  Skolfrånvaro, andel elever över x % (15-20).
+-  [Skolfrånvaro, andel elever över x % (15-20)](www.kolada.se)
 
 
 **Fördjupande frågor:** 
@@ -286,6 +207,7 @@ Beskriv vikten av samverkan...
 
 ☐ Hur följs det arbetet upp?
 
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Skollagen**
 
@@ -319,6 +241,7 @@ Beskriv TSI
 
 ☐ Hur följs arbetet med tidiga och samordnade insatser upp?
 
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om tidiga och samordnade insatser:**
 
@@ -346,10 +269,11 @@ Beskriv skolsociala team
 
 ☐ Vilka aktörer ingår i samverkan?
 
-☐ Erbjuds kunskapshöjande insatser om tidiga och samordnade insatser? I så fall för vilka målgrupper?
+☐ Erbjuds kunskapshöjande insatser om skolsociala team? I så fall för vilka målgrupper?
 
 ☐ Hur följs arbetet med skolsociala team upp?
 
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om skolsociala team:**
 
@@ -371,6 +295,7 @@ Beskriv hälsofrämjande insatser...
 
 ☐ Hur följs det hälsofrämjande arbetet upp?
 
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om hälsofrämjande insatser:**
 
@@ -397,13 +322,14 @@ Beskriv trygghetsfrämjande insatser
 
 **Indikatorer:**
 
--   Andel elever som känner sig trygga i skolan.
+-   [Andel elever som känner sig trygga i skolan](www.kolada.se)
 
 
 **Fördjupande frågor:** 
 
 ☐ Hur följs det trygghetsfrämjande arbetet upp?
 
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om trygghetsfrämjande insatser:**
 
