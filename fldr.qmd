@@ -19,33 +19,40 @@ Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighe
 
 Kort beskrivning av insatsen varför är det kan vara en bra insats...
 
-Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram..
 
-**Checklista för hembesöksprogram:**
+**Kartläggning av basutbud - hembesöksprogram:**
 
-☐ Utökat hembesöksprogram erbjuds i vår kommun (sidlogik som slussar vidare de som svarat ja)
+-  Utökat hembesöksprogram erbjuds i vår kommun.
 
-☐ Det finns mål/strategier för arbetet med utökat hembesöksprogram
+-  Det finns mål/strategier för arbetet med utökat hembesöksprogram.
 
-☐ Vilka aktörer ingår i det utökade hembesöksprogrammet? (ta bort?)
+-  Det finns långsiktig finansiering för arbetet  med utökat hembesöksprogram.
 
-☐ Det finns långsiktig finansiering för arbetet
+-  Det görs uppföljning av vilka som deltar i det utökade hembesöksprogrammet. 
 
-☐ Vilka förutsättningar/plattformar för samverkan finns? (ta bort?)
-
-☐ Vilka målgrupper erbjuds det utökade hembesöksprogrammet? (ta bort)
-
-☐ Det görs uppföljning av vilka som deltar i det utökade hembesöksprogrammet. 
-
-☐ Nås rätt målgrupp? (tas bort)
-
-☐ Effekterna följs upp
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
 **Indikatorer:**
 
 -   Ej identifierat i dagsläget.
 
-**Läs mer om hembesöksprogram:** (fixa med rubrik/underrubrik på alla)
+**Fördjupande frågor:** 
+
+- Vilka aktörer ingår i det utökade hembesöksprogrammet?
+
+- Vilka förutsättningar/plattformar för samverkan finns? 
+
+- Vilka målgrupper erbjuds det utökade hembesöksprogrammet?
+
+- Nås rätt målgrupp?
+
+- Hur följs efekterna upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
+
+**Läs mer om hembesöksprogram:**
 
 -   [Rinkeby hembesöksprogram - Ett utökat hembesöksprogram i samarbete mellan barnhälsovården och socialtjänsten](https://ki.se/media/77454/download)
 
@@ -65,33 +72,41 @@ Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogra
 
 -   [Risk och skyddsfaktorer - vad vet vi och vad kan göras med kunskapen?](https://osf.io/ntcw3)
 
+
 ### Familjecentral av hög kvalitet
 
-Kort beskrivning av insatsen varför är det kan vara en bra insats...
+Kort beskrivning av insatsen och varför är det kan vara en bra insats...
 
-Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+Här beskrivs också vad hög kvalitet betyder när det gäller familjecentraler..
 
-**Checklista för familjecentral av hög kvalitet:**
+**Kartläggning av basutbud - familjecentral av hög kvalitet:**
 
-☐ Det finns en eller flera familjecentraler i kommunen
+- Det finns en eller flera familjecentraler i kommunen.
 
-☐ Det finns mål/strategier för arbetet med familjecentraler
+- Det finns mål/strategier för arbetet med familjecentraler.
 
-☐ Det finns långsiktig finansiering av familjecentraler
+- Det finns långsiktig finansiering av familjecentraler.
 
-☐ Finns det en struktur för arbetet? Ex. samordnare, kompentensutveckling? (ta bort? fördjupning?)
+- Det görs uppföljning av vilka som besöker familjecentralen.
 
-☐ Var i kommunen är FC placerad? Tillgänglighet? (ta bort? fördjupning?)
+- Det finns en struktur för arbetet (exempelvis samordnare, kompetensutveckling).
 
-☐ Vilka förutsättningar för samverkan finns? (ta bort? fördjupning?)
-
-☐ Det görs uppföljning av vilka som besöker familjecentralen
-
-☐ Effekterna följs upp
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
 **Indikatorer:**
 
 -   Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun.
+
+**Fördjupande frågor:** 
+
+- Var i kommunen är familjecentralen placerad? Tillgänglighet?
+
+- Vilka förutsättningar för samverkan finns? 
+
+- Hur följs effekterna upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
 
 **Läs mer om familjecentraler:**
 
@@ -113,26 +128,35 @@ Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogra
 
 -   [Nationell vägledning Familjecentral - Samverkan för barns bästa!](https://utveckling.regionorebrolan.se/contentassets/28b5fc54d5454595ae632c79c415a178/nationell-vagledning-familjecentral---samverkan-for-barns-basta.pdf)
 
+
 ### Föräldragrupp MHV/BHV
 
-Kort beskrivning av insatsen varför är det kan vara en bra insats...
+Kort beskrivning av insatsen och varför är det kan vara en bra insats...
 
-**Checklista för föräldragrupp MHV/BHV:**
+**Kartläggning av basutbud - föräldragrupp MHV/BHV:**
 
-☐ Föräldrar i kommunen erbjuds föräldragrupp via MHV respektive BHV
+- Föräldrar i kommunen erbjuds föräldragrupp via MHV respektive BHV.
 
-☐ Vilka förutsättningar finns för samverkan mellan region och kommun? (ta bort? fördjupning?)
+- Uppföljning görs av vilka som deltar i föräldragrupper på MHV respektive BHV.
 
-☐ Vilka föräldrar erbjuds föräldragrupp via MHV respektive BHV? (ta bort? fördjupning?)
-
-☐ Uppföljning görs av vilka som deltar i föräldragrupper på MHV respektive BHV
-
-☐ FEffekterna följs upp
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
 **Indikatorer:**
 
 -   Andel kvinnor respektive partner som deltagit i föräldrastöd efter typ av region.
+
 -   Andel kvinnor och män som deltagit i föräldragrupp på BHV av totalt antal födda barn per region.
+
+**Fördjupande frågor:** 
+
+- Vilka förutsättningar finns för samverkan mellan region och kommun? 
+
+- Vilka föräldrar erbjuds föräldragrupp via MHV respektive BHV?
+
+- Hur följs effekterna upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
 
 **Läs mer om föräldragrupper MVC/BVC**
 
@@ -142,33 +166,27 @@ Kort beskrivning av insatsen varför är det kan vara en bra insats...
 
 -   [Föräldrastöd inom hälso- och sjukvård](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2015-12-38.pdf)
 
+
 ### Öppen förskola av hög kvalitet
 
-Kort beskrivning av insatsen varför är det kan vara en bra insats...
+Kort beskrivning av insatsen och varför är det kan vara en bra insats...
 
-**Checklista för öppen förskola av hög kvalitet:**
+**Kartläggning av basutbud - öppen förskola av hög kvalitet:**
 
-☐ Erbjuds utökat hembesöksprogram i vår kommun? (ska den vara så?)
+- Det finns en eller flera öppna förskolor i kommunen.
 
-☐ Det finns en eller flera öppna förskolor i kommunen
+- De är samlokaliserade med andra verksamheter.
 
-☐ Vem är huvudman? (ta bort/fördjupning?)
+- Det finns mål/strategier för arbetet med öppen förskola.
 
-☐ De är samlokaliserade med andra verksamheter
+- Det finns långsiktig finansiering av den öppna förskolan.
 
-☐ Det finns mål/strategier för arbetet med öppen förskola
+- Det finns en struktur för arbetet (exempelvis samordnare, kompetensutveckling).
 
-☐ Det finns långsiktig finansiering av den öppna förskolan
+- Det görs uppföljning av vilka som besöker den öppna förskolan.
 
-☐ Det finns en struktur för arbetet (Ex. samordnare, kompentensutveckling)
-
-☐ Var i kommunen är den öppna förskolan placerad? Tillgänglighet? (ta bort/fördjupning?)
-
-☐ Vilka förutsättningar för samverkan finns? (ta bort/fördjupning?)
-
-☐ Det görs uppföljning av vilka som besöker den öppna förskolan
-
-☐ Effekterna följs upp
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
 **Lagstiftning:**
 
@@ -176,9 +194,23 @@ Kort beskrivning av insatsen varför är det kan vara en bra insats...
 
 En kommun får anordna öppen förskola som komplement till förskola och pedagogisk omsorg. Den öppna förskolan ska erbjuda barn en pedagogisk verksamhet i samarbete med de till barnen medföljande vuxna, samtidigt som de vuxna ges möjlighet till social gemenskap.
 
+
 **Indikatorer:**
 
 -   Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun.
+
+
+**Fördjupande frågor**
+
+- Vem/vilka är huvudman/män? 
+
+- Var i kommunen är den öppna förskolan placerad? Tillgänglighet?
+
+- Vilka förutsättningar för samverkan finns? 
+
+- Hur följs effekterna upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
 
 **Läs mer om öppen förskola:**
 
@@ -190,71 +222,94 @@ En kommun får anordna öppen förskola som komplement till förskola och pedago
 
 -   [Allmänna råd för öppen förskola](https://www.skolverket.se/download/18.6bfaca41169863e6a6538f8/1553956773578/pdf607.pdf)
 
+
 ### Individuella föräldrastödssamtal
 
-Kort beskrivning av insatsen varför är det kan vara en bra insats...
+Kort beskrivning av insatsen och varför är det kan vara en bra insats...
 
-**Checklista för individuella föräldrastödssamtal:**
 
-☐ Socialtjänsten erbjuder individuella föräldrastödssamtal utan behovsprövning
+**Kartläggning av basutbud - individuella föräldrastödssamtal:**
 
-☐ Det finns det mål/strategier för arbetet med individuella stödsamtal
+- Socialtjänsten erbjuder individuella föräldrastödssamtal utan behovsprövning.
 
-☐ Det finns långsiktig finansiering av individuella stödsamtal
+- Det finns det mål/strategier för arbetet med individuella stödsamtal.
 
-☐ Det finns det en struktur för arbetet (Exempelvis samordnare, kompentensutveckling)
+- Det finns långsiktig finansiering av individuella stödsamtal.
 
-☐ Vilka förutsättningar för samverkan finns?  (fördjupning?)
+- Det finns det en struktur för arbetet (Exempelvis samordnare, kompetensutveckling).
 
-☐ Det görs uppföljning av vilka som tar del av samtalen
+- Det görs uppföljning av vilka som tar del av samtalen.
 
-☐ Effekterna följs upp
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
 **Lagstiftning:**
+.
 
 **Indikatorer:**
 
 -   Ej identifierat i dagsläget.
+
+**Fördjupande frågor**
+
+- Vilka förutsättningar för samverkan finns?
+
+- Hur följs efekterna upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
 
 **Läs mer om individuella föräldrastödssamtal:**
 
 -   [Socialtjänst](https://mfof.se/foraldraskapsstod/arenor-for-foraldraskapsstod/socialtjanst.html)
 
+
+
 ### Universella föräldrastödsprogram
 
 Kort beskrivning av insatsen varför är det kan vara en bra insats...
 
-Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+Här beskrivs också vad hög kvalitet betyder när det gäller föräldrastödsprogram...
 
-**Checklista för universella föräldrastödsprogram:**
 
-☐ Det finns mål/strategier för arbetet med universella föräldraskapsstödsprogram?
+**Kartläggning av basutbud - universella föräldrastödsprogram:**
 
-☐ Det erbjuds universella föräldraskapsstödsprogram i kommunen? Vilka?  (fördjupning?)
+- Det erbjuds universella föräldraskapsstödsprogram i kommunen, vilka?
 
-☐ Vilka aktörer erbjuder universella föräldraskapsstödsprogram? (fördjupning?)
+- Det finns mål/strategier för arbetet med universella föräldraskapsstödsprogram.
 
-☐ På vilka arenor erbjuds föräldraskapsstödsprogram? (fördjupning?)
+- Det finns långsiktig finansiering för universella föräldraskapsstödsprogram.
 
-☐ Det finns långsiktig finansiering för universella föräldraskapsstödsprogram
+- Det finns struktur för arbetet (exempelvis återkommande utbildning av gruppledare, samordnare och kompetensutveckling).
 
-☐ Det finns struktur för arbetet ( Till exempel återkommande utbildning av gruppledare, samordnare, kompentensutveckling)
+- Det görs återkommande uppföljningar av vilka som deltar i universella föräldraskapsstödsprogram.
 
-☐ Vilka förutsättningar för samverkan finns? (fördjupning?)
-
-☐ Antal yrkespersoner utbildade i föräldraskapsstödsprogram X och X. (fördjupning?)
-
-☐ Antal föräldrar som kan erbjudas universella föräldraskapsstödsprogram? (fördjupning?)
-
-☐ Det görs återkommande uppföljningar av vilka som deltar
-
-☐ Effekterna följs upp
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
 **Lagstiftning:**
+
+.
+
 
 **Indikatorer:**
 
 -   Ej identifierat i dagsläget.
+
+**Fördjupande frågor**
+
+- Vilka aktörer erbjuder universella föräldraskapsstödsprogram?
+
+- På vilka arenor erbjuds föräldraskapsstödsprogram?
+
+- Vilka förutsättningar för samverkan finns?
+
+- Hur många yrkespersoner är utbildade i kommunens universella föräldraskapsstödsprogram?
+
+- Hur många föräldrar kan erbjudas universella föräldraskapsstödsprogram?
+
+- Hur följs effekterna av programmen upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
 
 **Läs mer om universella föräldrastödsprogram:**
 
@@ -266,39 +321,51 @@ Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogra
 
 -   [Risk och skyddsfaktorer - vad vet vi och vad kan göras med kunskapen?](https://osf.io/ntcw3)
 
+
 ### Riktade föräldrastödsprogram
 
 Kort beskrivning av insatsen varför är det kan vara en bra insats...
 
 Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
 
-**Checklista för riktade föräldrastödsprogram:**
 
-☐ Det finns det mål/strategier för arbetet med riktade föräldraskapsstödsprogram
+**Kartläggning av basutbud - riktade föräldrastödsprogram:**
 
-☐ Det erbjuds riktade föräldraskapsstödsprogram i vår kommun? Vilka? (fördjupning?) Ha en lista?
+- Det erbjuds riktade föräldraskapsstödsprogram i vår kommun? Vilka? 
 
-☐ Vilka aktörer erbjuder riktade föräldraskapsstödsprogram? (fördjupning?)
+- Det finns det mål/strategier för arbetet med riktade föräldraskapsstödsprogram.
 
-☐ Det finns långsiktig finansiering för riktade föräldraskapsstödsprogram
+- Det finns långsiktig finansiering för riktade föräldraskapsstödsprogram.
 
-☐ Det finns struktur för arbetet (Exempelvis återkommande utbildning av gruppledare, samordnare, kompentensutveckling)
+- Det finns struktur för arbetet (exempelvis återkommande utbildning av gruppledare, samordnare, kompetensutveckling).
 
-☐ Vilka förutsättningar för samverkan finns?(fördjupning?)
+- Det görs återkommande uppföljning av vilka som deltar.
 
-☐ Antal yrkespersoner utbildade i föräldraskapsstödsprogram X och X.(fördjupning?)
-
-☐ Antal föräldrar som kan erbjudas universella föräldraskapsstödsprogram? (fördjupning?)
-
-☐ Det görs återkommande uppföljningar av vilka som deltar
-
-☐ Effekterna följs upp
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
 **Lagstiftning:**
+
+.
+
 
 **Indikatorer:**
 
 -   Andel kommuner/stadsdelar som erbjuder minst ett manualbaserat föräldrastöd i grupp för barn med bråkigt/normbrytande beteende, per län.
+
+**Fördjupande frågor**
+
+- Vilka aktörer erbjuder riktade föräldraskapsstödsprogram?
+
+- Vilka förutsättningar för samverkan finns?
+
+- Hur många yrkespersoner är utbildade i kommunens riktade föräldraskapsstödsprogram?
+
+- Hur många föräldrar kan erbjudas riktade föräldraskapsstödsprogram?
+
+- Hur följs effekterna av programmen upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
 
 **Läs mer om riktade föräldrastödsprogram:**
 
@@ -316,71 +383,96 @@ Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogra
 
 -   [Risk- och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?](https://osf.io/ntcw3)
 
+
 ### Föräldraföreläsningar
 
 Kort beskrivning av insatsen varför är det kan vara en bra insats...
 
-Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+Här beskrivs också vad hög kvalitet betyder när det gäller föräldraföreläsningar
 
-**Checklista för föräldraföreläsningar:**
+**Kartläggning av basutbud -föräldraföreläsningar:**
 
-☐ Det erbjuds öräldraföreläsningar regelbundet till föräldrar i kommunen
+- Det erbjuds föräldraföreläsningar regelbundet till föräldrar i kommunen.
 
-☐ Vilka teman handlar föräldraföreläsningarna om?(fördjupning?)
+- Det finns det mål/strategier för arbetet med föräldraföreläsningar.
 
-☐ Det finns det mål/strategier för arbetet med föräldraföreläsningar
+- Det finns långsiktig finansiering av föräldraföreläsningar.
 
-☐ Det finns långsiktig finansiering av föräldraföreläsningar
+- Det finns det en struktur för arbetet (Exempelvis samordnare, kompetensutveckling).
 
-☐ Det finns det en struktur för arbetet (Exempelvis samordnare, kompentensutveckling)
+- Det görs uppföljning av vilka som tar del av föräldraföreläsningarna.
 
-☐ Vilka förutsättningar för samverkan finns? (fördjupning?)
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
-☐ Det görs uppföljning av vilka som tar del av föräldraföreläsningarna
-
-☐ Effekterna följs upp
 
 **Lagstiftning:**
+
+.
 
 **Indikatorer:**
 
 -   Ej identifierat i dagsläget.
+
+
+**Fördjupande frågor**
+
+- Vilka teman handlar föräldraföreläsningarna om?
+
+- Vilka förutsättningar för samverkan finns?
+
+- Hur följs effekterna upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
 
 **Läs mer om föräldraföreläsningar:**
 
 -   [Inspirationsföreläsning gör nyblivna föräldrar tryggare](https://www.forskning.se/2020/08/25/inspirationsforelasning-gor-nyblivna-foraldrar-tryggare/)
 
+
 ### Samverkan förskola/skola och föräldrar
 
-Kort beskrivning av insatsen varför är det kan vara en bra insats...
+Kort beskrivning av insatsen och varför är det kan vara en bra insats...
 
-Här beskrivs också vad hög kvalitet betyder när det gäller hembesöksprogram eller X
+Här beskrivs också vad hög kvalitet betyder när det gäller samverkan
 
-**Checklista för samverkan förskola/skola och föräldrar:**
+**Kartläggning av basutbud - samverkan förskola/skola och föräldrar:**
 
-☐ Det finns en kommunövergripande plan för förskolans och skolans samverkan med föräldrar
+- Det finns en kommunövergripande plan för förskolans och skolans samverkan med föräldrar.
 
-☐ Respektive förskola/skola har en gemensam strategi för att möjliggöra för hem och vårdnadshavare att bli delaktiga i frågor som rör elevens skolgång
+-  Respektive förskola/skola har en gemensam strategi för att möjliggöra för hem och vårdnadshavare att bli delaktiga i frågor som rör elevens skolgång.
 
-☐ Respektive förskola/skola har gemensamma förhållningssätt i kontakter med vårdnadshavare och hemmen
+-  Respektive förskola/skola har gemensamma förhållningssätt i kontakter med vårdnadshavare och hemmen.
 
-☐ Det erbjuds kunskapshöjande insatser om föräldraskapsstöd och föräldrasamverkan
+-  Det erbjuds kunskapshöjande insatser om föräldraskapsstöd och föräldrasamverkan.
 
-☐ På vilket sett sker samverkan med vårdnadshavare och hemmet? (fördjupning?)
+-  Det finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård.
 
-☐ Det finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
-☐ Hur följs det arbetet upp?(fördjupning?)
 
 **Lagstiftning:**
+
+.
 
 *Skollagen 1 kap. 4 §*
 
 Utbildningen syftar också till att i samarbete med hemmen främja barns och elevers allsidiga personliga utveckling till aktiva, kreativa, kompetenta och ansvarskännande individer och medborgare.
 
+
 **Indikatorer:**
 
 -   Ej identifierat i dagsläget.
+
+
+**Fördjupande frågor**
+
+- På vilket sett sker samverkan med vårdnadshavare och hemmet?
+
+- Hur följs det arbetet upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
 
 **Läs mer om samverkan mellan förskola/skola och föräldrar:**
 
@@ -394,37 +486,49 @@ Utbildningen syftar också till att i samarbete med hemmen främja barns och ele
 
 -   [Moment 3 - Samverkan för lärande](https://spsm.se/studiepaket-amnesomraden/moment-3/)
 
+
 ### Tidiga samordnade insatser
 
-TSI kan ses som ett paraplybegrepp för strukturerad samverkan för tidigt och förebyggande arbete. Arbete som bedrivs gemensamt för att åstadkomma tidiga och samordnade insatser till barn och unga och involverar exempelvis skola, hälso- och sjukvård, socialtjänst, fritidsverksamhet och polis. TSI är alltså inte en specifik metod, utan en form för strukturerad samverkan. Grunden för arbetet med TSI är att samla kompetens från flera verksamheter för att få en helhetsbild av barnets eller den unges behov av stöd och lämpliga insatser.
+TSI kan ses som ett paraplybegrepp för strukturerad samverkan för tidigt och förebyggande arbete. Arbete som bedrivs gemensamt för att åstadkomma tidiga och samordnade insatser till barn och unga och involverar exempelvis skola, hälso- och sjukvård, socialtjänst, fritidsverksamhet och polis. TSI är alltså inte en specifik metod, utan en form för strukturerad samverkan. Grunden för arbetet med TSI är att samla kompetens från flera verksamheter för att få en helhetsbild av barnets eller den unges behov av stöd och lämpliga insatser (Socialstyrelsen och Skolverket, 2023).
 
-Alla vinner på att en ogynnsam utveckling hos barn och unga vänds, ju förr desto bättre. Det samhället investerar i barn och unga i ett tidigt skede har vi igen mångfalt senare. Att få tillgång till tidiga insatser kan på individnivå förebygga framtida utanförskap, till exempel i form av fysisk och psykisk ohälsa, arbetslöshet, missbruk och kriminalitet. Här finns också stora vinster på samhällsnivå att hämta. (Socialstyrelsen och Skolverket, 2023)
+**Kartläggning av basutbud - tidiga samordnade insatser:**
 
-**Checklista för tidiga samordnade insatser:**
+- Det finns en kommunövergripande plan för arbetet med tidiga samordnade insatser.
 
-☐ Det finns det  kommunövergripande plan för arbetet med tidiga samordnade insatser
+- Det finns en samverkansöverenskommelse  mellan skola, hälso- och sjukvård, socialtjänst, fritidsverksamhet och polis.
 
-☐ Det finns en samverkansöverenskommelse I så fall mellan vilka aktörer? (fördjupning?)
+- Vårdnadshavare och  barn och unga involveras i arbetet. 
 
-☐ Det finns ett tvärsektoriellt team I så fall, hur är uppdraget formulerat, vilka ingår, hur är ansvar och roller fördelade? (fördjupning?)
+- Det finns ett tvärsektoriellt team.
 
-☐ Kunskapshöjande insatser om tidiga samordnade insatser erbjuds Målgupp? (fördjupning?)
+- Det erbjuds kunskapshöjande insatser om tidiga samordnade insatser.
 
-☐ På vilket sett involveras vårdnadshavare? (fördjupning?)
+- Det finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård.
 
-☐ På vilket sätt involveras barn och unga? (fördjupning?)
-
-☐ Det finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård
-
-☐ Vilken målgrupp nås av tidiga samordnade insatser? (fördjupning?)
-
-☐ Hur följs det arbetet upp? (fördjupning?)
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
 **Lagstiftning:**
+
+.
 
 **Indikatorer:**
 
 -   Ej identifierat i dagsläget.
+
+**Fördjupande frågor**
+
+- Om det finns ett tvärsektoriellt team, hur är uppdraget formulerat, vilka ingår, hur är ansvar och roller fördelade?
+
+- På vilket sett involveras vårdnadshavare?
+
+- På vilket sätt involveras barn och unga?
+
+- Vilken målgrupp nås av tidiga samordnade insatser?
+
+- Hur följs det arbetet upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
 
 **Läs mer om tidiga samordnade insatser:**
 
@@ -434,31 +538,29 @@ Alla vinner på att en ogynnsam utveckling hos barn och unga vänds, ju förr de
 
 -   [TSI-boken - Stöd i arbetet med tidiga och samordnade insatser för barn och unga](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-10-8779.pdf)
 
+
 ### Familjerådgivning
 
 Familjerådgivningen är en viktig förebyggande verksamhet på flera nivåer. MFoF anser att en väl utbyggd familjerådgivning som kan ta emot människor tidigt är viktigt både samhällsekonomiskt och för den enskilde. När råd och behandling vid relationsproblem ges i ett tidigt skede minskar belastningen på andra verksamheter i samhället, såsom socialtjänst, hälso- och sjukvård och försäkringskassa. Samtidigt som det på individnivå innebär ett ökat välbefinnande och en ökad förmåga att hantera framtida relationsproblem. På universell nivå kan familjerådgivningen genom sitt utåtriktade uppdrag ge breda folkbildade insatser om relationer och relationsproblem på arenor som exempelvis mödravårdens, barnhälsovårdens och familjecentralens föräldrautbildningar. På selektiv nivå kan familjerådgivning istället rikta insatser mot särskilda grupper som identifierats av kommunen. (Myndigheten för familjerätt och föräldraskapsstöd)
 
-**Checklista för familjerådgivning:**
+**Kartläggning av basutbud - familjerådgivning:**
 
-☐ Det finns det mål/strategier för arbetet med familjerådgivning
+- Kommunen erbjuder familjerådgivning.
 
-☐ Vilken aktör erbjuder familjerådgivning? (fördjupning?)
+- Det finns det mål/strategier för arbetet med familjerådgivning.
 
-☐ Hur många föräldrar deltar årligen i familjerådgivning? (fördjupning?)
+- Barn ges möjlighet att komma till tals i samband familjerådgivning.
 
-☐ I vilken utsträckning ges barn möjlighet att komma till tals i samband familjerådgivning? (fördjupning?)
+- Specifika modeller, metoder, verktyg eller bedömningsinstrument används under samtalen. 
 
-☐  Specifika modeller, metoder, verktyg eller bedömningsinstrument används under samtalen 
+- Det görs återkommande kartläggningar för att ta reda på om det är lämpligt med familjerådgivning.
 
-☐ Vilken utbildning har samtalsledarna? Ges samtalsledarna möjlighet till kompetensutveckling och vidareutbildning? (fördjupning?)
+- Det görs uppföljning av vilka som deltar i familjerådgivning.
 
-☐ Vilka förutsättningar/plattformar för samverkan med andra aktörer finns? (fördjupning?)
+- Samtalsledarna ges möjlighet till kompetensutveckling och vidareutbildning.
 
-☐ Det görs återkommande kartläggningar för att ta reda på om det är lämpligt med familjerådgivning 
-
-☐ Det görs uppföljning av vilka som deltar i familjerådgivning
-
-☐ Effekterna följs upp
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
 **Lagstiftning:** *Socialtjänstlagen 5 kap. 3 §*
 
@@ -474,6 +576,22 @@ Det finns flera indikatorer på kommunnivå. Läs mer:
 
 -   [Familjerådgivning: Teknisk rapport - En beskrivning av genomförande och metoder](https://mfof.se/download/18.7fecc00c1884c539cd42e4b1/1686116419181/Statistik%20familjer%C3%A5dgivning%202022_Teknisk%20rapport.pdf)
 
+**Fördjupande frågor**
+
+- Vilken/Vilka aktör/er erbjuder familjerådgivning?
+
+- Hur många föräldrar deltar årligen i familjerådgivning? 
+
+- I vilken utsträckning ges barn möjlighet att komma till tals i samband familjerådgivning?
+
+- Vilken utbildning har samtalsledarna? Ges samtalsledarna möjlighet till kompetensutveckling och vidareutbildning?
+
+- Vilka förutsättningar/plattformar för samverkan med andra aktörer finns?
+
+- Hur följs effekterna upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
+
 **Läs mer om familjerådgivning:**
 
 -   [Familjerådgivning](https://mfof.se/familjeradgivning.html)
@@ -484,27 +602,24 @@ Det finns flera indikatorer på kommunnivå. Läs mer:
 
 Familjerådgivningen är en viktig förebyggande verksamhet på flera nivåer. MFoF anser att en väl utbyggd familjerådgivning som kan ta emot människor tidigt är viktigt både samhällsekonomiskt och för den enskilde. När råd och behandling vid relationsproblem ges i ett tidigt skede minskar belastningen på andra verksamheter i samhället, såsom socialtjänst, hälso- och sjukvård och försäkringskassa. Samtidigt som det på individnivå innebär ett ökat välbefinnande och en ökad förmåga att hantera framtida relationsproblem. På universell nivå kan familjerådgivningen genom sitt utåtriktade uppdrag ge breda folkbildade insatser om relationer och relationsproblem på arenor som exempelvis mödravårdens, barnhälsovårdens och familjecentralens föräldrautbildningar. På selektiv nivå kan familjerådgivning istället rikta insatser mot särskilda grupper som identifierats av kommunen. (Myndigheten för familjerätt och föräldraskapsstöd)
 
-**Checklista för samarbetssamtal:**
+**Kartläggning av basutbud - samarbetssamtal:**
 
-☐ Det finn mål/strategier för arbetet med samarbetssamtal
+- Kommunen erbjudersamarbetssamtal.
 
-☐ Vilken aktör erbjuder samarbetssamtal?  (fördjupning?)
+- Det finn mål/strategier för arbetet med samarbetssamtal.
 
-☐ Hur många föräldrar deltar årligen i samarbetssamtal? (fördjupning?)
+- Barn ges möjlighet att komma till tals i samband samarbetssamtalen.
 
-☐ I vilken utsträckning ges barn möjlighet att komma till tals i samband samarbetssamtalen? (fördjupning?)
+- Specifika modeller, metoder, verktyg eller bedömningsinstrument används under samtalen.
 
-☐ Specifika modeller, metoder, verktyg eller bedömningsinstrument används under samtalen
+- Samtalsledarna ges möjlighet till kompetensutveckling och vidareutbildning.
 
-☐ Vilken utbildning har samtalsledarna? Ges samtalsledarna möjlighet till kompetensutveckling och vidareutbildning? (fördjupning?)
+- Det görs återkommande kartläggningar för att ta reda på om det är lämpligt med samarbetssamtal. 
 
-☐ Vilka förutsättningar/plattformar för samverkan med andra aktörer finns? (fördjupning?)
+- Det görs uppföljning av vilka som deltar i samarbetssamtal.
 
-☐ Det görs återkommande kartläggningar för att ta reda på om det är lämpligt med samarbetssamtal 
-
-☐ Det örs uppföljning av vilka som deltar i samarbetssamtal
-
-☐ Effekterna följs upp
+För att skicka in svar på kartläggningen av basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
+[Enkät Basutbud God Föräldra-Barn-Relation](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUME8xVVFKRVI1UFc3UERDTFhRTFMyVEcwTy4u)
 
 **Lagstiftning:**
 
@@ -517,6 +632,20 @@ Det finns flera indikatorer på kommunnivå. Läs mer:
 -   [Familjerätt](https://mfof.se/sarskilda-innehallssidor/statistik/officiell-statistik/familjeratt.html)
 
 -   [Familjerätt: Teknisk rapport - En beskrivning av genomförande och metoder](https://mfof.se/download/18.7fecc00c1884c539cd429235/1685968985912/Statistik%20om%20familjer%C3%A4tt%202022_Teknisk%20rapport.pdf)
+
+**Fördjupande frågor**
+
+- Vilken/vilka aktör/er erbjuder samarbetssamtal?
+
+- Hur många föräldrar deltar årligen i samarbetssamtal?
+
+- Vilken utbildning har samtalsledarna?
+
+- Vilka förutsättningar/plattformar för samverkan med andra aktörer finns?
+
+- Hur följs effekterna upp?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUOFkxSVA0MDZOVTBJWkVNQjIwN0NVU1ZIUC4u)
 
 **Läs mer om samarbetssamtal:**
 

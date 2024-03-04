@@ -8,9 +8,10 @@ title: "Måluppfyllelse i skolan"
 
 ## Kartläggning Basutbud
 För att kartlägga basutbudet i din kommun, vänligen gå vidare till detta insamlingsformulär:
-[Enkät Basutbud](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMEYxMDREQ1YzTE00UFVKV1lJUUM2WDJPSS4u)
+[Enkät Basutbud Skola](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMEYxMDREQ1YzTE00UFVKV1lJUUM2WDJPSS4u)
 
 ## Basutbud
+Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag bör erbjuda för att stärka Måluppfyllelse i skolan.
 
 
 ### Förskola av hög kvalitét
@@ -26,13 +27,17 @@ Text om varför förskolan är viktig
 
 **Fördjupande frågor:** 
 
-☐ Hur stor andel av personalen är utbildade?
+- Hur stor andel av personalen är utbildade?
 
-☐ Vilken möjlighet finns till kompetensutveckling kring främjande och förebyggande arbete?
+- Vilken möjlighet finns till kompetensutveckling kring främjande och förebyggande arbete?
 
-☐ I vilken utsträckning sker resurstilldelning och utbildning i förskolan på analyser av hur barns olika villkor och bakgrund ser ut? 
+- I vilken utsträckning sker resurstilldelning och utbildning i förskolan på analyser av hur barns olika villkor och bakgrund ser ut? 
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+- Vilka kunskapshöjande insatser ges till personal i förskolan?
+
+- Finns information om den andel barn som inte deltar i förskolan? Möjliga orsaker och åtgärder?
+
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 
 **Skollagen:**
@@ -66,21 +71,21 @@ Beskrivning av insatsen
 
 **Fördjupande frågor:**
 
-☐ Finns det mål/strategier för det läsfrämjande arbetet?
+- Finns det mål/strategier för det läsfrämjande arbetet?
 
-☐ Vilka aktörer erbjuder läsfrämjande arbetet?
+- Vilka aktörer erbjuder läsfrämjande arbetet?
 
-☐ Finns långsiktig finansiering för det läsfrämjande arbetet?
+- Finns långsiktig finansiering för det läsfrämjande arbetet?
 
-☐ Vilka förutsättningar/plattformar för samverkan finns? 
+- Vilka förutsättningar/plattformar för samverkan finns? 
 
-☐ Vilka målgrupper erbjuds läsfrämjande insatser?
+- Vilka målgrupper erbjuds läsfrämjande insatser?
 
-☐ Görs uppföljning av vilka som deltar läsfrämjande insatser? Nås rätt målgrupp?
+- Görs uppföljning av vilka som deltar läsfrämjande insatser? Nås rätt målgrupp?
 
-☐ Följs effekterna upp? 
+- Följs effekterna upp? 
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Bibliotekslagen:**
 
@@ -122,13 +127,13 @@ Beskrivning av trygga skolövergångar
 
 **Fördjupande frågor:** 
 
-☐ Hur fungerar samverkan mellan och inom olika skolformer?
+- Hur fungerar samverkan mellan och inom olika skolformer?
 
-☐ På vilket sätt involveras föräldrar och elever?
+- På vilket sätt involveras föräldrar och elever?
 
-☐ Genomförs uppföljning av arbetet?
+- Genomförs uppföljning av arbetet?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 
 **Läs mer om trygga skolövergångar:**
@@ -154,13 +159,13 @@ Beskrivning av närvarofrämjande arbete
 
 **Fördjupande frågor:** 
 
-☐ Erbjuds kunskapshöjande insatser om närvarofrämjande arbete?  
+- Erbjuds kunskapshöjande insatser om närvarofrämjande arbete?  
 
-☐ På vilket sett sker samverkan med vårdnadshavare och elever i det närvarofrämjande arbetet?
+- På vilket sett sker samverkan med vårdnadshavare och elever i det närvarofrämjande arbetet?
 
-☐ Hur följs det närvarofrämjande arbetet upp?
+- Hur följs det närvarofrämjande arbetet upp?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 
 **Skollagen**
@@ -193,21 +198,11 @@ Beskriv vikten av samverkan...
 
 **Fördjupande frågor:** 
 
-☐ Finns det en kommunövergripande plan för förskolans och skolans samverkan med föräldrar
+- På vilket sett sker samverkan med vårdnadshavare och hemmet?
 
-☐ Har respektive förskola/skola en gemensam strategi för att möjliggöra för hem och vårdnadshavare att bli delaktiga i frågor som rör elevens skolgång?
+- Hur följs det arbetet upp?
 
-☐ Har respektive förskola/skola gemensamma förhållningssätt i kontakter med vårdnadshavare och hemmen?
-
-☐ Erbjuds kunskapshöjande insatser om föräldraskapsstöd och föräldrasamverkan?  
-
-☐ På vilket sett sker samverkan med vårdnadshavare och hemmet?
-
-☐ Finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård?
-
-☐ Hur följs det arbetet upp?
-
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Skollagen**
 
@@ -231,17 +226,17 @@ Beskriv TSI
 
 **Fördjupande frågor:** 
 
-☐ Finns en kommunövergripande plan för arbetet med tidiga och samordnade insatser?
+- Finns en kommunövergripande plan för arbetet med tidiga och samordnade insatser?
 
-☐ Finns det en hållbar finansiering för arbetet med tidiga och samordnade insatser?
+- Finns det en hållbar finansiering för arbetet med tidiga och samordnade insatser?
 
-☐ Vilka aktörer ingår i samverkan?
+- Vilka aktörer ingår i samverkan?
 
-☐ Erbjuds kunskapshöjande insatser om tidiga och samordnade insatser? I så fall för vilka målgrupper?
+- Erbjuds kunskapshöjande insatser om tidiga och samordnade insatser? I så fall för vilka målgrupper?
 
-☐ Hur följs arbetet med tidiga och samordnade insatser upp?
+- Hur följs arbetet med tidiga och samordnade insatser upp?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om tidiga och samordnade insatser:**
 
@@ -263,17 +258,13 @@ Beskriv skolsociala team
 
 **Fördjupande frågor:** 
 
-☐ Finns en kommunövergripande plan för arbetet med skolsociala team?
+- Vilka aktörer ingår i samverkan/de skolsociala teamen?
 
-☐ Finns det en hållbar finansiering för arbetet för skolsociala team?
+- Erbjuds kunskapshöjande insatser om skolsociala team? I så fall för vilka målgrupper?
 
-☐ Vilka aktörer ingår i samverkan?
+- Hur följs arbetet med skolsociala team upp?
 
-☐ Erbjuds kunskapshöjande insatser om skolsociala team? I så fall för vilka målgrupper?
-
-☐ Hur följs arbetet med skolsociala team upp?
-
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om skolsociala team:**
 
@@ -291,11 +282,11 @@ Beskriv hälsofrämjande insatser...
 
 **Fördjupande frågor:** 
 
-☐ Erbjuds kunskapshöjande insatser om hälsofrämjande insatser i förskolan/skolan?
+- Erbjuds kunskapshöjande insatser om hälsofrämjande insatser i förskolan/skolan?
 
-☐ Hur följs det hälsofrämjande arbetet upp?
+- Hur följs det hälsofrämjande arbetet upp?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om hälsofrämjande insatser:**
 
@@ -327,9 +318,9 @@ Beskriv trygghetsfrämjande insatser
 
 **Fördjupande frågor:** 
 
-☐ Hur följs det trygghetsfrämjande arbetet upp?
+- Hur följs det trygghetsfrämjande arbetet upp?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor)](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om trygghetsfrämjande insatser:**
 
