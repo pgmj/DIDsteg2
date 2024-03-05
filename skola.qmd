@@ -37,7 +37,7 @@ Text om varför förskolan är viktig
 
 - Finns information om den andel barn som inte deltar i förskolan? Möjliga orsaker och åtgärder?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att svara på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 
 **Skollagen:**
@@ -85,7 +85,7 @@ Beskrivning av insatsen
 
 - Följs effekterna upp? 
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att svara på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Bibliotekslagen:**
 
@@ -133,7 +133,7 @@ Beskrivning av trygga skolövergångar
 
 - Genomförs uppföljning av arbetet?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att svara på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 
 **Läs mer om trygga skolövergångar:**
@@ -165,7 +165,7 @@ Beskrivning av närvarofrämjande arbete
 
 - Hur följs det närvarofrämjande arbetet upp?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att svara på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 
 **Skollagen**
@@ -202,7 +202,7 @@ Beskriv vikten av samverkan...
 
 - Hur följs det arbetet upp?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att svara på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Skollagen**
 
@@ -218,7 +218,8 @@ För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: 
 
 
 ### Tidiga och samordnade insatser (TSI)
-Beskriv TSI
+
+TSI kan ses som ett paraplybegrepp för strukturerad samverkan för tidigt och förebyggande arbete. Arbete som bedrivs gemensamt för att åstadkomma tidiga och samordnade insatser till barn och unga och involverar exempelvis skola, hälso- och sjukvård, socialtjänst, fritidsverksamhet och polis. TSI är alltså inte en specifik metod, utan en form för strukturerad samverkan. Grunden för arbetet med TSI är att samla kompetens från flera verksamheter för att få en helhetsbild av barnets eller den unges behov av stöd och lämpliga insatser (Socialstyrelsen och Skolverket, 2023).
 
 **Indikatorer:**
 
@@ -226,17 +227,17 @@ Beskriv TSI
 
 **Fördjupande frågor:** 
 
-- Finns en kommunövergripande plan för arbetet med tidiga och samordnade insatser?
+- Om det finns ett tvärsektoriellt team, hur är uppdraget formulerat, vilka ingår, hur är ansvar och roller fördelade?
 
-- Finns det en hållbar finansiering för arbetet med tidiga och samordnade insatser?
+- På vilket sett involveras vårdnadshavare?
 
-- Vilka aktörer ingår i samverkan?
+- På vilket sätt involveras barn och unga?
 
-- Erbjuds kunskapshöjande insatser om tidiga och samordnade insatser? I så fall för vilka målgrupper?
+- Vilken målgrupp nås av tidiga samordnade insatser?
 
-- Hur följs arbetet med tidiga och samordnade insatser upp?
+- Hur följs det arbetet upp?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att svara på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om tidiga och samordnade insatser:**
 
@@ -264,7 +265,7 @@ Beskriv skolsociala team
 
 - Hur följs arbetet med skolsociala team upp?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att svara på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om skolsociala team:**
 
@@ -286,7 +287,7 @@ Beskriv hälsofrämjande insatser...
 
 - Hur följs det hälsofrämjande arbetet upp?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att svara på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om hälsofrämjande insatser:**
 
@@ -320,7 +321,7 @@ Beskriv trygghetsfrämjande insatser
 
 - Hur följs det trygghetsfrämjande arbetet upp?
 
-För att dokumentera svar på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
+För att svara på de fördjupande frågorna, vänligen klicka här: [Dokumentation av fördjupande frågor](https://forms.office.com/Pages/ResponsePage.aspx?id=zwmYWssLOkGDignsxAzJ6GpspduigiJEpYzEx2S5rvVUMkFDQjk3WDdGVEtKUE5KNUY5TEVZVVNLMC4u)
 
 **Läs mer om trygghetsfrämjande insatser:**
 
