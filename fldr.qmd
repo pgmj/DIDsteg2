@@ -6,27 +6,66 @@ title-block-banner-color: "#BBDBEC"
 
 ## Definition Skyddsfaktor
 
-En god relation mellan barn och föräldrar kännetecknas av ett gott samspel mellan föräldrar och barn med värme, närvaro, bekräftelse och tydliga ramar från föräldrarnas sida.
+En god föräldra-barnrelation är en av de viktigaste skyddsfaktorerna för barn och unga. Det främjar en god fysisk, psykisk, kognitiv och social utveckling och ökar sannolikheten för en god hälsa genom hela livet. En god relation mellan föräldrar och barn minskar dessutom de negativa konsekvenserna av olika påfrestningar och riskbeteenden hos barnen och skyddet består långt upp i åldrarna. 
 
-Ett gott samspel främjas enligt forskningen genom att föräldrarna ger tillräckligt med positiv uppmärksamhet och att denna överväger den negativa uppmärksamheten i form av tjat och tillsägelser. En god relation är också en förutsättning för att kunna sätta gränser som barnet respekterar.
+Byggstenar för en god relation är värme, närvaro, bekräftelse och tydliga ramar från föräldrarnas sida. Ett gott samspel främjas enligt forskningen genom att föräldrarna ger tillräckligt med positiv uppmärksamhet och att denna överväger den negativa uppmärksamheten i form av tjat och tillsägelser. En god relation är också en förutsättning för att kunna sätta gränser som barnet respekterar.
 
-En god föräldra-barnrelation är en av de viktigaste skyddsfaktorerna för barn och unga. Det främjar en god fysisk, psykisk, kognitiv och social utveckling och ökar sannolikheten för en god psykisk och fysisk hälsa genom hela livet. En god relation mellan barn och föräldrar minskar dessutom de negativa konsekvenserna av olika påfrestningar och riskbeteenden hos barnen och skyddet består långt upp i åldrarna.
+## Underlag för basutbudet
+I denna del av basutbudet beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag bör erbjuda och som stärker skyddsfaktorn en god föräldra-barnrelation. Urvalet har förankrats med myndigheter, forskare, experter och kommuner men är inte fullständigt och kan komma att revideras över tid. 
+
+Föräldraskapsstöd är en viktig insats som enligt forskning stärker föräldrabarnrelationen och främjar barns utveckling och hälsa. Föräldraskapsstöd lyfts även fram i FN:s barnkonvention och av Sveriges regering.
+
+### Konventionen om barnets rättigheter:
+Artikel 5 och 18 handlar om att det är föräldrarna som tillsammans har huvudansvaret för barnets uppfostran och utveckling. Föräldrarna ska hjälpa barnet så att det får sina rättigheter tillgodosedda. För att garantera och främja de rättigheter som anges i konventionen ska konventionsstaterna ge lämpligt stöd till föräldrar och vårdnadshavare då de fullgör sitt ansvar för barnets uppfostran och säkerställa utvecklingen av institutioner, inrättningar och tjänster för omvårdnad av barn.
+
+### Nationell strategi för ett stärkt föräldraskapsstöd
+Regeringen tog 2018 beslut om en nationell strategi för ett stärkt föräldraskapsstöd. Målet är att alla föräldrar ska erbjudas föräldraskapsstöd under hela barnets uppväxt för att barnets hälsa och utveckling ska främjas. Enligt den nationella strategin för ett stärkt föräldraskapsstöd är föräldraskapsstöd definierad som olika insatser, aktiviteter och verksamheter riktade till föräldrar som stärker föräldraförmågan och relationen mellan förälder och barn. Strategin betonar att stöd ska erbjudas alla föräldrar, oberoende av problem och risk. Grunden är det universella stödet som ska stärka hälsan och före¬bygga ohälsa hos alla barn. Riktat stöd till riskgrupper samt individuellt stöd till familjer med konstaterade problem ska komplettera det generella stödet. Föräldraskapsstöd bör erbjudas på flera olika arenor för att nå alla grupper av föräldrar. 
+
 
 ## Kartläggning och fördjupning kring basutbudet i er kommun
 För att kartlägga basutbudet i din kommun, vänligan klicka här för att hämta ner Excelfilen: [Kartläggning av Basutbud Föräldra-Barnrelation](/Kartläggning_fldr.xlsx) Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
 
-För att skicka in kartläggningen till Länsstyrelsen Stockolm vänligen gå vidare till detta insamlingsformulär:
-[Enkät Basutbud Föräldra-Barnrelation](https://forms.office.com/e/8n7ei2VSRx). Frågorna finns också redovisade under respektive insatsområde nedan.
+En annan del av kartläggningen handlar om att undersöka kvalitén på och tillgängligheten för befintliga verksamheter. I detta formulär finns ett antal fördjupande frågor kopplat till respektive verksamhet med syftet att ringa in viktiga kvalitetsaspekter. Klicka här för att hämta ner filen: [Dokumentation av fördjupande frågor](/Fördjupningsfrågor_fldr.docx). Denna kan ni sedan spara lokalt och arbeta vidare med. 
 
-För att svara på fördjupande frågorna kopplat till respektive insatsområde, vänligen klicka här för att hämta ner filen: [Dokumentation av fördjupande frågor](/Fördjupningsfrågor_fldr.docx). Denna kan ni sedan spara lokalt och arbeta vidare med. 
+## Basutbudets insatser: En god föräldra-barnrelation
 
-## Beskrivning av basutbudets insatser
-Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag bör erbjuda för att stärka skyddsfaktorn En god föräldra-barnrelation.
+### Tidiga och samordnade insatser (TSI)
+
+TSI kan ses som ett paraplybegrepp för strukturerad samverkan för tidigt och förebyggande arbete. Arbete som bedrivs gemensamt för att åstadkomma tidiga och samordnade insatser till barn och unga och involverar exempelvis skola, hälso- och sjukvård, socialtjänst, fritidsverksamhet och polis. TSI är alltså inte en specifik metod, utan en form för strukturerad samverkan. Grunden för arbetet med TSI är att samla kompetens från flera verksamheter för att få en helhetsbild av barnets eller den unges behov av stöd och lämpliga insatser (Socialstyrelsen och Skolverket, 2023).
+
+**Kartläggning**
+
+-	Det finns en kommunövergripande plan för arbetet med tidiga samordnade insatser.
+-	Det finns en samverkansöverenskommelse mellan skola, hälso- och sjukvård, socialtjänst, fritidsverksamhet och polis.
+-	Vårdnadshavare och barn och unga involveras i arbetet.
+-	Det finns ett tvärsektoriellt team.
+-	Det erbjuds kunskapshöjande insatser om tidiga samordnade insatser.
+-	Det finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård.
+
+**Indikatorer:**
+
+-   Ej identifierat i dagsläget.
+
+
+**Läs mer om tidiga och samordnade insatser:**
+
+
+-   [Kunskapsgudien: Om tidiga och samordnade insatser (TSI)](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/)
+
+-   [TSI-boken - Stöd i arbetet med tidiga och samordnade insatser för barn och unga](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-10-8779.pdf)
+
+-   [Kunskapsguiden: Skottlandsmodellen](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/skottlandsmodellen/)
+
+-   [Backa barnet](https://www.backabarnet.se/)
+
+-   [KMalmö stad: Communities that care (CTC)](https://malmo.se/Communities-That-Care-CTC.html)
+
 
 
 ### Utökat hembesöksprogram
 
-Kort beskrivning av insatsen och varför det kan vara en bra insats...
+Syftet med utökat hembesöksprogram är att stärka familjens tillit till sin egen förmåga och delaktighet i samhället samt att tidigt upptäcka familjer med behov av extra stöd - och erbjuda det. I ursprungsversionen av programmet sker hembesöken i samverkan mellan barnhälsovård och socialtjänsten, men även andra aktörer har med tiden inkluderats. I modellen ingår sex hembesök när barnet är mellan 0-15 månader gammalt.
+
 
 **Kartläggning**
 
@@ -38,7 +77,8 @@ Kort beskrivning av insatsen och varför det kan vara en bra insats...
 
 -  Det görs uppföljning av vilka som deltar i det utökade hembesöksprogrammet. 
 
--  Det görs effektuppföljningar av utökat hembesöksprogram.
+-  Det görs uppföljning av arbetets resultat för föräldrar och barn. 
+
 
 **Indikatorer:**
 
@@ -55,9 +95,11 @@ Kort beskrivning av insatsen och varför det kan vara en bra insats...
 -   [Rinkeby hembesöksprogram - Ett utökat hembesöksprogram i samarbete mellan barnhälsovården och socialtjänsten](https://ki.se/media/77454/download)
 
 
-### Familjecentral av hög kvalitet
+### Familjecentral
 
-Kort beskrivning av insatsen och varför det kan vara en bra insats...
+Familjecentraler i Sverige arbetar i huvudsak med barn 0–6 år men riktar sig även till blivande föräldrar, föräldrar och andra viktiga vuxna kring barnet. Det är en generell, frivillig och kostnadsfri verksamhet. År 2023 fanns det omkring 180 familjecentraler i Sverige. Enligt definition samlokaliserar familjecentralen fyra verksamheter – barnmorskemottagning (BMM), barnavårdscentral (BVC), öppen förskola och förebyggande socialtjänst.
+Föreningen för familjecentralers främjande (FFFF) är en nationell förening för utveckling och stöd för befintliga familjecentraler i landet. Målet med familjecentralers verksamhet definieras av FFFF som att främja ”en god och jämlik hälsa hos blivande föräldrar, barn, föräldrar och andra viktiga vuxna runt barnet” genom att erbjuda en hälsofrämjande, generell, tidigt förebyggande och stödjande verksamhet som anpassas utifrån hela familjens livssituation.
+
 
 **Kartläggning**
 
@@ -67,9 +109,10 @@ Kort beskrivning av insatsen och varför det kan vara en bra insats...
 
 - Det finns långsiktig finansiering av familjecentraler.
 
-- Det görs uppföljning av vilka som besöker familjecentralen.
+-	Uppföljning görs av vilka som besöker familjecentralen.
 
-- Det görs effektuppföljningar av arbetet med familjecentraler.
+- Uppföljning görs av familjecentralens resultat för barn och föräldrar
+
 
 **Indikatorer:**
 
@@ -85,42 +128,10 @@ Kort beskrivning av insatsen och varför det kan vara en bra insats...
 -   [Vad är en familjecentral?](https://familjecentraler.se/foreningen/vad-ar-en-familjecentral/)
 
 
-### Föräldragrupp MHV/BHV
+### Öppen förskola
 
-Kort beskrivning av insatsen och varför det kan vara en bra insats...
+Öppen förskola är en kompletterande förskoleverksamhet för barn som inte är inskrivna i förskola samt medföljande förälder, dagbarnvårdare eller annan vuxen. Syftet är både att erbjuda barn en pedagogisk verksamhet samt att ge föräldrar stöd i föräldrarollen. Den öppna förskolan är också en mötesplats för föräldrar och kan bidra till integration och språkutveckling. Verksamheten är i allmänhet avgiftsfri.
 
-**Kartläggning**
-
-- Föräldrar i kommunen erbjuds föräldragrupp via MHV respektive BHV.
-
-- Det finns mål/strategier för arbetet med föräldragrupper.
-
-- Det finns långsiktig finansiering för arbetet med föräldragrupper.
-
-- Uppföljning görs av vilka som deltar i föräldragrupper på MHV respektive BHV.
-
-- Det görs effektuppföljning av föräldragrupperna.
-
-
-**Indikatorer:**
-
--   Andel kvinnor respektive partner som deltagit i föräldrastöd efter typ av region.
-
--   Andel kvinnor och män som deltagit i föräldragrupp på BHV av totalt antal födda barn per region.
-
-
-**Läs mer om föräldragrupper MVC/BVC**
-
--   [Föräldraskapsstöd i grupp - översikt](https://www.rikshandboken-bhv.se/metoder--riktlinjer/foraldraskapsstod-i-grupp/)
-
--   [Föräldragrupper inom mödra- och barnhälsovård - Forskning, tillämpning och metoder om ledarskap för välfungerande grupper](https://www.diva-portal.org/smash/get/diva2:1599399/FULLTEXT01.pdf)
-
--   [Föräldrastöd inom hälso- och sjukvård](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2015-12-38.pdf)
-
-
-### Öppen förskola av hög kvalitet
-
-Kort beskrivning av insatsen och varför det kan vara en bra insats...
 
 **Kartläggning**
 
@@ -130,9 +141,7 @@ Kort beskrivning av insatsen och varför det kan vara en bra insats...
 
 - Det finns långsiktig finansiering av den öppna förskolan.
 
-- Det görs uppföljning av vilka som besöker den öppna förskolan.
-
-- Det görs effektuppföljning av öppna förskolan.
+- Det görs kontinuerlig uppföljning av vilka som besöker den öppna förskolan.
 
 
 **Lagstiftning:**
@@ -151,50 +160,109 @@ En kommun får anordna öppen förskola som komplement till förskola och pedago
 
 -   [Öppen förskola](https://www.mfof.se/foraldraskapsstod/arenor-for-foraldraskapsstod/oppen-forskola.html)
 
--   [Öppen förskola – tillsammans för jobb och integration](https://skr.se/skr/skolakulturfritid/forskolagrundochgymnasieskolakomvux/oppenforskolaforsprakochintegration.46558.html)
-
 -   [Allmänna råd för öppen förskola](https://www.skolverket.se/download/18.6bfaca41169863e6a6538f8/1553956773578/pdf607.pdf)
 
+-   [Öppen förskola – tillsammans för jobb och integration](https://skr.se/skr/skolakulturfritid/forskolagrundochgymnasieskolakomvux/oppenforskolaforsprakochintegration.46558.html)
 
-### Individuella föräldrastödssamtal
 
-Kort beskrivning av insatsen och varför det kan vara en bra insats...
+
+### Samverkan mellan förskola/skola och föräldrar
+Förskola, skola och fritids är verksamheter som möter majoriteten av alla föräldrar och barn under större delen av barnens uppväxt. Både förskola och skola är därför viktiga arenor för samverkan med och stöd till föräldrar. Enligt Skolverket kan skolan erbjuda information och stödjande samtal från elevhälsan samt mer kontinuerliga avstämningar mellan förskola/fritids och förälder vid hämtningar. Förskola och skola kan även bjuda in andra föräldrastödjande verksamheter vid föräldramöten.
+
+Även föräldraskapsstödsprogram kan erbjudas via förskola och skola och utföras av utbildad personal från förskolan, skolan, elevhälsan, socialtjänsten eller liknande.
+
+I skolans systematiska kvalitetsarbete ingår att löpande utveckla och utvärdera samverkan med föräldrar och vårdnadshavare för att säkerställa att man når ut till alla.
 
 
 **Kartläggning**
 
-- Socialtjänsten erbjuder individuella föräldrastödssamtal utan behovsprövning.
+- Det finns en kommunövergripande plan för förskolans och skolans samverkan med föräldrar
 
-- Det finns det mål/strategier för arbetet med individuella stödsamtal.
+- Kommnen erbjuder personalen kunskapshöjande insatser om föräldraskapsstöd och föräldrasamverkan
 
-- Det finns långsiktig finansiering av individuella stödsamtal.
+- Det finns kommunövergripande rutiner för samverkan med andra föräldraskapsstödjande aktörer såsom socialtjänst och hälso- och sjukvård
 
-- Det finns det en struktur för arbetet (exempelvis samordnare, kompetensutveckling).
+- Respektive förskola/skola har en gemensam strategi för att möjliggöra för hem och vårdnadshavare att bli delaktiga i frågor som rör elevens skolgång.
 
-- Det görs uppföljning av vilka som tar del av samtalen.
+- Respektive förskola/skola har gemensamma förhållningssätt i kontakter med vårdnadshavare och hemmen
 
-- Det görs effektuppföljning av individuella stödsamtal.
+-	Det erbjuds kunskapshöjande insatser till förskola/skola om föräldraskapsstöd och föräldrasamverkan.
+
+
+**Lagstiftning**
+
+*Skollagen 1 kap. 4 §*
+
+Utbildningen syftar också till att i samarbete med hemmen främja barns och elevers allsidiga personliga utveckling till aktiva, kreativa, kompetenta och ansvarskännande individer och medborgare.
 
 
 **Indikatorer:**
 
--   Ej identifierat i dagsläget.
+Ej identifierat i dagsläget
 
 
-**Läs mer om individuella föräldrastödssamtal:**
+**Läs mer om samverkan mellan förskola/skola och föräldrar:**
 
--   [Socialtjänst](https://mfof.se/foraldraskapsstod/arenor-for-foraldraskapsstod/socialtjanst.html)
+-   [Föräldraskapsstöd kan främja lärande och hälsa](https://www.skolverket.se/skolutveckling/forskning-och-utvarderingar/artiklar-om-forskning/foraldraskapsstod-kan-framja-larande-och-halsa)
 
+-   [Checklista för att utveckla vår skolas samverkan med hem och vårdnadshavare ](https://www.skolverket.se/download/18.3cf0d66d187913b54fe15f6/1684141494320/checklista-utveckla-samverkan-1.pdf)
+
+-   [Utveckla skolans samverkan med  hem och vårdnadshavare](https://www.skolverket.se/skolutveckling/inspiration-och-stod-i-arbetet/stod-i-arbetet/utveckla-skolans-samverkan-med--hem-och-vardnadshavare)
+
+-   [Synligt lärande - Presentation av en studie om vad som påverkar elevers studieresultat](https://skr.se/download/18.7c1c4ddb17e3d28cf9ba687f/1643196854985/7164-706-1.pdf)
+
+
+
+### Föräldragrupp MHV/BHV
+
+Föräldragrupper inom mödrahälsovården (MHV) och barnhälsovården (BHV) syftar till att stärka föräldrar, främja goda uppväxtvillkor samt tidigt fånga upp föräldrar och barn i behov av stöd. I barnmorskemottagningarnas basprogram ingår att erbjuda generellt föräldraskapsstöd och inom barnhälsovården är generellt föräldraskapsstöd genom föräldragrupper en grundläggande arbetsmetod, med syftet att främja barns uppväxtvillkor. Samverkan inom och mellan regionens och kommunernas verksamheter för blivande föräldrar och föräldrar ingår också i uppdragen. 
+
+
+**Kartläggning**
+
+- Föräldrar i kommunen erbjuds föräldragrupp via MHV respektive BHV.
+
+- Det finns mål/strategier för arbetet med föräldragrupper.
+
+- Det finns långsiktig finansiering för arbetet med föräldragrupper.
+
+- Uppföljning görs av vilka som deltar i föräldragrupper på MHV respektive BHV.
+
+- Uppföljning görs av vilka resultat som grupperna får för barn och föräldrar.
+
+
+**Indikatorer:**
+
+-   Andel kvinnor respektive partner som deltagit i föräldrastöd efter typ av region.
+
+-   Andel kvinnor och män som deltagit i föräldragrupp på BHV av totalt antal födda barn per region.
+
+
+**Läs mer om föräldragrupper MVC/BVC**
+
+-   [Föräldraskapsstöd i grupp - översikt](https://www.rikshandboken-bhv.se/metoder--riktlinjer/foraldraskapsstod-i-grupp/)
+
+-   [Graviditet, förlossning och tiden efter Nationellt kunskapsstöd för kontinuitet i vårdkedjan och vård på rätt nivå](www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/kunskapsstod/2022-12-8287.pdf)
+
+-   [Föräldragrupper inom mödra- och barnhälsovård - Forskning, tillämpning och metoder om ledarskap för välfungerande grupper](https://www.diva-portal.org/smash/get/diva2:1599399/FULLTEXT01.pdf)
 
 
 ### Universella föräldrastödsprogram
 
-Kort beskrivning av insatsen varför det kan vara en bra insats...
+Syftet med universella föräldraskapsstödsprogram är dels att ge alla föräldrar stöd i föräldraskapet och främja en god utveckling hos barn, dels att fånga upp och hänvisa vidare föräldrar med behov av mer stöd. Eftersom universellt stöd ofta erbjuds på öppna arenor kan det underlätta för familjer med lägre samhällstillit att söka stöd där. 
+
+Studier visar att satsningar på föräldraskapsstödsprogram är hälsoekonomiskt lönsamt och kostnadsbesparande, även om effekten endast skulle kvarstå i ett år (KÄLLA).
 
 
-**Kartläggningr**
+**Kartläggning**
 
-- Det erbjuds universella föräldraskapsstödsprogram i kommunen, vilka?
+- Det erbjuds universella föräldraskapsstödsprogram i kommunen, exempelvis:
+
+  - [Alla Barn i Centrum 0-2, Alla Barn i Centrum 3-12, Alla Barn i Centrum Tonår) ](https://www.ipsykologi.se/projekt/komet-abc)
+  - [COPE](https://svenskacope.se/)
+  - [Connect](https://www.humana.se/individ-och-familj/metoder-och-utbildning/connect/)
+  - [Vägledande samspel](https://icdp.se/stiftelsen-icdp/om-vagledande-samspel/)
+  - [Triple P](https://triplep.uppsala.se/)
 
 - Det finns mål/strategier för arbetet med universella föräldraskapsstödsprogram.
 
@@ -202,42 +270,49 @@ Kort beskrivning av insatsen varför det kan vara en bra insats...
 
 - Det finns struktur för arbetet (exempelvis återkommande utbildning av gruppledare, samordnare och kompetensutveckling).
 
-- Det görs återkommande uppföljningar av vilka som deltar i universella föräldraskapsstödsprogram.
+- Det görs återkommande uppföljning av vilka som deltar i universella föräldraskapsstödsprogram.
 
-- Det görs effektuppföljning av kommunens universella föräldraskapsstödsprogram.
+- Det görs uppföljning av vilka resultat som programmen får för barn och föräldrar.
 
 
 **Indikatorer:**
 
 -   Ej identifierat i dagsläget.
 
+
 **Läs mer om universella föräldrastödsprogram:**
+
+- [En nationell översikt av program och metoder för föräldraskapsstöd](https://mfof.se/foraldraskapsstod/program-och-metoder.html)
 
 -   [Effekter av föräldraskapsstöd](https://mfof.se/foraldraskapsstod/effekter-av-foraldraskapsstod.html)
 
--   [Föräldraskapsstöd kan främja lärande och hälsa](https://www.skolverket.se/skolutveckling/forskning-och-utvarderingar/artiklar-om-forskning/foraldraskapsstod-kan-framja-larande-och-halsa)
+-   [Beforskade program på Ipsykologi.se](https://www.ipsykologi.se/projekt/komet-abc)
 
--   [Främjande av psykiskt välbefinnande hos barn och ungdomar](https://www.sbu.se/sv/publikationer/SBU-utvarderar/framjande-av-psykiskt-valbefinnande-hos-barn-och-ungdomar/)
+-   [Effectiveness of a universal health-promoting parenting program: a randomized waitlist-controlled trial of All Children in Focus](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-14-1083)
+
 
 
 ### Riktade föräldrastödsprogram
 
-Kort beskrivning av insatsen varför det kan vara en bra insats...
+Syftet med riktade föräldrastödsprogram är att vända en negativ utveckling med bråk och konflikter i familjen eller normbrytande beteende hos barnet då detta utgör en risk för en fortsatt problematisk utveckling. Indikerat stöd ges till familjer med större identifierade problem eller tydliga symtom på ohälsa.
 
 
 **Kartläggning**
 
-- Det erbjuds riktade föräldraskapsstödsprogram i vår kommun? Vilka? 
+- Det erbjuds riktade föräldraskapsstödsprogram i vår kommun, exempelvis:
+
+  - [KOMET 3-12, KOMET Tonår, iKOMET ](https://www.ipsykologi.se/projekt/komet-abc)
+  - [Tryggare barn ](https://magelungen.com/akademi/12349-2/)
+  - [Föräldraskap i Sverige](https://www.foraldraskapisverige.se/)
+  - [FFT](hhttps://www.stiftelsenfftsverige.se/)
 
 - Det finns det mål/strategier för arbetet med riktade föräldraskapsstödsprogram.
 
 - Det finns långsiktig finansiering för riktade föräldraskapsstödsprogram.
 
-- Det finns struktur för arbetet (exempelvis återkommande utbildning av gruppledare, samordnare, kompetensutveckling).
-
 - Det görs återkommande uppföljning av vilka som deltar.
 
-- Det görs effektuppföljning av kommunens riktade föräldraskapsstödsprogram.
+- Det görs uppföljning av vilket resultat som programmen får för barn och föräldrar.
 
 
 **Indikatorer:**
@@ -247,25 +322,30 @@ Kort beskrivning av insatsen varför det kan vara en bra insats...
 
 **Läs mer om riktade föräldrastödsprogram:**
 
--   [Program och metoder för föräldraskapsstöd](https://mfof.se/foraldraskapsstod/program-och-metoder-for-foraldraskapsstod---soksida.html#query/*)
+-   [Karolinska Institutet: Forskning på föräldraskapsstödsprogram ](https://www.ipsykologi.se/forskning)
 
--   [Föräldrastödsprogram vid utagerande beteende hos barn: effekter och verksamma komponenter](https://www.sbu.se/2019_08?pub=40790)
+-   [Översikt av program och metoder för föräldraskapsstöd](https://mfof.se/foraldraskapsstod/program-och-metoder-for-foraldraskapsstod---soksida.html#query/*)
+
+-   [Insatser för att motverka fortsatt normbrytande beteende och återfall i brott](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/kunskapsstod/2021-11-7626.pdf)
+
+-   [Effekter av föräldrastöd Redovisning av en nationell utvärdering på uppdrag av Socialstyrelsen ](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2014-11-12.pdf)
+
+-   [Kunskapsguiden: Exempel på föräldrastöd till utrikesfödda föräldrar](https://kunskapsguiden.se/omraden-och-teman/arbetsmetoder-och-perspektiv/interkulturellt-perspektiv/forebyggande-arbete-stod-och-insatser/)
+
 
 
 ### Föräldraföreläsningar
 
-Kort beskrivning av insatsen varför det kan vara en bra insats...
+Föräldraföreläsningar kan ges på olika teman och arenor och är ett verktyg för att nå ut med kunskap och stöd till fler föräldrar. Att erbjuda verksamheter och insatser med låga trösklar är viktigt för att göra stödet mer tillgängligt och även nå målgrupper med lägre samhällstillit. Syftet kan också vara att bidra till ökad kännedom om kommunens övriga föräldraskapsstöd och skapa kontaktytor mellan föräldrar men även mellan föräldrar och samhälle. 
 
 
 **Kartläggning**
 
-- Det erbjuds föräldraföreläsningar regelbundet till föräldrar i kommunen.
+- Det erbjuds regelbundet föräldraföreläsningar till föräldrar i kommunen.
 
 - Det finns det mål/strategier för arbetet med föräldraföreläsningar.
 
 - Det finns långsiktig finansiering av föräldraföreläsningar.
-
-- Det finns det en struktur för arbetet (Exempelvis samordnare, kompetensutveckling).
 
 - Det görs uppföljning av vilka som tar del av föräldraföreläsningarna.
 
@@ -283,7 +363,7 @@ Kort beskrivning av insatsen varför det kan vara en bra insats...
 
 ### Familjerådgivning
 
-Familjerådgivningen är en viktig förebyggande verksamhet på flera nivåer. MFoF anser att en väl utbyggd familjerådgivning som kan ta emot människor tidigt är viktigt både samhällsekonomiskt och för den enskilde. När råd och behandling vid relationsproblem ges i ett tidigt skede minskar belastningen på andra verksamheter i samhället, såsom socialtjänst, hälso- och sjukvård och försäkringskassa. Samtidigt som det på individnivå innebär ett ökat välbefinnande och en ökad förmåga att hantera framtida relationsproblem. På universell nivå kan familjerådgivningen genom sitt utåtriktade uppdrag ge breda folkbildade insatser om relationer och relationsproblem på arenor som exempelvis mödravårdens, barnhälsovårdens och familjecentralens föräldrautbildningar. På selektiv nivå kan familjerådgivning istället rikta insatser mot särskilda grupper som identifierats av kommunen. (Myndigheten för familjerätt och föräldraskapsstöd)
+Familjerådgivningen består av samtal med syfte att bearbeta samlevnadskonflikter i parförhållanden och familjer. På universell nivå kan familjerådgivningen genom sitt utåtriktade uppdrag ge breda folkbildade insatser om relationer och relationsproblem på arenor som exempelvis mödravårdens, barnhälsovårdens och familjecentralens föräldrautbildningar. På selektiv nivå kan familjerådgivning istället rikta insatser mot särskilda grupper som identifierats av kommunen.
 
 **Kartläggning**
 
@@ -295,14 +375,14 @@ Familjerådgivningen är en viktig förebyggande verksamhet på flera nivåer. M
 
 - Specifika modeller, metoder, verktyg eller bedömningsinstrument används under samtalen. 
 
-- Det görs återkommande kartläggningar för att ta reda på om det är lämpligt med familjerådgivning.
+- Det görs uppföljning av vilka som deltar i familjerådgivning. 
 
-- Det görs uppföljning av vilka som deltar i familjerådgivning.
-
-- Samtalsledarna ges möjlighet till kompetensutveckling och vidareutbildning.
+-	Det görs uppföljning av vilket resultat familjerådgivningen får för barn och föräldrar.
 
 
-**Lagstiftning:** *Socialtjänstlagen 5 kap. 3 §*
+**Lagstiftning:** 
+
+*Socialtjänstlagen 5 kap. 3 §*
 
 Kommunen ska sörja för att familjerådgivning genom kommunens försorg eller annars genom lämplig yrkesmässig rådgivare kan erbjudas dem som begär det.
 
@@ -312,9 +392,9 @@ Med familjerådgivning avses i denna lag en verksamhet som består i samtal med 
 
 Det finns flera indikatorer på kommunnivå. Läs mer:
 
--   [Familjerådgivning ](https://mfof.se/statistik_familjeradgivning)
+-   [MFOF: Familjerådgivning ](https://mfof.se/statistik_familjeradgivning)
 
--   [Familjerådgivning: Teknisk rapport - En beskrivning av genomförande och metoder](https://mfof.se/download/18.7fecc00c1884c539cd42e4b1/1686116419181/Statistik%20familjer%C3%A5dgivning%202022_Teknisk%20rapport.pdf)
+-   [SCB: Familjerådgivning: Teknisk rapport - En beskrivning av genomförande och metoder](https://mfof.se/download/18.7fecc00c1884c539cd42e4b1/1686116419181/Statistik%20familjer%C3%A5dgivning%202022_Teknisk%20rapport.pdf)
 
 
 **Läs mer om familjerådgivning:**
@@ -323,9 +403,11 @@ Det finns flera indikatorer på kommunnivå. Läs mer:
 
 -   [Vägledning, familjerådgivning - MFoF:s vägledande material för arbetet med familjerådgivning i Sveriges kommuner ](https://mfof.se/download/18.70103d0c17f2a79704e4486/1645793221507/V%C3%A4gledning%20familjer%C3%A5dgivning%20februari%202022.pdf)
 
+
+
 ### Samarbetssamtal
 
-Familjerådgivningen är en viktig förebyggande verksamhet på flera nivåer. MFoF anser att en väl utbyggd familjerådgivning som kan ta emot människor tidigt är viktigt både samhällsekonomiskt och för den enskilde. När råd och behandling vid relationsproblem ges i ett tidigt skede minskar belastningen på andra verksamheter i samhället, såsom socialtjänst, hälso- och sjukvård och försäkringskassa. Samtidigt som det på individnivå innebär ett ökat välbefinnande och en ökad förmåga att hantera framtida relationsproblem. På universell nivå kan familjerådgivningen genom sitt utåtriktade uppdrag ge breda folkbildade insatser om relationer och relationsproblem på arenor som exempelvis mödravårdens, barnhälsovårdens och familjecentralens föräldrautbildningar. På selektiv nivå kan familjerådgivning istället rikta insatser mot särskilda grupper som identifierats av kommunen. (Myndigheten för familjerätt och föräldraskapsstöd)
+Samarbetssamtal erbjuds med syftet att få föräldrar att nå enighet i frågor som gäller vårdnad, boende och umgänge.
 
 **Kartläggning**
 
@@ -337,24 +419,22 @@ Familjerådgivningen är en viktig förebyggande verksamhet på flera nivåer. M
 
 - Specifika modeller, metoder, verktyg eller bedömningsinstrument används under samtalen.
 
-- Samtalsledarna ges möjlighet till kompetensutveckling och vidareutbildning.
-
-- Det görs återkommande kartläggningar för att ta reda på om det är lämpligt med samarbetssamtal. 
-
 - Det görs uppföljning av vilka som deltar i samarbetssamtal.
+
+- Det görs uppföljning av vilket resultat samarbetssamtalen får för barn och föräldrar. 
 
 
 **Lagstiftning:**
 
-Enligt socialtjänstlagen (2001:453), (5 kap. 3 §) , ska kommunen sörja för att föräldrar kan erbjudas samtal under sakkunnig ledning i syfte att nå enighet i frågor som gäller vårdnad, boende och umgänge (samarbetssamtal). I föräldrabalken, FB infördes samtidigt en möjlighet för rätten att besluta om samarbetssamtal när en process om vårdnad och umgänge inletts.
+Enligt socialtjänstlagen (2001:453), (5 kap. 3 §), ska kommunen sörja för att föräldrar kan erbjudas samtal under sakkunnig ledning i syfte att nå enighet i frågor som gäller vårdnad, boende och umgänge (samarbetssamtal). I föräldrabalken infördes samtidigt en möjlighet för rätten att besluta om samarbetssamtal när en process om vårdnad och umgänge inletts.
 
 **Indikatorer:**
 
 Det finns flera indikatorer på kommunnivå. Läs mer:
 
--   [Familjerätt](https://mfof.se/sarskilda-innehallssidor/statistik/officiell-statistik/familjeratt.html)
+-   [MFOF:Familjerätt](https://mfof.se/sarskilda-innehallssidor/statistik/officiell-statistik/familjeratt.html)
 
--   [Familjerätt: Teknisk rapport - En beskrivning av genomförande och metoder](https://mfof.se/download/18.7fecc00c1884c539cd429235/1685968985912/Statistik%20om%20familjer%C3%A4tt%202022_Teknisk%20rapport.pdf)
+-   [SCB: Familjerätt: Teknisk rapport - En beskrivning av genomförande och metoder](https://mfof.se/download/18.7fecc00c1884c539cd429235/1685968985912/Statistik%20om%20familjer%C3%A4tt%202022_Teknisk%20rapport.pdf)
 
 **Läs mer om samarbetssamtal:**
 
@@ -365,7 +445,8 @@ Det finns flera indikatorer på kommunnivå. Läs mer:
 -   [Interventioner för att förebygga och hantera föräldrars konflikter och tvister kring vårdnad, boende och umgänge](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2011-6-32.pdf)
 
 
-## Lästips uppdelade på verksamhet
+
+## Lästips uppdelade på verksamhet (FLYTTA HIT TSI OCH ÖF)
 
 **Utökat hembesöksprogram**
 
@@ -382,7 +463,7 @@ Det finns flera indikatorer på kommunnivå. Läs mer:
 -   [Extended postnatal home visiting programme](https://ki.se/en/gph/extended-postnatal-home-visiting-programme)
 
 
-**Familjecentral av hög kvalitet**
+**Familjecentral**
 
 -   Abrahamsson A, Bing V. Vad är en familjecentral? Socialmedicinsk tidskrift. 2011;88(2):98-9.
 
@@ -397,9 +478,15 @@ Det finns flera indikatorer på kommunnivå. Läs mer:
 -   [Nationell vägledning Familjecentral - Samverkan för barns bästa!](https://utveckling.regionorebrolan.se/contentassets/28b5fc54d5454595ae632c79c415a178/nationell-vagledning-familjecentral---samverkan-for-barns-basta.pdf)
 
 
-**Öppen förskola av hög kvalitet**
+**Öppen förskola**
 
 -   [Rätt till förskola](https://www.skolverket.se/regler-och-ansvar/ansvar-i-skolfragor/ratt-till-forskola)
+
+**Samverkan mellan förskola/skola och föräldrar:**
+
+-   [Del 2 - Samarbete och kommunikation för elevernas bästa](https://www.spsm.se/systematik-for-tidiga-stodinsatser/del-4---att-prova-och-omprova-tillsammans/samarbete-och-kommunikation-for-elevernas-basta/)
+
+-   [Moment 3 - Samverkan för lärande](https://spsm.se/studiepaket-amnesomraden/moment-3/)
 
 
 **Riktade föräldraskapsstödsprogram**
@@ -415,16 +502,11 @@ Det finns flera indikatorer på kommunnivå. Läs mer:
 -   [Risk- och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?](https://osf.io/ntcw3)
 
 
-**Samverkan mellan förskola/skola och föräldrar:**
-
--   [Del 2 - Samarbete och kommunikation för elevernas bästa](https://www.spsm.se/systematik-for-tidiga-stodinsatser/del-4---att-prova-och-omprova-tillsammans/samarbete-och-kommunikation-for-elevernas-basta/)
-
--   [Moment 3 - Samverkan för lärande](https://spsm.se/studiepaket-amnesomraden/moment-3/)
-
-
 **Samarbetssamtal**
+
 -   [Samarbetssamtal- Kartläggning av föräldrars och samtalsledares erfarenheter](https://mfof.se/download/18.7a15f94516e8e25421b18716/1574925630064/samarbetssamtal-kartlaggning.pdf)
 
 -   [Samarbetssamtal och medling vid vårdnadstvist eller konflikt](https://www.sbu.se/sv/publikationer/sbus-upplysningstjanst/samarbetssamtal-och-medling-vid-vardnadstvist-eller-konflikt/?pub=68399&lang=sv)
 
 -   [Intervensjoner for å dempe foreldrekonflikt – en kunnskapsoversikt](https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2013/intervensjoner-for-a-dempe-foreldrekonflikt---en-kunnskapsoversikt.pdf)
+
