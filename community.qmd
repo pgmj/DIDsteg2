@@ -3,3 +3,150 @@ title-block-banner: "#2D6B97"
 title-block-banner-color: "#BBDBEC"
 title: "Tryggt närsamhälle"
 ---
+# *Under arbete*
+
+## Definition Skyddsfaktor
+
+Ett tryggt närsamhälle är en betydande skyddsfaktor för barn och ungas uppväxtvillkor och kan bidra till socialt stöd, sammanhållning, trygghet och hälsofrämjande miljöer. Den fysiska miljön påverkar en mängd faktorer av social och hälsomässig karaktär. Inställningen och relationen till andra människor påverkas av hur kvartér och bostadsområden är utformade och hur områdena hänger samman med det övriga samhället. Den fysiska planeringen har därför stor påverkan på barn och ungas hälsa (Healthy cities, WHO). 
+
+Läs mer på [Boverket](https://www.boverket.se/sv/samhallsplanering/stadsutveckling/halsa-forst/social-inkludering/tillit-och-trygghet/)
+
+
+### Så här använder du basutbudet 
+
+Basutbudet kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned i en excelfil för att besvaras och sparas. 
+
+I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Dessa frågor kan också laddas ned i eget formulär för att besvaras och sparas.
+
+Under rubriken Indikatorer finns länkar till indikatorer med bäring på verksamheten/insatsen och under rubriken Läs mer länkas till de studier eller myndighetsrapporter som ligger till grund för att verksamheten/insatsen inkluderats i basutbudet. Om det finns specifik lagtext med koppling till verksamheten/insatsen så redovisas det under rubriken Lagstiftning.
+
+
+## Kartläggning och fördjupning kring basutbudet i er kommun
+
+Basutbudet kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned här: [Kartläggning av Basutbud Tryggt närsamhälle - LÄGG IN RÄTT](/Kartläggning_fldr.xlsx) Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
+
+I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Klicka här för att hämta ner filen:  [Dokumentation av fördjupande frågor- LÄGG IN RÄTT](/Fördjupningsfrågor_fldr.docx). Denna kan ni sedan spara lokalt och arbeta vidare med. 
+
+
+## Basutbudets insatser: Ett tryggt närsamhälle
+
+### Kunskapsbaserat områdesarbete med lokal samverkan 
+Områdesarbete är ett arbetssätt som används inom olika samhällssektorer för att arbeta med olika utmaningar inom specifika geografiska områden, med syfte att främja social, ekonomisk, ekologisk och/eller fysisk utveckling i området, och även förebygga kända problem i området. Områdesarbetet inkluderar ofta samverkan mellan olika aktörer såsom kommunala verksamheter, lokala myndigheter bostadsbolag och föreningar, föreningsliv och civilsamhällesorganisationer, näringsliv, hälso- och sjukvård samt invånare i området. 
+
+**Kartläggning**
+
+-	Det finns en samverkansöverenskommelse mellan kommunala verksamheter, lokala myndigheter bostadsbolag och föreningar, föreningsliv och civilsamhällesorganisationer, näringsliv, hälso- och sjukvård samt invånare i området 
+
+-	Barn och unga involveras i arbetet.
+
+**Läs mer om kunskapsbaserat områdesarbete med lokal samverkan**
+
+### Medborgardialoger 
+Medborgardialoger är ett sätt att inkludera medborgare i beslut och processer samt öka tillit till myndigheter och offentliga aktörer. Genom att arbeta uppsökande och med olika plattformar och kanaler kan kommunen nå fler medborgare och bygga ett långsiktigt förtroende för de olika kommunala verksamheterna. 
+
+Att främja ungas inflytande och delaktighet i samhällslivet är ett av de övergripande målen för den svenska ungdomspolitiken Det är inte bara en rättighet för unga att delta i beslut som rör deras vardag utan också viktigt att ungas kunskaper, synpunkter och erfarenheter tas tillvara som en resurs i de demokratiska processerna.
+
+Genomförda projekt har bekräftat betydelsen av att involvera medborgare i tidiga planeringsskeden. Hur medborgardialoger organiseras och genomförs är ett viktigt utvecklingsområde för att öka delaktigheten i utformningen gemensamma miljöer.
+
+
+**Kartläggning**
+
+- Medborgardialoger med barn och unga erbjuds i vår kommun.
+
+- Det finns strategier för hur och när medborgardialoger ska genomföras.
+
+-	Det görs uppföljning av och återkoppling till barn och unga av vad medborgardialogerna bidragit till.
+
+**Läs mer om medborgardialoger**
+
+-   [Tillväxtverket: Plattformsdialog](https://tillvaxtverket.se/tillvaxtverket/guiderochverktyg/guiderochverktyg/plattformsdialog.4437.html)
+
+-   [Internationellt centrum för lokal demokrati: Checklista för dialog med barn och unga ](https://icld.se/publikationer/checklist-for-dialogue-with-children-and-young-people/)
+
+
+### Socialt fältarbete med barn och unga 
+Socialt fältarbete för barn och unga handlar om att arbeta uppsökande och förebyggande. I vissa kommuner har fältarbetare dessutom ett främjandeuppdrag för att skapa goda uppväxtvillkor. Arbetet sker på de platser och i de miljöer där barn och unga befinner sig i och innebär att skapa goda relationer för att kunna identifiera behov och erbjuda stöd och vägledning i barn och ungas vardag. Det kan handla om att ha kontakt med vårdnadshavare, ge råd om fritidsaktiviteter, eller stötta dem i att hantera personliga problem.
+
+Att utveckla en god samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra delar av socialtjänsten, elevhälsan, fritidsgårdar är centrala aktörer tillsammans med civilsamhällets aktörer. Detta nätverkande är viktigt för att skapa en helhetsbild av den unges situation och för att samordna insatser.
+
+
+**Kartläggning**
+
+**Lagstiftning**
+
+*Socialtjänstlagen*
+
+**Läs mer om socialt fältarbete med barn och unga**
+
+-   [Socialstyrelsen: Socialt fältarbete med barn och unga](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2022-1-7731.pdf)
+
+-   [Kunskapsguiden: Socialt fältarbete med barn och unga](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/uppsokande-och-forebyggande-socialt-arbete/socialt-faltarbete-med-barn-och-unga/)
+
+-   [SKR: Motverka normbrytande beteende och förebyggande socialt fältarbete](https://skr.se/skr/samhallsplaneringinfrastruktur/trygghetsakerhet/brottsforebyggande/barnochungasombegarbrott/tidigaresandningar/motverkanormbrytandebeteendeochforebyggandesocialtfaltarbete.64373.html)
+
+
+### Sociala värden tas till vara i stadsplanering
+En väl utformad plats kan medföra att människor trivs, att de bor kvar och att skadegörelse minskar.  tas upp i tidiga planeringsskeden, innan upphandlingar har genomförts och definitiva beslut har fattats. 
+
+**Kartläggning**
+
+**Lagstiftning**
+
+**Läs mer om hur sociala värden tas till vara i stadsplanering**
+
+
+### Situationell prevention 
+En väl utformad plats kan medföra att människor trivs, att de bor kvar och att skadegörelse minskar.  tas upp i tidiga planeringsskeden, innan upphandlingar har genomförts och definitiva beslut har fattats. 
+
+**Kartläggning**
+
+**Lagstiftning**
+
+**Läs mer om situationell prevention**
+
+
+### Trygga och attraktiva ytor för transporter och förflyttning  
+
+**Kartläggning**
+
+**Lagstiftning**
+
+**Läs mer om trygga och attraktiva ytor för transporter och förflyttning**
+
+
+### Grönområden 3-30-300   
+
+**Kartläggning**
+
+**Lagstiftning**
+
+**Läs mer om planering av grönområden**
+
+
+### Trygghetsvandring 
+
+**Kartläggning**
+
+**Lagstiftning**
+
+**Läs mer om trygghetsvandringar**
+
+
+### Insatser för social kontroll  
+
+**Kartläggning**
+
+**Lagstiftning**
+
+**Läs mer om insatser för social kontroll**
+
+
+### Insatser och mötesplatser för ökad sammanhållning och social tillit 
+Tillit varierar från lokalsamhälle till lokalsamhälle utan även många andra viktiga variabler som ojämlikhet, mångfald, kontakt med grannar, platser där möten kan ske, och den politik som drivs på kommunal och stadsnivå. Låg lokalsamhälletillit och bristande trygghet riskerar att kringgärda gruppers frihet och tillgång till den lokala platsen, inte minst rör detta barns, kvinnors och äldres vardag. En hög lokalsamhälletillit innebär sannolikt även besparingar i termer av minskade kostnader för exempelvis övervakning och minskat behov av offentliga åtgärder för att lösa lokala problem. Bristande lokalsamhälletillit gör det däremot svårare att få människor att samarbeta för att lösa lokala problem och bidrar också till att försvåra samarbeten med det offentliga.
+
+
+**Kartläggning**
+
+**Lagstiftning**
+
+**Läs mer om social sammanhållning och social tillit **
