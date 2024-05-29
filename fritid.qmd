@@ -11,6 +11,14 @@ Att ha en utvecklande och meningsfull fritid är en viktig del av uppväxttiden 
 
 Forskningen visar att det är viktigt att fritiden bidrar till glädje, fysisk aktivitet, kreativitet, gemenskap, socialt stöd eller sammanhang. Många olika aktörer och verksamheter spelar en viktig roll i att tillhandahålla dessa möjligheter och säkerställa att fritiden har en främjande effekt. 
 
+### Så här använder du basutbudet 
+
+Basutbudet kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned i en excelfil för att besvaras och sparas. 
+
+I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Dessa frågor kan också laddas ned i eget formulär för att besvaras och sparas.
+
+Under rubriken Indikatorer finns länkar till indikatorer med bäring på verksamheten/insatsen och under rubriken Läs mer länkas till de studier eller myndighetsrapporter som ligger till grund för att verksamheten/insatsen inkluderats i basutbudet. Om det finns specifik lagtext med koppling till verksamheten/insatsen så redovisas det under rubriken Lagstiftning.
+
 ## Underlag för basutbudet *meningsfull fritid*
 
 I denna del av basutbudet beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag bör erbjuda och som stärker skyddsfaktorn  *meningsfull fritid.* Urvalet har förankrats med myndigheter, forskare, experter och kommuner men är inte fullständigt och kan komma att revideras över tid. 
@@ -26,7 +34,7 @@ I denna del av basutbudet beskrivs verksamheter och insatser som kommuner enligt
 
 ## Kartläggning och fördjupning kring basutbudet i er kommun
 
-Basutbudet kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned här: [Kartläggning av Basutbud Meningsfull fritid - LÄGG IN RÄTT](/Kartläggning_fldr.xlsx) Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
+Basutbudet kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned här: [Kartläggning av Basutbud Meningsfull fritid](/Kartläggning_fritid.xlsx) Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
 
 I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Klicka här för att hämta ner filen:  [Dokumentation av fördjupande frågor- LÄGG IN RÄTT](/Fördjupningsfrågor_fldr.docx). Denna kan ni sedan spara lokalt och arbeta vidare med. 
 
@@ -45,7 +53,7 @@ Samverkan och samarbeten mellan skolor och föreningsverksamheter gör fritidsak
 
 -	Det finns kommunövergripande rutiner för samverkan mellan fritids – och föreningsverksamheter samt socialtjänst, skola och hälso- och sjukvård.
 
--	Det finns plattformar eller forum för tvärsektoriellt arbete där fritids-och föreningsverksamhet ingår.  
+-	Det finns plattformar eller forum för tvärsektoriellt arbete där fritids- och föreningsverksamhet ingår.  
 
 
 **Läs mer om tidiga och samordnade insatser**
@@ -68,13 +76,11 @@ Barn ska erbjudas fritidshem upp till 13 års ålder och ska enligt skollagen st
 
 -	Verksamheten planeras, följs upp och utvecklas utifrån de nationella målen och läroplan för fritidshem (systematiskt kvalitetsarbete) 
 
--	Verksamheten planers och anpassas utifrån fysiska, psykiska och/eller andra behov och intressen hos enskilda barnet och ungdomen
-
--	I vilken utsträckning sker resurstilldelning till fritidshemmen på analyser av hur barns olika villkor eller familjesituation ser ut? 
+-	Verksamheten planeras och anpassas utifrån fysiska, psykiska och/eller andra behov och intressen hos enskilda barnet och ungdomen
 
 -	Verksamheten har planerats eller anpassas utifrån Boverkets riktlinjer om friyta för lek och utevistelse.
 
--	Barnet och vårdnadshavare erbjuds inflytande över utbildningen i fritidshemmet
+-	Barnet och vårdnadshavare erbjuds inflytande över utbildningen i fritidshemmet.
 
 
 **Lagstiftning**
@@ -106,13 +112,13 @@ Verksamheten har också en kompenserande roll för barn och ungdomar som inte ha
 
 **Kartläggning**
 
--	Kommuner erbjuder öppen fritidsverksamhet, exempelvis fritidsgårdar, ungdomens hus eller aktivitetshus. 
+-	Kommunen erbjuder öppen fritidsverksamhet, exempelvis fritidsgårdar, ungdomens hus eller aktivitetshus. 
 
--	Det görs uppföljningar av vilka målgrupper som deltar i den öppna fritidsverksamheten.
+-	Det görs uppföljning av vilka målgrupper som deltar i den öppna fritidsverksamheten.
 
 -	Det finns samverkan med lokala aktörer som erbjuder ungdomsverksamhet, så som civilsamhällesorganisationer och privata aktörer.
 
--	Det finns förutsättningar/plattformar för samverkan med existerande fritidsverksamhet 
+-	Det finns förutsättningar/plattformar för samverkan med existerande fritidsverksamhet.
 
 -	Det finns långsiktig finansiering för arbetet med öppen fritidsverksamhet.
 
@@ -151,15 +157,15 @@ Biblioteken bidrar också till språkutveckling och integration, särskilt för 
 
 **Kartläggning**
 
--	Det finns bibliotek med barn och ungdomsverksamhet i kommunen
+-	Det finns bibliotek med barn och ungdomsverksamhet i kommunen.
 
 -	Det finns samverkan med andra lokala aktörer som erbjuder barn -och ungdomsverksamhet, såsom öppen fritidsverksamhet, civilsamhällesorganisationer och privata aktörer.
 
--	Det finns mål/strategier för arbetet med barn och ungdomsverksamheten i biblioteken.
+-	Det finns mål/strategier för arbetet med barn och ungdomsverksamheten på biblioteken.
 
--	Det finns långsiktig finansiering av barn och ungdomsverksamheten i biblioteken.
+-	Det finns långsiktig finansiering av barn och ungdomsverksamheten på biblioteken.
 
--	Uppföljning görs av vilka som besöker barn och ungdomsverksamheten i biblioteken. 
+-	Uppföljning görs av vilka som besöker barn och ungdomsverksamheten på biblioteken. 
 
 -	Uppföljning görs av barn och ungdomsverksamhetens effekter för barn och unga
 
@@ -202,9 +208,9 @@ En inkluderande kultur- och musikskola bidrar till barns och ungas välmående g
 
 -	Det finns långsiktig finansiering av kultur-/musikskolans verksamhet.
 
--	Det görs kontinuerliga uppföljningar av vilka som besöker kultur-/musikskolan. 
+-	Det görs kontinuerlig uppföljninga av vilka som besöker kultur-/musikskolan. 
 
--	Uppföljning görs av kultur-/musikskolans resultat och/eller effekter för barn och unga 
+-	Uppföljning görs av kultur-/musikskolans resultat och/eller effekter för barn och unga.
 
 
 **Läs mer om inkluderande kultur-/musikskola**

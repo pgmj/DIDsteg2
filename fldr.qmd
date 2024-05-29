@@ -10,6 +10,13 @@ En god föräldra-barnrelation är en av de viktigaste skyddsfaktorerna för bar
 
 Byggstenar för en god relation är värme, närvaro, bekräftelse och tydliga ramar från föräldrarnas sida. Ett gott samspel främjas enligt forskningen genom att föräldrarna ger tillräckligt med positiv uppmärksamhet och att denna överväger den negativa uppmärksamheten i form av tjat och tillsägelser. En god relation är också en förutsättning för att kunna sätta gränser som barnet respekterar.
 
+### Så här använder du basutbudet 
+
+Basutbudet kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned i en excelfil för att besvaras och sparas. 
+
+I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Dessa frågor kan också laddas ned i eget formulär för att besvaras och sparas.
+
+Under rubriken Indikatorer finns länkar till indikatorer med bäring på verksamheten/insatsen och under rubriken Läs mer länkas till de studier eller myndighetsrapporter som ligger till grund för att verksamheten/insatsen inkluderats i basutbudet. Om det finns specifik lagtext med koppling till verksamheten/insatsen så redovisas det under rubriken Lagstiftning.
 
 ## Underlag för basutbudet *en god föräldra-barnrelation*
 
@@ -186,11 +193,6 @@ I skolans systematiska kvalitetsarbete ingår att löpande utveckla och utvärde
 *Skollagen 1 kap. 4 §*
 
 Utbildningen syftar också till att i samarbete med hemmen främja barns och elevers allsidiga personliga utveckling till aktiva, kreativa, kompetenta och ansvarskännande individer och medborgare.
-
-
-**Indikatorer**
-
-Ej identifierat i dagsläget
 
 
 **Läs mer om samverkan mellan förskola/skola och föräldrar**
