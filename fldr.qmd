@@ -119,7 +119,7 @@ Familjecentraler i Sverige arbetar i huvudsak med barn 0–6 år men riktar sig 
 
 **Indikatorer**
 
--   Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun.
+-   [Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun](https://www.kolada.se/verktyg/fri-sokning/?kpis=148817&years=30200,30199,30198&municipals=82304&rows=municipal,kpi&visualization=bar-chart)
 
 
 **Läs mer om familjecentraler**
@@ -157,7 +157,7 @@ Den öppna förskolan ska erbjuda barn en pedagogisk verksamhet i samarbete med 
 
 **Indikatorer**
 
--   Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun.
+-   [Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun](https://www.kolada.se/verktyg/fri-sokning/?kpis=148817&years=30200,30199,30198&municipals=82304&rows=municipal,kpi&visualization=bar-chart)
 
 
 **Läs mer om öppen förskola**
@@ -226,9 +226,9 @@ Föräldragrupper inom mödrahälsovården (MHV) och barnhälsovården (BHV) syf
 
 **Indikatorer**
 
--   Andel kvinnor respektive partner som deltagit i föräldrastöd efter typ av region.
+-   [Andel kvinnor respektive partner som deltagit i föräldrastöd efter typ av region](https://www.mfof.se/foraldraskapsstod/att-bygga-ett-hallbart-foraldraskapsstod/indikatorer-kvalitetsmatning-och-uppfoljning.html)
 
--   Andel kvinnor och män som deltagit i föräldragrupp på BHV av totalt antal födda barn per region.
+-   [Andel kvinnor och män som deltagit i föräldragrupp på BHV av totalt antal födda barn per region](https://www.mfof.se/foraldraskapsstod/att-bygga-ett-hallbart-foraldraskapsstod/indikatorer-kvalitetsmatning-och-uppfoljning.html)
 
 
 **Läs mer om föräldragrupper MVC/BVC**
@@ -308,12 +308,12 @@ Syftet med riktade föräldrastödsprogram är att vända en negativ utveckling 
 
 **Indikatorer**
 
--   Andel kommuner/stadsdelar som erbjuder minst ett manualbaserat föräldrastöd i grupp för barn med bråkigt/normbrytande beteende, per län.
+-   [Andel kommuner/stadsdelar som erbjuder minst ett manualbaserat föräldrastöd i grupp för barn med bråkigt/normbrytande beteende, per län](https://www.mfof.se/foraldraskapsstod/att-bygga-ett-hallbart-foraldraskapsstod/indikatorer-kvalitetsmatning-och-uppfoljning.html)
 
 
 **Läs mer om riktade föräldrastödsprogram**
 
--   [Karolinska Institutet: Forskning på föräldraskapsstödsprogram ](https://www.ipsykologi.se/forskning)
+-   [Karolinska Institutet: Forskning på föräldraskapsstödsprogram](https://www.ipsykologi.se/forskning)
 
 -   [MFOF: Översikt av program och metoder för föräldraskapsstöd](https://mfof.se/foraldraskapsstod/program-och-metoder-for-foraldraskapsstod---soksida.html#query/*)
 

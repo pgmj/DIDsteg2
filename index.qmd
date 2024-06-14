@@ -11,7 +11,7 @@ format:
 Alla vinner på goda uppväxtvillkor för barn och unga. Att få tillgång till tidiga insatser kan på individnivå förebygga framtida utanförskap, olika former av fysisk och psykisk ohälsa, arbetslöshet, missbruk och kriminalitet. Här finns också stora vinster på samhällsnivå att hämta, det vi investerar i barn och unga i ett tidigt skede har vi igen mångfalt senare.
 
 
-![](preventionsstjarnan.png)
+![](ps.png)
 
 
 I praktiken handlar det ofta om samverkan kring insatser riktade till föräldrar, förskola och skola, fritids- och föreningsverksamhet, eller insatser för att förändra miljöer som barn och unga rör sig i.
