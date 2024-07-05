@@ -79,7 +79,7 @@ I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen p
 Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda för att stärka skyddsfaktorn Måluppfyllelse i skola och förskola.
 
 
-###Samordnade insatser runt barn och ungdomar
+### Samordnade insatser runt barn och ungdomar
 En strukturerad samverkan på flera nivåer i den kommunala organisationen är en förutsättning för att samverkan runt enskilda barn och ungdomar ute i verksamheterna ska fungera. Vilka aktörer som behöver samverka kan skilja sig åt i de enskilda ärendena men förutsättningarna förbättras om en bred samverkan med till exempel förskola/skola, socialtjänst, hälso-och sjukvård (BMM, BVC), elevhälsa, kultur- och fritidsverksamhet samt polis finns på plats. 
 
 När aktörer och verksamheter runt barn och unga samverkar med varandra så ökar möjligheterna att identifiera och erbjuda relevant stöd i tid. Kunskap från flera verksamheter ger en bättre helhetsbild av barnets eller ungdomens behov av stöd och lämpliga insatser.
@@ -300,28 +300,45 @@ Barns måluppfyllelse i förskola samt skola är starkt kopplat till deras måen
 - Skolorna i vår kommun erbjuder kunskapsbaserade insatser för att främja barns trygghet och/eller hälsa. Exempelvis:
 
 *Psykisk hälsa/suicidprevention*
+
   - [YAM Youth Aware of Mental health](https://www.chis.regionstockholm.se/nasp/utbildning/youth-aware-mental-health/)
+  
   -	[PAX i skolan](https://paxiskolan.se/) och [Höjaspelet](https://malmo.se/Communities-That-Care-CTC/Hojaspelet---Good-Behavior-Game.html) (varianter av Good Behavior Game)
+  
   - [WINST](https://atstorning.se/internetbaserad-hjalp/) – webkurs för att förebygga ätstörningar.
+  
   - [PALS](https://www.vgregion.se/halsa-och-vard/vardgivarwebben/amnesomraden/psykisk-halsa/utvecklingscentrum-for-barns-psykiska-halsa/skolmodellen-pals/)
+  
   - [FRIENDS](https://friendsresilience.org/about)
+  
   - SEL-program (Social Emotional Learning) 
+  
   - PBS, IBIS
 
 *Trygghetsfrämjande/våldsförebyggande*
+
   - [Olweusprogrammet](https://olweus.se/) mot mobbning
+  
   - [Mentors in Violence Prevention (MVP)](https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/barn-och-unga/unga-som-begar-brott/exempel-brottsforebyggande-metoder/mvp-mentorer-i-valdsprevention-mentors-in-violence-prevention/)
+  
   - [TÅGET](https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/barn-och-unga/unga-som-begar-brott/exempel-brottsforebyggande-metoder/taget/)
-  - [KiVa Skola](https://sverige.kivaprogram.net/partnership/) 
+  
+  - [KiVa Skola](https://sverige.kivaprogram.net/partnership/)
+  
   - [Tryggare skola](hhttps://tryggaresverige.org/skola/tryggare-skola) 
+  
   - Skol-Komet
   
 *Rörelsefrämjande*
+
   - [Rörelsesatsning i skolan](https://www.rf.se/rf-arbetar-med/aktuella-satsningar/rorelsesatsning-i-skolan) 
   
 *Normkritik och inkludering*
+
   - [RFSL:	Hbtqi-certifiering](https://rfslutbildning.se/hbtqi-certifiering/) 
+  
   - [Machofabriken](https://machofabriken.se/) 
+  
   - [Lås upp](hhttps://www.lasupp.se/) 
 
 -	Det finns mål och strategier för arbetet med de kunskapsbaserade insatserna.

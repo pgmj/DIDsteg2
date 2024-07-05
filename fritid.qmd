@@ -3,7 +3,6 @@ title-block-banner: "#2D6B97"
 title-block-banner-color: "#BBDBEC"
 title: "Meningsfull fritid"
 ---
-# *Under arbete*
 
 ## Definition Skyddsfaktor
 
@@ -231,9 +230,9 @@ En inkluderande kultur- och musikskola bidrar till barns och ungas välmående g
 
 -	Kommunen har en eller flera kultur-/musikskolor.
 
--	Det finns samverkan med andra lokala aktörer som erbjuder ungdomsverksamhet, så som, öppen fritidsverksamhet, civilsamhällesorganisationer och privata aktörer? 
+-	Det finns samverkan med andra lokala aktörer som erbjuder ungdomsverksamhet, så som, öppen fritidsverksamhet, civilsamhällesorganisationer och privata aktörer. 
 
--	Det finns mål/strategier för arbetet med inkluderande kultur-/musikskola.
+-	Det finns mål och strategier för arbetet med inkluderande kultur-/musikskola.
 
 -	Det finns en utvecklad samverkan mellan skolan och kultur-/musikskolan. 
 
@@ -276,9 +275,9 @@ Inkluderande föreningsverksamhet kännetecknas av tillgänglighet och öppenhet
 
 -	Föreningsverksamhet planeras och anpassas utifrån fysiska, psykiska eller andra behov och intressen hos det enskilda barnet eller ungdomen. 
 
--	Det görs kontinuerliga uppföljningar av hur föreningsverksamheten lever upp till utformade krav.
+-	Det görs kontinuerlig uppföljning av hur föreningsverksamheten lever upp till utformade krav.
 
--	Det görs uppföljningar av vilka målgrupper som tar del av fritidsverksamheter i kommunen och om identifierade riskgrupper nås.
+-	Det görs uppföljning av vilka målgrupper som tar del av fritidsverksamheter i kommunen och om identifierade riskgrupper nås.
 
 
 **Läs mer om inkluderande föreningsverksamhet**
