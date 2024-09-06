@@ -76,10 +76,11 @@ I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen p
 
 
 ## Basutbudets insatser: Måluppfyllelse i förskola och skola
+
 Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda för att stärka skyddsfaktorn Måluppfyllelse i skola och förskola.
 
-
 ### Samordnade insatser runt barn och ungdomar
+
 En strukturerad samverkan på flera nivåer i den kommunala organisationen är en förutsättning för att samverkan runt enskilda barn och ungdomar ute i verksamheterna ska fungera. Vilka aktörer som behöver samverka kan skilja sig åt i de enskilda ärendena men förutsättningarna förbättras om en bred samverkan med till exempel förskola/skola, socialtjänst, hälso-och sjukvård (BMM, BVC), elevhälsa, kultur- och fritidsverksamhet samt polis finns på plats. 
 
 När aktörer och verksamheter runt barn och unga samverkar med varandra så ökar möjligheterna att identifiera och erbjuda relevant stöd i tid. Kunskap från flera verksamheter ger en bättre helhetsbild av barnets eller ungdomens behov av stöd och lämpliga insatser.
@@ -299,7 +300,7 @@ Barns måluppfyllelse i förskola samt skola är starkt kopplat till deras måen
 
 - Skolorna i vår kommun erbjuder kunskapsbaserade insatser för att främja barns trygghet och/eller hälsa. Exempelvis:
 
-*Psykisk hälsa/suicidprevention*
+  *Psykisk hälsa/suicidprevention*
 
   - [YAM Youth Aware of Mental health](https://www.chis.regionstockholm.se/nasp/utbildning/youth-aware-mental-health/)
   
