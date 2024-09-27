@@ -43,7 +43,7 @@ I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen p
 
 Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda för att stärka skyddsfaktorn En god föräldra-barnrelation.
 
-### Samordnade insatser runt barn och unga
+### Tidiga samordnade insatser runt barn och ungdomar
 
 En strukturerad samverkan på flera nivåer i den kommunala organisationen är en förutsättning för att samverkan runt enskilda barn och ungdomar ute i verksamheterna ska fungera. Vilka aktörer som behöver samverka kan skilja sig åt i de enskilda ärendena men förutsättningarna förbättras om en bred samverkan med till exempel förskola/skola, socialtjänst, hälso-och sjukvård (BMM, BVC), elevhälsa, kultur- och fritidsverksamhet samt polis finns på plats. 
 
@@ -119,6 +119,7 @@ Syftet med utökat hembesöksprogram är att stärka familjens tillit till sin e
 
 Familjecentraler i Sverige arbetar i huvudsak med barn 0–6 år men riktar sig även till blivande föräldrar och andra viktiga vuxna kring barnet. År 2023 fanns det omkring 180 familjecentraler i Sverige. Enligt definition samlokaliserar familjecentralen fyra verksamheter – barnmorskemottagning (BMM), barnavårdscentral (BVC), öppen förskola och förebyggande socialtjänst. Föreningen för familjecentralers främjande (FFFF) är en nationell förening som arbetar med utveckling och stöd till befintliga familjecentraler i landet. Målet med familjecentralers verksamhet är enligt FFFF att främja en god och jämlik hälsa hos blivande föräldrar, barn, föräldrar och andra viktiga vuxna runt barnet.
 
+
 **Kartläggning**
 
 - Det finns en eller flera familjecentraler i kommunen.
@@ -129,7 +130,10 @@ Familjecentraler i Sverige arbetar i huvudsak med barn 0–6 år men riktar sig 
 
 -	Det görs uppföljning av vilka som besöker familjecentralen.
 
+-	Barn och föräldrar involveras i utformningen av verksamheten.
+
 - Det görs uppföljning av familjecentralens resultat för barn och föräldrar.
+
 
 
 **Indikatorer**
@@ -331,6 +335,7 @@ Syftet med riktade föräldrastödsprogram är att vända en negativ utveckling 
 
 -	Vårdnadshavare och föräldrar involveras i föräldraskapsstödets utformning.
 
+
 **Indikatorer**
 
 -   [MFOF: Andel kommuner/stadsdelar som erbjuder minst ett manualbaserat föräldrastöd i grupp för barn med bråkigt/normbrytande beteende, per län](https://www.mfof.se/foraldraskapsstod/att-bygga-ett-hallbart-foraldraskapsstod/indikatorer-kvalitetsmatning-och-uppfoljning.html)
@@ -425,7 +430,7 @@ Samarbetssamtal erbjuds med syftet att få föräldrar att nå enighet i frågor
 
 - Kommunen erbjuder samarbetssamtal.
 
-- Det finn mål och strategier för arbetet med samarbetssamtal.
+- Det finns mål och strategier för arbetet med samarbetssamtal.
 
 - Barn ges möjlighet att komma till tals i samband samarbetssamtalen.
 
@@ -454,7 +459,7 @@ Enligt socialtjänstlagen (2001:453), (5 kap. 3 §), ska kommunen sörja för at
 
 -   [MFOF: Vad är samarbetssamtal?](https://mfof.se/vardnad-boende-och-umgange/information-for-foraldrar/vad-ar-samarbetssamtal.html)
 
--   [MFOF: Forskning om samarbetssamtal och medling)](https://www.mfof.se/download/18.78bdeb3e17e98c36ecf5a5f3/1643878965346/Forskning%20om%20samarbetssamtal%20och%20medling.pdf)
+-   [MFOF: Forskning om samarbetssamtal och medling](https://www.mfof.se/download/18.78bdeb3e17e98c36ecf5a5f3/1643878965346/Forskning%20om%20samarbetssamtal%20och%20medling.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
