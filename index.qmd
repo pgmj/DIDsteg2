@@ -6,10 +6,36 @@ format:
     toc: false
 ---
 
-## Bakgrund {.unnumbered}
+# Basutbud -	Ett stöd för verksamhetskartläggning och analys utifrån skyddsfaktorer för barn & unga {.unnumbered}
+
+
+## Introduktion
+
+Kartläggningen omfattar verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag bör erbjuda för att stärka fyra av de viktigaste skyddsfaktorerna med potential att påverka flera olika problemutfall:
+
+-	En god föräldrabarnrelation
+
+-	Måluppfyllelse i förskola och skola
+
+-	En meningsfull fritid
+
+-	Ett tryggt närsamhälle
+
+Genom att sortera verksamheterna under de fyra skyddsfaktorerna är förhoppningen att tydliggöra olika verksamheters och förvaltningars betydelse för att motverka olika problemutfall och även vikten av samverkan för att för att nå de egna målsättningarna.
+
+
+### Så här gör du kartläggningen och analysen
+
+Basutbudet kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned i en excelfil för att besvaras och sparas.
+
+I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Dessa frågor kan också laddas ned i eget formulär för att besvaras och sparas.
+
+Under rubriken Indikatorer finns länkar till indikatorer med bäring på verksamheten/insatsen och under rubriken Läs mer länkas till de studier eller myndighetsrapporter som ligger till grund för att verksamheten/insatsen inkluderats i basutbudet. Om det finns specifik lagtext med koppling till verksamheten/insatsen så redovisas det under rubriken Lagstiftning.
+
+
+## Risk och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?
 
 Alla vinner på goda uppväxtvillkor för barn och unga. Att få tillgång till tidiga insatser kan på individnivå förebygga framtida utanförskap, olika former av fysisk och psykisk ohälsa, arbetslöshet, missbruk och kriminalitet. Här finns också stora vinster på samhällsnivå att hämta, det vi investerar i barn och unga i ett tidigt skede har vi igen mångfalt senare.
-
 
 ![](preventionsstjarnan.png){width="40%"}
 
@@ -18,51 +44,36 @@ I praktiken handlar det ofta om samverkan kring insatser riktade till föräldra
 
 För att motivera till samverkan mellan olika sektorer och sakfrågor har Länsstyrelsen i Stockholm och RISE gjort en kunskapssammanställning över forskning på gemensamma risk- och skyddsfaktorer för olika problemutfall. Sammanställningen har omfattat 86 forskningsöversikter och studier som sammantaget tydligt visar att forskningsbaserade satsningar på att minska riskfaktorer och stärka skyddsfaktorer på olika nivåer kan minska risken för flera olika problemutfall, exempelvis kriminalitet, beroendeproblematik och psykisk ohälsa.
 
+
 ![](riskrapport.png){width="25%"}
 
-Här finns rapporten: [Risk- och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?](https://osf.io/ntcw3)
+Här finns rapporten: [Risk- och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?](http://ri.diva-portal.org/smash/record.jsf?pid=diva2%3A1656234&dswid=3419)
 
-## Basutbudet
+### Framgångsfaktorer för samordnade insatser
 
-I basutbudet beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag bör erbjuda för att stärka fyra av de viktigaste skyddsfaktorerna med potential att påverka flera olika problemutfall:
-
--	En god föräldrabarnrelation
-
--	Måluppfyllelse i förskola och skola
-
--	En meningsfull fritid 
-
--	Ett tryggt närsamhälle
-
-Genom att sortera verksamheterna under de fyra skyddsfaktorerna är förhoppningen att tydliggöra olika verksamheters och förvaltningars betydelse för att motverka olika problemutfall och även vikten av samverkan för att för att nå de egna målsättningarna. 
-
-### Tidiga och samordnade insatser på alla nivåer
-
-Barnets bästa är den bärande principen i FN:s konvention om barnets rättigheter. I konventionens artikel 3 står att *barnets bästa skall komma i främsta rummet vid alla åtgärder som rör barn.* Det här gäller alla verksamheter, aktörer och samhällsnivåer. Principen bottnar i antagandet om barns lika människovärde samt deras behov av särskilt stöd och skydd.  
-
-För att samverkan runt barnet ska fungera krävs organisatoriska förutsättningar, resurser och att barnets bästa är den ytterst vägledande principen i de prioriteringar som görs. Samhället behöver ta ett gemensamt ansvar för alla barn och unga – oavsett uppdrag eller verksamhet. 
-
-En förutsättning för att de som möter barn och unga i sina verksamheter ska förmå att se och uppmärksamma behov samt koppla på rätt stöd i tid är att det finns tillit mellan verksamheter, tydliga kontaktvägar samt ett gemensamt uppdrag över tid. Samverkan behöver även finnas på plats i det dagliga för att fungera väl i mer akuta situationer. Detta kräver en tvärsektoriell samverkan och styrkedja hela vägen till förvaltnings - och kommunledningsnivå. 
+En förutsättning för att de som möter barn och unga i sina verksamheter ska förmå att se och uppmärksamma behov samt koppla på rätt stöd i tid är att det finns tillit mellan verksamheter, tydliga kontaktvägar samt ett gemensamt uppdrag över tid. Samverkan behöver även finnas på plats i det dagliga för att fungera väl i mer akuta situationer. Detta kräver en tvärsektoriell samverkan och styrkedja hela vägen till förvaltnings - och kommunledningsnivå.
 
 Åren 2017-2023 drev Socialstyrelsen och Skolverket en nationell satsning för att barn och unga ska erbjudas tidiga och samordnade insatser från skolan, hälso- och sjukvården och socialtjänsten. Cirka 90 kommuner och 16 regioner ingick i arbetet. Några av framgångsfaktorerna som identifierats i arbetet är:
 
--	Uppfinn inte hjulet på nytt! 
--	Kartlägg och enas om hur problembilden ser ut lokalt eller regionalt 
--	Förankra arbetet politiskt 
--	Förstå varandras uppdrag och bygg tillit 
--	Samordna strukturen i det förebyggande respektive brottsförebyggande arbetet 
--	Inrätta tvärprofessionella team 
--	Involvera barn, unga och vårdnadshavare 
--	Gå stegvis fram och följ upp, innan arbetet skalas upp 
--	Efterfråga uppföljning av resultat för barn och unga
+-	Uppfinn inte hjulet på nytt!
+
+-	Kartlägg och enas om hur problembilden ser ut lokalt eller regionalt.
+
+-	Förankra arbetet politiskt.
+
+-	Förstå varandras uppdrag och bygg tillit.
+
+- Samordna strukturen i det förebyggande respektive brottsförebyggande arbetet.
+
+-	Inrätta tvärprofessionella team.
+
+-	Involvera barn, unga och vårdnadshavare.
+
+-	Gå stegvis fram och följ upp, innan arbetet skalas upp.
+
+-	Efterfråga uppföljning av resultat för barn och unga.
+
 
 Läs mer i [TSI-boken](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-10-8779.pdf)
 
 
-### Så här använder du basutbudet 
-
-Basutbudet kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned i en excelfil för att besvaras och sparas. 
-
-I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Dessa frågor kan också laddas ned i eget formulär för att besvaras och sparas.
-
-Under rubriken Indikatorer finns länkar till indikatorer med bäring på verksamheten/insatsen och under rubriken Läs mer länkas till de studier eller myndighetsrapporter som ligger till grund för att verksamheten/insatsen inkluderats i basutbudet. Om det finns specifik lagtext med koppling till verksamheten/insatsen så redovisas det under rubriken Lagstiftning.

@@ -6,16 +6,16 @@ title: "Tryggt närsamhälle"
 
 ## Definition Skyddsfaktor
 
-Ett tryggt närsamhälle är en skyddsfaktor som innefattar flera fysiska, sociala och ekologiska aspekter som tillsammans kan bidra till att främja goda uppväxtvillkor. Forskning visar att villkoren i områden där barn växer upp har betydelse för deras möjligheter i livet och påverkar identitetsskapandet, rörelsemönster samt framtida val. 
+Ett tryggt närsamhälle är en skyddsfaktor som innefattar flera fysiska, sociala och ekologiska aspekter som tillsammans kan bidra till att främja goda uppväxtvillkor. Forskning visar att villkoren i områden där barn växer upp har betydelse för identitetsskapande och möjligheter senare i livet. 
 
-Även social tillit och trygghet påverkas av hur bostadsområden är utformade och hur områdena hänger samman med det övriga samhället. Social tillit bidrar till en mer effektiv social kontroll eftersom invånare som känner sig trygga och delaktiga är mer benägna att följa samhällets normer och regler och agera för att upprätta hålla dessa. Trygghetsvandringar, tillgång till mötesplatser, attraktiva grönområden, närvaro av samhällsservice i området samt dialoger med medborgare, inklusive barn och unga, bidrar till att utveckla den sociala tilliten i området. 
+Även social tillit och trygghet påverkas av hur bostadsområden är utformade och hur områdena hänger samman med det övriga samhället. Social tillit bidrar till en mer effektiv social kontroll eftersom invånare som känner sig trygga och delaktiga är mer benägna att följa samhällets normer och regler och agera för att upprätta hålla dessa. Trygghetsvandringar, tillgång till mötesplatser, attraktiva grönområden, närvaro av samhällsservice i området samt dialoger med medborgare, inklusive barn och unga, bidrar till att utveckla den sociala tilliten i området.
 
 Läs mer på [Boverket](https://www.boverket.se/sv/samhallsplanering/stadsutveckling/halsa-forst/social-inkludering/tillit-och-trygghet/)
 
 
 ## Underlag för basutbudet
 
-I denna del av basutbudet beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda och som stärker skyddsfaktorn ett tryggt närsamhälle. Urvalet har förankrats med myndigheter, forskare, experter och kommuner, men är inte fullständigt och kan komma att revideras över tid. 
+I denna del av basutbudet beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda och som stärker skyddsfaktorn ett tryggt närsamhälle. Urvalet har förankrats med myndigheter, forskare, experter och kommuner, men är inte fullständigt och kan komma att revideras över tid.
 
 ### Konventionen om barnets rättigheter
 
@@ -37,6 +37,10 @@ Flera artiklar i barnkonventionen stödjer och vägleder i att skapa ett tryggt 
 
 -	**Artikel 34:** Skydd mot sexuellt utnyttjande och sexuella övergrepp. Barn ska skyddas mot alla former av sexuellt utnyttjande och övergrepp, vilket kräver en trygg och säker miljö i närsamhället.
 
+### Lag (2023:196) om kommuners ansvar för brottsförebyggande arbete
+
+Lagen om kommuners ansvar för brottsförebyggande arbete innebär att varje kommun ska bedriva ett kunskapsbaserat brottsförebyggande arbete och säkerställa organisatoriska förutsättningar för det. Målet är att skapa ökad trygghet och minska brottsligheten. Kommunerna ska kartlägga brottsligheten inom sitt geografiska område och ta fram en lägesbild. Utifrån lägesbilden ska en åtgärdsplan tas fram. Kommunerna ska också ta visst ansvar för samordningen av det lokala brottsförebyggande arbetet och inrätta en samordningsfunktion.
+
 ### Plan- och bygglagen
 
 Plan- och bygglagen (PBL) i Sverige syftar till att främja en långsiktigt hållbar utveckling av samhällen och miljöer. Nedan följer en summering av några centrala punkter i PBL som rör skapandet av ett tryggt närsamhälle:
@@ -52,20 +56,17 @@ Läs mer här: [Plan och bygglagen (2010:900)](https://www.riksdagen.se/sv/dokum
 
 Basutbudet kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned här: [Kartläggning av Basutbud Tryggt närsamhälle](/Kartläggning_community.xlsx) Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
 
-I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Klicka här för att hämta ner filen:  [Dokumentation av fördjupande frågor](). Denna kan ni sedan spara lokalt och arbeta vidare med. **Denna kommer uppdateras inom kort!**
+I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Klicka här för att hämta ner filen: [Dokumentation av fördjupande frågor](/Fördjupningsfrågor_community.docx). Denna kan ni sedan spara lokalt och arbeta vidare med. 
 
 
 ## Basutbudets insatser: Ett tryggt närsamhälle
 
-Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda för att stärka skyddsfaktorn Ett tryggt närsamhälle.
+Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda för att stärka skyddsfaktorn *Ett tryggt närsamhälle*.
 
 
 ### Kunskapsbaserat områdesarbete med lokal samverkan 
 
-Kunskapsbaserat områdesarbete är en tvärsektoriell arbetsmetod som bygger på samarbete mellan bland annat invånare, kommunala verksamheter, lokala organisationer, näringsidkare och myndigheter. Metoden syftar till att förbättra och utveckla specifika geografiska områden genom en bred samhällsanalys. 
-
-Lagen om kommuners ansvar för brottsförebyggande arbete innebär att varje kommun ska bedriva ett kunskapsbaserat brottsförebyggande arbete och säkerställa organisatoriska förutsättningar för det. Målet är att skapa ökad trygghet och minska brottsligheten. Kommunerna ska kartlägga brottsligheten inom sitt geografiska område och ta fram en lägesbild. Utifrån lägesbilden ska en åtgärdsplan tas fram. Kommunerna ska också ta visst ansvar för samordningen av det lokala brottsförebyggande arbetet och inrätta en samordningsfunktion.
-
+Kunskapsbaserat områdesarbete är en tvärsektoriell arbetsmetod som bygger på samarbete mellan bland annat invånare, kommunala verksamheter, lokala organisationer, näringsidkare och myndigheter. Metoden syftar till att förbättra och utveckla specifika geografiska områden genom en bred samhällsanalys.
 
 **Kartläggning**
 
@@ -92,13 +93,11 @@ Här kan du hitta statistik om livsvillkor, brott, narkotika samt otrygghet i St
 
 **Läs mer om kunskapsbaserat områdesarbete**
 
-- [Stiftelsen Tryggare Sverige: Trygga platser](https://www.tryggaplatser.se/)
-
 - [Boverket: Samverkansmodeller för trygghetsfrämjande och brottsförebyggande arbete  ](https://www.boverket.se/sv/samhallsplanering/stadsutveckling/brottsforebyggande-och-trygghetsskapande-atgarder/metoder/samverkansmodeller/)
 
 - [Socialstyrelsen: Effektiv samordning för ökad trygghet ](https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/barn-och-unga/unga-som-begar-brott/exempel-brottsforebyggande-metoder/effektiv-samordning-for-okad-trygghet-est/)
 
-- [Socialstyrelsen: SSPF (skola, socialtjänst, polis, fritid) ](hhttps://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/barn-och-unga/unga-som-begar-brott/exempel-brottsforebyggande-metoder/sspf-skola-socialtjanst-polis-fritid/)
+- [Stiftelsen Tryggare Sverige: Trygga platser](https://www.tryggaplatser.se/)
 
 - [BRÅ:Arbeta brottsförebyggande ](hhttps://bra.se/forebygga-brott/arbeta-brottsforebyggande.html)
 
@@ -130,10 +129,13 @@ Genom att i samhällsplanering främja sociala värden så skapas förutsättnin
 *Plan- och bygglagen (PBL) Kap 2. 3 §*  
 
 Planläggning enligt denna lag ska med hänsyn till natur- och kulturvärden, miljö- och klimataspekter samt mellankommunala och regionala förhållanden främja, 
+
 1.	en ändamålsenlig struktur och en estetiskt tilltalande utformning av bebyggelse, grönområden och kommunikationsleder, 
+
 2.	en från social synpunkt god livsmiljö som är tillgänglig och användbar för alla samhällsgrupper
 
 Läs mer om lagstiftning här:
+
 - [Plan- och bygglag (2010:900)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/plan-och-bygglag-2010900_sfs-2010-900/#K2)
 
 - [Hållbar socialtjänst – En ny socialtjänstlag SOU 2020:47)](https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/08/sou-202047/)
@@ -174,26 +176,18 @@ Social tillit, social sammanhållning, social kontroll och trygghet hänger ihop
 
 Trygghetsvandringar, nattvandring, tillgång till trygga mötesplatser, närvaro av samhällsservice i området samt dialoger med medborgare, inklusive barn och unga, bidrar till att utveckla den sociala tilliten och tryggheten i området.
 
-**Medborgardialoger** är ett sätt att tillvarata medborgares kunskap och perspektiv i beslut och processer samt öka tillit till myndigheter och offentliga aktörer. Hur barn och ungas perspektiv inkluderas i medborgardialoger är ett viktigt utvecklingsområde för att öka deras delaktighet i utformningen av gemensamma miljöer i närsamhället. Att främja ungas inflytande och delaktighet i samhällslivet är också ett av de övergripande målen för den svenska ungdomspolitiken. Det är inte bara en rättighet för unga att delta i beslut som rör deras vardag utan också viktigt att ungas kunskaper, synpunkter och erfarenheter tas tillvara som en resurs i de demokratiska processerna.
-
-**Nattvandring** är en form av insats för social kontroll där vuxna, ofta föräldrar och andra frivilliga promenerar genom bostadsområden och stadsdelar under kvällar och nätter. Syftet med nattvandring är att öka tryggheten, förebygga kriminalitet och erbjuda stöd och samtal till ungdomar. Genom att vuxna finns närvarande minskar risken för att ungdomar hamnar i otrygga situationer. 
-
-**Trygghetsvandringar** är en metod där invånare tillsammans med representanter från olika samhällssektorer, såsom kommunen, polis, fastighetsägare och andra aktörer går igenom ett område för att identifiera platser som upplevs som otrygga och diskutera möjliga förbättringar. Trygghetsvandringar har ett brett fokus på fysiska miljöförändringar och långsiktiga trygghetsåtgärder för att stärka förtroendet mellan myndigheter och invånare. De kan anpassas för att inkludera olika perspektiv såsom kön, ålder, funktionsvariationer och etnicitet för att bidra till mer inkluderande miljöer. 
-
 
 **Kartläggning**
 
--	Kommunen har en övergripande strategi och handlingsplan för tillitsskapande strategier.
+•	Kommunen har en övergripande strategi och handlingsplan för tillitsskapande strategier, till exempel medborgardialoger.
 
--	Kommunen samverkar med andra aktörer (skolor, fritidsföreningar, polis, väktare, hälso- och sjukvård) för att stärka den sociala tilliten.
+•	Kommunen samverkar med andra aktörer (skolor, fritidsföreningar, polis, väktare, hälso- och sjukvård) för att stärka den sociala tilliten.
 
--	Det finns specifika forum eller metoder för att säkerställa att barn och ungas röster hörs.
+•	Det finns specifika forum eller metoder för att säkerställa att barn och ungas röster hörs.
 
--	Kommunen arbetar aktivt med att implementera och stödja insatser för positiv social kontroll, såsom nattvandring och trygghetsvandring.
+•	Kommunen arbetar aktivt med att implementera och stödja insatser för positiv social kontroll, såsom nattvandring och trygghetsvandring.
 
--	Uppföljning görs av vilka målgrupper som deltar i medborgardialoger, nattvandringar och trygghetsvandringar.
-
--	Barn och ungdomar inkluderas i det tillitsskapande arbetet.
+•	Uppföljning görs av vilka målgrupper som deltar i medborgardialoger, nattvandringar och trygghetsvandringar.
 
 
 **Indikatorer**
