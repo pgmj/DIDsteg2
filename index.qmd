@@ -6,10 +6,7 @@ format:
     toc: false
 ---
 
-# Basutbud -	Ett stöd för verksamhetskartläggning och analys utifrån skyddsfaktorer för barn & unga {.unnumbered}
-
-
-## Introduktion
+# Introduktion
 
 Kartläggningen omfattar verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag bör erbjuda för att stärka fyra av de viktigaste skyddsfaktorerna med potential att påverka flera olika problemutfall:
 
