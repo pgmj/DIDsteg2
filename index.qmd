@@ -18,16 +18,18 @@ Kartläggningen omfattar verksamheter och insatser som kommuner enligt forskning
 
 -	Ett tryggt närsamhälle
 
-Genom att sortera verksamheterna under de fyra skyddsfaktorerna är förhoppningen att tydliggöra olika verksamheters och förvaltningars betydelse för att motverka olika problemutfall och även vikten av samverkan för att för att nå de egna målsättningarna.
+Genom att sortera verksamheterna under de fyra skyddsfaktorerna är förhoppningen att tydliggöra olika verksamheters och förvaltningars betydelse för att motverka olika problemutfall och även vikten av samverkan för att nå de egna målsättningarna.
 
 
 ### Så här gör du kartläggningen och analysen
 
-Basutbudet kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned i en excelfil för att besvaras och sparas.
+Preventionspaletten är avsedd att göras i ett tvärsektoriellt sammanhang för att öka överblicken och kännedomen om vad kommunen erbjuder. Frågorna är av den karaktären att det krävs olika kompetenser och perspektiv för att besvara dem.
+
+Preventionspaletten kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned i en excelfil för att besvaras och sparas.
 
 I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Dessa frågor kan också laddas ned i eget formulär för att besvaras och sparas.
 
-Under rubriken Indikatorer finns länkar till indikatorer med bäring på verksamheten/insatsen och under rubriken Läs mer länkas till de studier eller myndighetsrapporter som ligger till grund för att verksamheten/insatsen inkluderats i basutbudet. Om det finns specifik lagtext med koppling till verksamheten/insatsen så redovisas det under rubriken Lagstiftning.
+Under rubriken Indikatorer finns länkar till indikatorer med bäring på verksamheten/insatsen och under rubriken Läs mer länkas till de studier eller myndighetsrapporter som ligger till grund för att verksamheten/insatsen inkluderats i basutbudet. Om det finns specifik lagtext med koppling till verksamheten/insatsen så redovisas det under rubriken *Lagstiftning.*
 
 
 ## Risk och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?
@@ -46,9 +48,7 @@ För att motivera till samverkan mellan olika sektorer och sakfrågor har Länss
 
 Här finns rapporten: [Risk- och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?](http://ri.diva-portal.org/smash/record.jsf?pid=diva2%3A1656234&dswid=3419)
 
-### Framgångsfaktorer för samordnade insatser
-
-En förutsättning för att de som möter barn och unga i sina verksamheter ska förmå att se och uppmärksamma behov samt koppla på rätt stöd i tid är att det finns tillit mellan verksamheter, tydliga kontaktvägar samt ett gemensamt uppdrag över tid. Samverkan behöver även finnas på plats i det dagliga för att fungera väl i mer akuta situationer. Detta kräver en tvärsektoriell samverkan och styrkedja hela vägen till förvaltnings - och kommunledningsnivå.
+### Framgångsfaktorer för samverkan
 
 Åren 2017-2023 drev Socialstyrelsen och Skolverket en nationell satsning för att barn och unga ska erbjudas tidiga och samordnade insatser från skolan, hälso- och sjukvården och socialtjänsten. Cirka 90 kommuner och 16 regioner ingick i arbetet. Några av framgångsfaktorerna som identifierats i arbetet är:
 

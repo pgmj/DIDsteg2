@@ -4,15 +4,15 @@ title-block-banner-color: "#BBDBEC"
 title: "Måluppfyllelse i skola och förskola"
 ---
 
-## Definition Skyddsfaktor
-
+## Definition skyddsfaktor
+ 
 Att klara av skolan är en viktig skyddsfaktor kopplat till flera positiva utfall för barn och unga. Goda studieresultat leder till bättre hälsa samtidigt som god hälsa ger bättre förutsättningar att nå kunskapsmålen. Måluppfyllelse kan även kopplas till minskad risk för negativa utfall, såsom psykisk ohälsa och kriminalitet. 
 
 Både förskolan och skolan har ett kompensatoriskt uppdrag som innebär att skapa förutsättningar för att alla barn ska nå målen med utbildningen och även utveckla färdigheter och egenskaper som behövs för deras övergripande personliga utveckling. En viktig förutsättning för detta är en meningsfull och trygg inlärningsmiljö med goda relationer till vuxna och jämnåriga.
 
 En förskola av hög kvalitet bidra till måluppfyllelse i skolan men har även andra positiva utfall på barns psykiska hälsa samt sociala, kognitiva och språkliga utveckling. De positiva effekterna är som allra störst för barn från familjer med sämre socioekonomiska förutsättningar liksom för barn i behov av särskilt stöd. 
+Fler aktörer än förskola och skola kan bidra till måluppfyllelse i skolan, till exempel läsfrämjande insatser på biblioteket, simskola, barnkultur genom kulturskolan, museer eller scenkonsten. Det gäller även psykosociala insatser som utredningar och föräldraskapsstödjande insatser via familjecentraler, socialtjänst eller hälso- och sjukvården.
 
-Fler aktörer än förskola och skola kan bidra till måluppfyllelse, till exempel genom verksamheter inom kultur- och fritidsverksamheten som läsfrämjande insatser på biblioteket, simskola, barnkultur genom kulturskolan, museet eller scenkonsten. Det gäller även psykosociala insatser som utredningar och föräldraskapsstödjande insatser via familjecentraler, socialtjänst eller hälso- och sjukvården.
 
 -   [Skolverket: Hälsa för lärande - lärande för hälsa](https://www.skolverket.se/download/18.2a23c2b1698641e369530/1569845934609/pdf4071.pdf)
 
@@ -21,12 +21,9 @@ Fler aktörer än förskola och skola kan bidra till måluppfyllelse, till exemp
 -   [Folkhälsomyndigheten: Förskolans påverkan på barns hälsa](https://www.folkhalsomyndigheten.se/contentassets/3addb7a81de44a8b8a8f4bfa29b8306c/forskolans-paverkan-barns-halsa-01086.pdf)
 
 
-## Underlag för basutbudet *måluppfyllelse förskola/skola*
+## Underlag för verksamhetskartläggning och analys av *måluppfyllelse i förskola/skola*
  
-I denna del av basutbudet beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda och som stärker skyddsfaktorn *Måluppfyllelse i förskola och skola*. Urvalet har förankrats med myndigheter, forskare, experter och kommuner men är inte fullständigt och kan komma att revideras över tid.
-
 En stor del av insatserna berör förskolan och skolan som verksamheter, eftersom möjligheter att påverka skyddsfaktorn här är stora, detta förutsätter dock att verksamheterna är av hög kvalitet. Studier visar att de viktigaste kvalitetsaspekterna är personalens utbildningsnivå och möjlighet till kompetensutveckling. 
-
 
 ### Det nationella kvalitetssystemet för skolväsendet
 
@@ -35,7 +32,6 @@ Det nationella kvalitetssystemet har arbetats fram av Skolverket i samråd med S
 Läs mer här: [Skolverket: Nationellt kvalitetssystem](https://www.skolverket.se/skolutveckling/kvalitetsarbete/nationellt-kvalitetssystem)
 
 I Kvalitetssystemet finns nationella målsättningar, delmål och indikatorer. Även kvalitativa aspekter som kan bidra till att målsättningarna uppfylls beskrivs i ett antal framgångsfaktorer. Framgångsfaktorerna bygger på forskning och annan systematiskt insamlad kunskap och sammanfattar faktorer, förutsättningar och processer som har stor påverkan på kvalitet och likvärdighet i skolväsendet. Framgångsfaktorerna är skolformsövergripande och är möjliga att använda som utgångpunkt i alla skolformer och i fritidshemmet. 
-
 
 **Framgångsfaktorer** 
 
@@ -55,8 +51,7 @@ I Kvalitetssystemet finns nationella målsättningar, delmål och indikatorer. �
 
 Läs mer här: [Skolverket: Faktorer för framgångsrik skolutveckling - Bilaga: Underlag för självvärdering](https://www.skolverket.se/download/18.3cf0d66d187913b54fe15f5/1684139148009/faktorer-underlag for sjalvvardering-2.pdf)
 
-Arbetet med Data i dialog och basutbudet kan ses som en plattform för att arbeta med kvalitetssystemet och det som tas fram inom kvalitetssystemet kan bli ett underlag för det tvärsektoriella arbetet inom Data i dialog. I arbetet med Data i dialog inkluderas fler aktörer och insatser för de mål som kvalitetssystemet också strävar mot. 
-
+Denna verksamhetskartläggning kan ses som ett sätt att arbeta med kvalitetssystemet och det som tas fram inom kvalitetssystemet kan bli ett underlag för arbetet med verksamhetskartläggning och analys. I kartläggningen inkluderas fler aktörer och insatser för de mål som kvalitetssystemet också strävar mot. 
 
 ### Konventionen om barnets rättigheter
 
@@ -75,39 +70,39 @@ I artikel 28 beskrivs vikten av skolnärvaro och att åtgärder för att uppmunt
 (e) utveckla respekt för naturmiljön.
 
 
-## Kartläggning och fördjupning kring basutbudet i er kommun
+## Kartläggnings- och fördjupningsfrågor
 
-Basutbudet kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned här:[Kartläggning av Basutbud Skola](/Kartläggning_skola.xlsx). Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
+Frågorna kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned här: [Kartläggning av Basutbud Skola](/Kartläggning_skola.xlsx). Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
 
-I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Klicka här för att hämta ner filen:[Dokumentation av fördjupande frågor](/Fördjupningsfrågor_skola.docx). Denna kan ni sedan spara lokalt och arbeta vidare med.
+I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Klicka här för att hämta ner filen: [Dokumentation av fördjupande frågor](/Fördjupningsfrågor_skola.docx). Denna kan ni sedan spara lokalt och arbeta vidare med.
 
 
-## Basutbudets insatser: Måluppfyllelse i förskola och skola
+## Verksamheter och insatser: Måluppfyllelse i förskola och skola
 
-Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda för att stärka skyddsfaktorn *Måluppfyllelse i skola och förskola*.
+Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda och som stärker skyddsfaktorn *Måluppfyllelse i skola och förskola*. Urvalet har förankrats med myndigheter, forskare, experter och kommuner men är inte fullständigt och kan komma att revideras över tid.
 
 ### Tidiga, samordnade insatser runt barn och ungdomar
 
-En strukturerad samverkan på flera nivåer i den kommunala organisationen är en förutsättning för att samverkan runt enskilda barn och ungdomar ute i verksamheterna ska fungera. Vilka aktörer som behöver samverka kan skilja sig åt i de enskilda ärendena men förutsättningarna förbättras om en bred samverkan med till exempel förskola/skola, socialtjänst, hälso-och sjukvård (BMM, BVC), elevhälsa, kultur- och fritidsverksamhet samt polis finns på plats. 
+En strukturerad samverkan på flera nivåer i den kommunala organisationen är en förutsättning för att samverkan runt enskilda barn och ungdomar ute i verksamheterna ska fungera. En strukturerad samverkan är också viktig för att kännedom om verksamheter och insatser ska öka och underlätta hänvisning och information till målgruppen. Vilka aktörer som behöver samverka kan skilja sig åt men förutsättningarna förbättras om en bred samverkan med till exempel förskola/skola, socialtjänst, hälso-och sjukvård (BMM, BVC), elevhälsa, kultur- och fritidsverksamhet, civilsamhälle samt polis finns på plats
 
 När aktörer och verksamheter runt barn och unga samverkar med varandra så ökar möjligheterna att identifiera och erbjuda relevant stöd i tid. Kunskap från flera verksamheter ger en bättre helhetsbild av barnets eller ungdomens behov av stöd och lämpliga insatser.
 
 
 **Kartläggning**
 
-•	Det finns en överenskommelse rörande samordnade insatser runt barn och ungdomar mellan relevanta aktörer där förskola, skola och elevhälsan ingår.
+-	Det finns en överenskommelse mellan relevanta aktörer rörande samordnade insatser för barn och ungdomar där förskola, skola och elevhälsan ingår.
 
-•	Det finns plattformar eller forum för tvärsektoriellt arbete där förskola, skola och elevhälsan ingår. 
+-	Det finns plattformar eller forum för tvärsektoriellt arbete där förskola, skola och elevhälsan ingår. 
 
-•	Det finns mål och strategier för arbetet med samordnade insatser runt barn och ungdomar.
+-	Det finns mål och strategier för arbetet med samordnade insatser runt barn och ungdomar.
 
-•	Det finns långsiktig finansiering för samordnade insatser runt barn och ungdomar. 
+-	Det finns långsiktig finansiering för samordnade insatser runt barn och ungdomar. 
 
-•	Det görs uppföljning av vilka målgrupper som nås genom de samordnade insatserna.
+-	Det görs uppföljning av vilka målgrupper som nås genom de samordnade insatserna.
 
-•	Det görs uppföljning av arbetets resultat för barn och ungdomar.
+-	Det görs uppföljning av arbetets resultat för barn och ungdomar.
 
-•	Barn, ungdomar och föräldrar involveras i utformningen av insatserna.
+-	Barn, ungdomar och föräldrar involveras i utformningen av insatserna.
 
 
 **Läs mer om samordnade insatser runt barn och ungdomar**
@@ -126,7 +121,7 @@ När aktörer och verksamheter runt barn och unga samverkar med varandra så ök
 
 -   [Socialstyrelsen: SSPF (skola, socialtjänst, polis, fritid)](https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/barn-och-unga/unga-som-begar-brott/exempel-brottsforebyggande-metoder/sspf-skola-socialtjanst-polis-fritid/)
 
-----------------------------------------------------------------------------------------------------------------
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 ### Öppen förskola
 Öppen förskola är en pedagogisk verksamhet för barn samt medföljande förälder, dagbarnvårdare eller annan vuxen. Den fungerar som en mötesplats där barn kan leka och delta i olika aktiviteter under pedagogisk ledning, samtidigt som föräldrarna kan träffa andra vuxna, utbyta erfarenheter och få stöd i sitt föräldraskap. Öppna förskolan är en verksamhet med låga trösklar och därför även en viktig arena för informationsinsatser för att öka deltagandet i förskolan för barn med utländsk bakgrund.
@@ -136,15 +131,17 @@ När aktörer och verksamheter runt barn och unga samverkar med varandra så ök
 
 **Kartläggning**
 
-•	Det finns en eller flera öppna förskolor i kommunen.
+- Det finns en eller flera öppna förskolor i kommunen.
 
-•	Det finns mål och strategier för arbetet med öppen förskola.
+- Det finns mål och strategier för arbetet med öppen förskola.
 
-•	Det finns långsiktig finansiering av den öppna förskolan.
+- Det finns långsiktig finansiering av den öppna förskolan.
 
-•	Det görs kontinuerlig uppföljning av vilka som besöker den öppna förskolan.
+- Det finns samverkansöverenskommelser mellan öppna förskolan och andra närliggande verksamheter.
 
-•	Besökare inkluderas i utformning av innehållet i verksamheten. 
+- Det görs kontinuerlig uppföljning av vilka som besöker den öppna förskolan.
+
+- Besökare inkluderas i utformning av innehållet i verksamheten. 
 
 
 **Lagstiftning**
@@ -167,10 +164,11 @@ Den öppna förskolan ska erbjuda barn en pedagogisk verksamhet i samarbete med 
 
 -   [SKR: Öppen förskola – tillsammans för jobb och integration](https://skr.se/skr/skolakulturfritid/forskolagrundochgymnasieskolakomvux/oppenforskolaforsprakochintegration.46558.html)
 
-----------------------------------------------------------------------------------------------------------------
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 ### Närvarofrämjande arbete
-Att vara närvarande i förskola och skola är en helt grundläggande förutsättning för skyddsfaktorn *Måluppfyllelse i förskola och skola*. Det handlar i stor utsträckning om hur eleverna trivs i förskola och skola, men skolfrånvaro kan även förklaras av familjeförhållanden eller behov av stöd och vård hos eleven som inte tillgodosetts. Även goda relationer mellan elever och lärare samt mellan hem och förskola/skola är av stor betydelse för närvaron.
+
+Att vara närvarande i förskola och skola är en grundläggande förutsättning för skyddsfaktorn *Måluppfyllelse i förskola och skola*. Det handlar i stor utsträckning om hur eleverna trivs i förskola och skola, men skolfrånvaro kan även förklaras av familjeförhållanden eller behov av stöd och vård hos eleven som inte tillgodosetts. Även goda relationer mellan elever och lärare samt mellan hem och förskola/skola är av stor betydelse för närvaron.
 
 **Kartläggning**
 
@@ -178,20 +176,20 @@ Att vara närvarande i förskola och skola är en helt grundläggande förutsät
 
 •	Kommunen redovisar skillnader i närvaro för olika socioekonomiska områden.
 
+•	Närvarodata- och frånvarostatistik används som en utgångspunkt vid planering och resursfördelning.
+
 •	Det finns en kommunövergripande plan samt rutiner för närvarofrämjande arbete.
 
 •	Det finns kommunövergripande rutiner om frånvaroutredningar.
 
 •	Det finns tydliga rutiner för samarbetet med till exempel socialtjänsten och hälso- och sjukvården, däribland barn- och ungdomspsykiatrin (BUP).
 
-•	Närvarodata- och frånvarostatistik används som en utgångspunkt vid planering och resursfördelning.
-
 •	All skolpersonal och elevhälsan involveras i det närvarofrämjande arbetet.
 
 •	Barn, ungdomar och föräldrar involveras i det närvarofrämjande arbetet.
 
 
-**Indikatorer:**
+**Indikatorer**
 
 - [Kolada: Skolfrånvaro, andel elever över x % (15-20)](https://www.kolada.se/)
 
@@ -219,9 +217,11 @@ Läs mer här: [Skolverket: Kommuners arbete för fler barn i förskolan](https:
 
 -   [Skolverket: Webinarium om att förebygga skolfrånvaro](https://youtu.be/vxFvflq_DQw)
 
+-   [Socialstyrelsen: SAMS - Samverkan för placerade barn och ungas kontinuerliga skolgång](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2024-6-9176.pdf)
+
 -   [Skolverket: Kommunens aktivitetsansvar för ungdomar (KAA)](https://www.skolverket.se/skolutveckling/leda-och-organisera-skolan/organisera-for-fortsatta-studier-och-arbetsliv/kommunernas-aktivitetsansvar--for-ungdomar)
 
-----------------------------------------------------------------------------------------------------------------
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 ### Samverkan förskola/skola och föräldrar
 
@@ -261,11 +261,10 @@ Utbildningen syftar också till att i samarbete med hemmen främja barns och ele
 
 -   [Specialpedagogiska skolmyndigheten (SPSM): Samverkan för lärande](https://spsm.se/studiepaket-amnesomraden/moment-3/)
 
-----------------------------------------------------------------------------------------------------------------
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 ### Skolsociala team
 Skolsociala team har ett tvärprofessionellt arbetssätt där socialtjänst och skola samverkar för att öka trygghet, skolnärvaro och måluppfyllelse samt ge elever med en ogynnsam utveckling stöd i ett tidigt skede. Skolsociala team kan till exempel erbjuda stödinsatser till vårdnadshavare och underlätta kommunikation och samarbete mellan vårdnadshavare och övriga aktörer som finns runt den enskilda eleven som till exempel hälso- och sjukvård och fritidssektor.
-
 
 **Kartläggning**
 
@@ -282,9 +281,9 @@ Skolsociala team har ett tvärprofessionellt arbetssätt där socialtjänst och 
 -	Det görs uppföljning av vilket resultat skolsociala team får för barn och föräldrar.
 
 
-**Lagstiftning:**
+**Lagstiftning**
 
-Skolans elevhälsoarbete stärktes i skollagen 2023. Det innebär bland annat att elevhälsan vid behov ska samverka med hälso- och sjukvården och socialtjänsten
+Skolans elevhälsoarbete stärktes i skollagen 2023. Det innebär bland annat att elevhälsan vid behov ska samverka med hälso- och sjukvården och socialtjänsten.
 
 Läs mer här: [Kunskapsguiden: Vägledning för elevhälsan ](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/vagledning-for-elevhalsa/)
 
@@ -293,14 +292,15 @@ Läs mer här: [Kunskapsguiden: Vägledning för elevhälsan ](https://kunskapsg
 
 - [Skolverket: Starta och arbeta med skolsociala team](https://www.skolverket.se/skolutveckling/leda-och-organisera-skolan/ge-extra-stod-till-elever/starta-och-arbeta-med-skolsociala-team)
 
--   [Marie Cederschiöld högskola: Att arbeta med skolsociala team - Utvärdering av innehåll och arbetssätt i Stockholm stad](https://esh.diva-portal.org/smash/get/diva2:1798996/FULLTEXT02.pdf)
+- [Marie Cederschiöld högskola: Att arbeta med skolsociala team - Utvärdering av innehåll och arbetssätt i Stockholm stad](https://esh.diva-portal.org/smash/get/diva2:1798996/FULLTEXT02.pdf)
 
--   [Uppdrag Psykisk hälsa: Skolsociala-team-kan-minska-risken-for-utanforskap](https://www.uppdragpsykiskhalsa.se/stockholmslan/barn-unga/goda-exempel/skolsociala-team-kan-minska-risken-for-utanforskap/)
+- [Uppdrag Psykisk hälsa: Skolsociala-team-kan-minska-risken-for-utanforskap](https://www.uppdragpsykiskhalsa.se/stockholmslan/barn-unga/goda-exempel/skolsociala-team-kan-minska-risken-for-utanforskap/)
 
-----------------------------------------------------------------------------------------------------------------
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 ### Kunskapsbaserade insatser och program i förskola och skola
-Barns måluppfyllelse i förskola samt skola är starkt kopplat till deras mående och trivsel i förskolan/skolan samt vice versa. Utöver det kvalitetsarbete som görs inom skolväsendet och som även syftar till att främja barns välmående så finns kunskapsbaserade insatser och program som fokuserar på bemötande och förhållningssätt hos pedagoger och lärare och vars effekter går att utvärdera i relation till mer specifika utfall. 
+
+Barns måluppfyllelse i förskola samt skola är starkt kopplat till deras mående och trivsel i verksamheten samt vice versa. Utöver det kvalitetsarbete som görs inom skolväsendet och som även syftar till att främja barns välmående så finns kunskapsbaserade insatser och program som fokuserar på bemötande och förhållningssätt hos pedagoger och lärare och vars effekter går att utvärdera i relation till mer specifika utfall.  
 
 **Kartläggning**
 
@@ -319,13 +319,15 @@ Barns måluppfyllelse i förskola samt skola är starkt kopplat till deras måen
   
   - [WINST](https://atstorning.se/internetbaserad-hjalp/) – webkurs för att förebygga ätstörningar.
   
-  - [PALS](https://www.vgregion.se/halsa-och-vard/vardgivarwebben/amnesomraden/psykisk-halsa/utvecklingscentrum-for-barns-psykiska-halsa/skolmodellen-pals/)
+  - [IBIS Inkluderande Beteendestöd I Skolan](https://pedagog.uppsala.se/resurser-for-undervisning/ibis-for-grundskolan/)
   
   - [FRIENDS](https://friendsresilience.org/about)
   
-  - SEL-program (Social Emotional Learning) 
+  - [SEL-program (Social Emotional Learning)](https://www.sbu.se/sv/publikationer/SBU-utvarderar/framjande-av-psykiskt-valbefinnande-hos-barn-och-ungdomar2/)
   
-*Trygghetsfrämjande/våldsförebyggande*
+  - [Rörelsesatsning i skolan](https://www.rf.se/rf-arbetar-med/aktuella-satsningar/rorelsesatsning-i-skolan)
+  
+  *Trygghetsfrämjande/våldsförebyggande*
 
   - [Olweusprogrammet](https://olweus.se/) mot mobbning
   
@@ -339,11 +341,7 @@ Barns måluppfyllelse i förskola samt skola är starkt kopplat till deras måen
   
   - Skol-Komet
   
-*Rörelsefrämjande*
-
-  - [Rörelsesatsning i skolan](https://www.rf.se/rf-arbetar-med/aktuella-satsningar/rorelsesatsning-i-skolan) 
-  
-*Normkritik och inkludering*
+  *Normkritik och inkludering*
 
   - [RFSL:	Hbtqi-certifiering](https://rfslutbildning.se/hbtqi-certifiering/) 
   
@@ -369,22 +367,22 @@ Barns måluppfyllelse i förskola samt skola är starkt kopplat till deras måen
 
 - [Risk och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?](https://osf.io/ntcw3)
 
--   [SBU: program-for-att-forebygga-psykisk-ohalsa-hos-barn](https://www.sbu.se/sv/publikationer/SBU-utvarderar/program-for-att-forebygga-psykisk-ohalsa-hos-barn2/)
+- [SBU: program-for-att-forebygga-psykisk-ohalsa-hos-barn](https://www.sbu.se/sv/publikationer/SBU-utvarderar/program-for-att-forebygga-psykisk-ohalsa-hos-barn2/)
 
--   [Ifous fokuserar: Att främja psykisk hälsa och motverka psykisk ohälsa i förskola](https://ifous.se/ifous-fokuserar-psykisk-halsa-i-forskola/)
+- [Ifous fokuserar: Att främja psykisk hälsa och motverka psykisk ohälsa i förskola](https://ifous.se/ifous-fokuserar-psykisk-halsa-i-forskola/)
 
--   [Brottsoffermyndigheten: Liten och trygg](https://www.jagvillveta.se/for-dig-som-vuxen/)
+- [Brottsoffermyndigheten: Liten och trygg](https://www.jagvillveta.se/for-dig-som-vuxen/)
 
--   [BRÅ: Effekter av anti-mobbningsprogram - vad säger forskningen?](https://bra.se/publikationer/arkiv/publikationer/2009-03-30-effekter-av-anti-mobbningsprogram---vad-sager-forskningen.html)
+- [BRÅ: Effekter av anti-mobbningsprogram - vad säger forskningen?](https://bra.se/publikationer/arkiv/publikationer/2009-03-30-effekter-av-anti-mobbningsprogram---vad-sager-forskningen.html)
 
--   [Skolverket: Positivt samband mellan rörelse i skolan och lärande](https://www.skolverket.se/skolutveckling/forskning-och-utvarderingar/artiklar-om-forskning/positivt-samband-mellan-rorelse-i-skolan-och-larande)
+- [Skolverket: Positivt samband mellan rörelse i skolan och lärande](https://www.skolverket.se/skolutveckling/forskning-och-utvarderingar/artiklar-om-forskning/positivt-samband-mellan-rorelse-i-skolan-och-larande)
 
--   [Elevhälsoportalen](http://www.elevhalsoportalen.se/)
+- [Elevhälsoportalen](http://www.elevhalsoportalen.se/)
 
-----------------------------------------------------------------------------------------------------------------
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 ### Socialt fältarbete
-Socialt fältarbete för barn och unga handlar om att arbeta förebyggande genom att vara uppsökande och relationsskapande. Arbetet sker på platser och miljöer där barn och unga befinner sig och handlar om att skapa goda relationer för att kunna identifiera behov och erbjuda stöd och vägledning i barn och ungas vardag. Det kan handla om att ha kontakt med och ge stöd till föräldrar, ge råd om fritidsaktiviteter, eller stötta barn och unga direkt på plats. Genom att fältarbetarna är synliga och tillgängliga i närsamhället skapas en länk mellan invånarna och samhällets stödstrukturer. Förtroendet som byggs upp gör det lättare för individer att söka hjälp och stöd.
+Socialt fältarbete för barn och unga handlar om att arbeta förebyggande genom att vara uppsökande och relationsskapande. Arbetet sker på platser och miljöer där barn och unga befinner sig med syftet att kunna identifiera behov och erbjuda stöd och vägledning i barn och ungas vardag. Det kan handla om att ha kontakt med och ge stöd till föräldrar, ge råd om fritidsaktiviteter, eller stötta barn och unga direkt på plats. Genom att fältarbetarna är synliga och tillgängliga i närsamhället skapas en länk mellan invånarna och samhällets stödstrukturer. Förtroendet som byggs upp gör det lättare för individer att söka hjälp och stöd.
 
 Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra delar av socialtjänsten, elevhälsan och fritidsgårdar är centrala aktörer tillsammans med civilsamhällets aktörer. Detta nätverkande är viktigt för att skapa en helhetsbild av den unges situation och för att samordna samt hänvisa till insatser.
 
@@ -404,7 +402,7 @@ Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra del
 -	Barn och ungdomars synpunkter och behov i inkluderas i utformningen av fältarbetet.
 
 
-**Lagstiftning:**
+**Lagstiftning**
 
 Socialt fältarbete definieras inte i lagtexten men berörs delvis i förarbetena till socialtjänstlagen. Se avsnittet Uppsökande verksamhet och förebyggande arbete, 3 kap. 1 § SoL, 2 § första stycket, 2 § andra stycket.
 
@@ -417,7 +415,7 @@ Socialt fältarbete definieras inte i lagtexten men berörs delvis i förarbeten
 
 -   [SKR: Motverka normbrytande beteende och förebyggande socialt fältarbete](https://skr.se/skr/samhallsplaneringinfrastruktur/trygghetsakerhet/brottsforebyggande/barnochungasombegarbrott/tidigaresandningar/motverkanormbrytandebeteendeochforebyggandesocialtfaltarbete.64373.html)
 
-----------------------------------------------------------------------------------------------------------------
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 ## Lästips uppdelade på verksamhet
 
