@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 book:
-  title: "Preventionspaletten - Ett stöd för verksamhetskartläggning och analys utifrån skyddsfaktorer för barn & unga"
+  title: "Preventionspaletten"
+  subtitle: "Ett stöd för verksamhetskartläggning och analys utifrån skyddsfaktorer för barn & unga"
   repo-url: "https://github.com/pgmj"
   sidebar:
     style: floating

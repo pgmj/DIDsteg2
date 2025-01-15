@@ -83,7 +83,7 @@ När aktörer och verksamheter som erbjuder olika former av föräldraskapsstöd
 
 -   [Socialstyrelsen: SSPF (skola, socialtjänst, polis, fritid)](https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/barn-och-unga/unga-som-begar-brott/exempel-brottsforebyggande-metoder/sspf-skola-socialtjanst-polis-fritid/)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Utökat hembesöksprogram
 
@@ -111,7 +111,7 @@ Syftet med utökat hembesöksprogram är att stärka familjens tillit till sin e
 -   [Göteborgsregionen: Betydelser och effekter av utökade hembesök i Göteborg)](https://goteborgsregionen.se/kunskapsbank/betydelserocheffekteravutokadehembesokigoteborg.5.28065c9318a25ff30f8d89a.html)
 
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Familjecentral
 
@@ -151,7 +151,7 @@ Föreningen för familjecentralers främjande (FFFF) är en nationell förening 
 
 
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Öppen förskola
 
@@ -191,7 +191,7 @@ Den öppna förskolan ska erbjuda barn en pedagogisk verksamhet i samarbete med 
 
 -   [SKR: Öppen förskola – tillsammans för jobb och integration](https://skr.se/skr/skolakulturfritid/forskolagrundochgymnasieskolakomvux/oppenforskolaforsprakochintegration.46558.html)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Samverkan mellan förskola/skola och föräldrar
 
@@ -230,7 +230,7 @@ Utbildningen syftar också till att i samarbete med hemmen främja barns och ele
 
 -   [SKR: Påverkansfaktorer på barns lärande](https://skr.se/download/18.7c1c4ddb17e3d28cf9ba687f/1643196854985/7164-706-1.pdf)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Föräldragrupp MHV/BHV
 
@@ -261,6 +261,9 @@ Föräldragrupper inom mödrahälsovården (MHV) och barnhälsovården (BHV) syf
 
 -   [MFOF: Andel kvinnor och män som deltagit i föräldragrupp på BHV av totalt antal födda barn per region](https://www.mfof.se/foraldraskapsstod/att-bygga-ett-hallbart-foraldraskapsstod/indikatorer-kvalitetsmatning-och-uppfoljning.html)
 
+-   [Folkhälsokollen: Deltagande i föräldraskapsstöd under graviditet](https://www.folkhalsokollen.se/webbverktyg/?id=260266)
+
+
 
 **Läs mer om föräldragrupper MVC/BVC**
 
@@ -272,7 +275,7 @@ Föräldragrupper inom mödrahälsovården (MHV) och barnhälsovården (BHV) syf
 
 -   [MFOF: Lilla ABC](https://mfof.se/foraldraskapsstod/program-och-metoder-for-foraldraskapsstod---soksida/fss-program/2022-10-25-lilla-abc.html)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Universella föräldrastödsprogram
 
@@ -316,7 +319,7 @@ Studier visar att satsningar på föräldraskapsstödsprogram är hälsoekonomis
 
 -   [Karolinska Institutet: Effektutvärdering ABC föräldraträffar](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-14-1083)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Riktade föräldrastödsprogram
 
@@ -364,7 +367,7 @@ Syftet med riktade föräldrastödsprogram är att vända en negativ utveckling 
 
 -   [Kunskapsguiden: Exempel på föräldrastöd till utrikesfödda föräldrar](https://kunskapsguiden.se/omraden-och-teman/arbetsmetoder-och-perspektiv/interkulturellt-perspektiv/forebyggande-arbete-stod-och-insatser/)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Föräldraföreläsningar
 
@@ -388,7 +391,7 @@ Föräldraföreläsningar kan ges på olika teman och arenor och är ett verktyg
 
 -   [Inspirationsföreläsning gör nyblivna föräldrar tryggare](https://www.forskning.se/2020/08/25/inspirationsforelasning-gor-nyblivna-foraldrar-tryggare/)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Familjerådgivning
 
@@ -431,7 +434,7 @@ Med familjerådgivning avses i denna lag en verksamhet som består i samtal med 
 
 -   [MFoF:s vägledande material för arbetet med familjerådgivning i Sveriges kommuner](https://mfof.se/download/18.70103d0c17f2a79704e4486/1645793221507/V%C3%A4gledning%20familjer%C3%A5dgivning%20februari%202022.pdf)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Samarbetssamtal
 
@@ -472,7 +475,7 @@ Enligt socialtjänstlagen (2001:453), (5 kap. 3 §), ska kommunen sörja för at
 
 -   [MFOF: Forskning om samarbetssamtal och medling](https://www.mfof.se/download/18.78bdeb3e17e98c36ecf5a5f3/1643878965346/Forskning%20om%20samarbetssamtal%20och%20medling.pdf)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Skolsociala team
 
@@ -506,7 +509,7 @@ Skolans elevhälsoarbete stärktes i skollagen 2023. Det innebär bland annat at
 
 -   [Uppdrag Psykisk hälsa: Skolsociala-team-kan-minska-risken-for-utanforskap](https://www.uppdragpsykiskhalsa.se/stockholmslan/barn-unga/goda-exempel/skolsociala-team-kan-minska-risken-for-utanforskap/)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ### Socialt fältarbete
 Socialt fältarbete för barn och unga handlar om att arbeta förebyggande genom att vara uppsökande och relationsskapande. Arbetet sker på platser och miljöer där barn och unga befinner sig och handlar om att skapa goda relationer för att kunna identifiera behov och erbjuda stöd och vägledning i barn och ungas vardag. Det kan handla om att ha kontakt med och ge stöd till föräldrar, ge råd om fritidsaktiviteter, eller stötta barn och unga direkt på plats. Genom att fältarbetarna är synliga och tillgängliga i närsamhället skapas en länk mellan invånarna och samhällets stödstrukturer. Förtroendet som byggs upp gör det lättare för individer att söka hjälp och stöd.
@@ -542,7 +545,7 @@ Socialt fältarbete definieras inte i lagtexten men berörs delvis i förarbeten
 
 -   [SKR: Motverka normbrytande beteende och förebyggande socialt fältarbete](https://skr.se/skr/samhallsplaneringinfrastruktur/trygghetsakerhet/brottsforebyggande/barnochungasombegarbrott/tidigaresandningar/motverkanormbrytandebeteendeochforebyggandesocialtfaltarbete.64373.html)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------**
 
 ## Ytterligare lästips uppdelade på verksamhet
 
