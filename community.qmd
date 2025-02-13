@@ -15,8 +15,6 @@ Läs mer på [Boverket](https://www.boverket.se/sv/samhallsplanering/stadsutveck
 
 ## Underlag för verksamhetskartläggning och analys av *ett tryggt närsamhälle* 
 
-I denna del av basutbudet beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda och som stärker skyddsfaktorn ett tryggt närsamhälle. Urvalet har förankrats med myndigheter, forskare, experter och kommuner, men är inte fullständigt och kan komma att revideras över tid.
-
 ### Konventionen om barnets rättigheter
 
 Flera artiklar i barnkonventionen stödjer och vägleder i att skapa ett tryggt närsamhälle. Nedan listas ett urval av artiklar som ger stöd för de främjande och förebyggande insatser som kan behöva utvecklas i arbetet med att skapa ett tryggt närsamhälle:
@@ -68,6 +66,8 @@ Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighe
 
 Kunskapsbaserat områdesarbete är en tvärsektoriell arbetsmetod som bygger på samarbete mellan bland annat invånare, kommunala verksamheter, lokala organisationer, näringsidkare och myndigheter. Metoden syftar till att förbättra och utveckla specifika geografiska områden genom en bred samhällsanalys.
 
+_______________________________________________________________________________________________________________
+
 **Kartläggning**
 
 -	Det finns samverkansformer för att bedriva områdesarbete mellan kommunala verksamheter, myndigheter, bostadsbolag, civilsamhällesorganisationer, näringsliv, hälso- och sjukvård samt invånare i området.  
@@ -80,16 +80,19 @@ Kunskapsbaserat områdesarbete är en tvärsektoriell arbetsmetod som bygger på
 
 -	Barn och ungdomar involveras i områdesarbetet.
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
 *Lag (2023:196) om kommuners ansvar för brottsförebyggande arbete*
 
+_______________________________________________________________________________________________________________
 
 **Indikatorer**
 
 Här kan du hitta statistik om livsvillkor, brott, narkotika samt otrygghet i Stockholms län [Regional lägesbild](https://storymaps.arcgis.com/collections/8b89cbe67c354d2bb6f2215241f7f218/)
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om kunskapsbaserat områdesarbete**
 
@@ -107,6 +110,8 @@ Här kan du hitta statistik om livsvillkor, brott, narkotika samt otrygghet i St
 
 Genom att i samhällsplanering främja sociala värden så skapas förutsättningar för att fler människor kan och vill vistas i närsamhället. Det gör områden mer attraktiva även för företag att etablera sig i, vilket både skapar arbetstillfällen och ett utökat utbud lokalt som i sin tur leder till fler besökare. Hur en plats upplevs av de som bor där och inte bor där har betydelse för barn och ungas identitetsutveckling, tillvaron och möjligheterna i livet. Att inkludera sociala värden handlar om att fler perspektiv, såsom exempelvis barnets perspektiv, äldres perspektiv och jämställdhetsperspektiv i större utsträckning blir synliga i den byggda miljön och i det offentliga rummet.
 
+_______________________________________________________________________________________________________________
+
 **Kartläggning**
 
 -	Kommunen arbetar aktivt med att integrera sociala värden i samhällsplaneringen. 
@@ -119,6 +124,7 @@ Genom att i samhällsplanering främja sociala värden så skapas förutsättnin
 
 -	Det görs kontinuerliga uppföljning för att bedöma hur väl sociala värden integreras i samhällsplaneringen.
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
@@ -126,6 +132,7 @@ Genom att i samhällsplanering främja sociala värden så skapas förutsättnin
 
 - [Hållbar socialtjänst – En ny socialtjänstlag SOU 2020:47)](https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/08/sou-202047/)
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om sociala värden i samhällsplanering**
 
@@ -147,6 +154,7 @@ Social tillit, social sammanhållning, social kontroll och trygghet hänger ihop
 
 Nattvandring, tillgång till trygga mötesplatser, närvaro av samhällsservice i området samt dialoger med medborgare, inklusive barn och unga, bidrar till att utveckla den sociala tilliten och tryggheten i området.
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -160,6 +168,7 @@ Nattvandring, tillgång till trygga mötesplatser, närvaro av samhällsservice 
 
 • Uppföljning görs av vilka målgrupper som deltar i de tillitsskapande insatserna som medborgardialoger och nattvandringar.
 
+_______________________________________________________________________________________________________________
 
 **Indikatorer**
 
@@ -175,6 +184,7 @@ Nattvandring, tillgång till trygga mötesplatser, närvaro av samhällsservice 
 
 - [Folkhälsomyndigheten: Kärnindikatorer för uppföljning av det folkhälsopolitiska målet, Tillit ](https://folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/k/karnindikatorer-for-uppfoljning-av-det-folkhalsopolitiska-malet/)
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om tillitsskapande insatser**
 
@@ -194,6 +204,7 @@ Nattvandring, tillgång till trygga mötesplatser, närvaro av samhällsservice 
 
 Trygga och attraktiva cykel- samt gångvägar ger bättre förutsättningar för mer aktivitet och trivsel i närsamhället. För barn och unga är det en förutsättning för att de självständigt ska kunna ta sig mellan olika målpunkter. Andelen barn som går eller cyklar har minskat de senaste åren och istället skjutsar allt fler vuxna sina barn till skolan eller fritidsaktiviteter. Genom att skolor etableras i områden som från början inte var planerade att innehålla en skola saknas lämplig infrastruktur till platsen. Det fria skolvalet har även inneburit att barnen bor längre ifrån skolan än tidigare. Även föräldrarnas upplevelse av trafiksäkerheten påverkar om de låter barnen gå eller cykla på egen hand (SKR 2013). Allt detta är frågor som kan lösas med god planering.
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -205,6 +216,7 @@ Trygga och attraktiva cykel- samt gångvägar ger bättre förutsättningar för
 
 •	Barn och unga inkluderas i planeringsprocessen. 
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
@@ -214,6 +226,7 @@ Trygga och attraktiva cykel- samt gångvägar ger bättre förutsättningar för
 
 -	[SCB: Medborgarundersökningen - Möjligheterna att enkelt använda kollektivtrafik till fritidsaktiviteter är bra, andel (%)](https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0003/)
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om trygga transportvägar**
 
@@ -234,6 +247,7 @@ Socialt fältarbete för barn och unga handlar om att arbeta förebyggande genom
 
 Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra delar av socialtjänsten, elevhälsan och fritidsgårdar är centrala aktörer tillsammans med civilsamhällets aktörer. Detta nätverkande är viktigt för att skapa en helhetsbild av den unges situation och för att samordna samt hänvisa till insatser.
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -249,11 +263,13 @@ Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra del
 
 -	Barn och ungdomars synpunkter och behov i inkluderas i utformningen av fältarbetet.
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning:**
 
 Socialt fältarbete definieras inte i lagtexten men berörs delvis i förarbetena till socialtjänstlagen. Se avsnittet Uppsökande verksamhet och förebyggande arbete, 3 kap. 1 § SoL, 2 § första stycket, 2 § andra stycket.
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om socialt fältarbete**
 

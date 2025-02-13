@@ -87,6 +87,7 @@ En strukturerad samverkan på flera nivåer i den kommunala organisationen är e
 
 När aktörer och verksamheter runt barn och unga samverkar med varandra så ökar möjligheterna att identifiera och erbjuda relevant stöd i tid. Kunskap från flera verksamheter ger en bättre helhetsbild av barnets eller ungdomens behov av stöd och lämpliga insatser.
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -104,6 +105,7 @@ När aktörer och verksamheter runt barn och unga samverkar med varandra så ök
 
 -	Barn, ungdomar och föräldrar involveras i utformningen av insatserna.
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om samordnade insatser runt barn och ungdomar**
 
@@ -128,6 +130,7 @@ När aktörer och verksamheter runt barn och unga samverkar med varandra så ök
 
 Öppna förskolor finansieras oftast av kommunen och kan vara samlokaliserad i en familjecentral. 
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -143,6 +146,7 @@ När aktörer och verksamheter runt barn och unga samverkar med varandra så ök
 
 - Besökare inkluderas i utformning av innehållet i verksamheten. 
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
@@ -155,6 +159,7 @@ Den öppna förskolan ska erbjuda barn en pedagogisk verksamhet i samarbete med 
 
 -   [Kolada: Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun](https://www.kolada.se/verktyg/fri-sokning/?kpis=148817&years=30200,30199,30198&municipals=82304&rows=municipal,kpi&visualization=bar-chart)
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om öppen förskola**
 
@@ -169,6 +174,8 @@ Den öppna förskolan ska erbjuda barn en pedagogisk verksamhet i samarbete med 
 ### Närvarofrämjande arbete
 
 Att vara närvarande i förskola och skola är en grundläggande förutsättning för skyddsfaktorn *Måluppfyllelse i förskola och skola*. Det handlar i stor utsträckning om hur eleverna trivs i förskola och skola, men skolfrånvaro kan även förklaras av familjeförhållanden eller behov av stöd och vård hos eleven som inte tillgodosetts. Även goda relationer mellan elever och lärare samt mellan hem och förskola/skola är av stor betydelse för närvaron.
+
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -188,6 +195,7 @@ Att vara närvarande i förskola och skola är en grundläggande förutsättning
 
 •	Barn, ungdomar och föräldrar involveras i det närvarofrämjande arbetet.
 
+_______________________________________________________________________________________________________________
 
 **Indikatorer**
 
@@ -195,6 +203,7 @@ Att vara närvarande i förskola och skola är en grundläggande förutsättning
 
 - Barn 3-5 år inskrivna i förskola, andel %. Här kan du söka statistik om inskrivna i förskola hos Skolverket [Skolverket: Sök statistik ](https://www.skolverket.se/skolutveckling/statistik/sok-statistik-om-forskola-skola-och-vuxenutbildning?sok=SokC&verkform=F%C3%B6rskola&omrade=Barn%20och%20grupper&lasar=2023&run=1)
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
@@ -208,6 +217,7 @@ Se även *Skollagen 8 kap. 12 a §* och *Skollagen 29 kap 19 §* samt propositio
 
 Läs mer här: [Skolverket: Kommuners arbete för fler barn i förskolan](https://www.skolverket.se/skolutveckling/leda-och-organisera-skolan/uppsokande-verksamhet-och-tillsyn-av-forskolor/kommuners-arbete-for-fler-barn-i-forskolan)
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om närvarofrämjande arbete**
 
@@ -231,6 +241,7 @@ Förskola, skola och fritidshemmet är verksamheter som möter majoriteten av al
 
 I skolans systematiska kvalitetsarbete ingår att löpande utveckla och utvärdera samverkan med föräldrar och vårdnadshavare för att säkerställa att man når ut till alla.
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -242,12 +253,14 @@ I skolans systematiska kvalitetsarbete ingår att löpande utveckla och utvärde
 
 - Respektive förskola/skola/fritidshem har gemensamma förhållningssätt i kontakter med vårdnadshavare och hemmen.
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
 *Skollagen 1 kap. 4 §*
 Utbildningen syftar också till att i samarbete med hemmen främja barns och elevers allsidiga personliga utveckling till aktiva, kreativa, kompetenta och ansvarskännande individer och medborgare.
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om samverkan mellan förskola/skola och föräldrar**
 
@@ -266,6 +279,8 @@ Utbildningen syftar också till att i samarbete med hemmen främja barns och ele
 ### Skolsociala team
 Skolsociala team har ett tvärprofessionellt arbetssätt där socialtjänst och skola samverkar för att öka trygghet, skolnärvaro och måluppfyllelse samt ge elever med en ogynnsam utveckling stöd i ett tidigt skede. Skolsociala team kan till exempel erbjuda stödinsatser till vårdnadshavare och underlätta kommunikation och samarbete mellan vårdnadshavare och övriga aktörer som finns runt den enskilda eleven som till exempel hälso- och sjukvård och fritidssektor.
 
+_______________________________________________________________________________________________________________
+
 **Kartläggning**
 
 - Det finns skolsociala team i kommunen.
@@ -280,6 +295,7 @@ Skolsociala team har ett tvärprofessionellt arbetssätt där socialtjänst och 
 
 -	Det görs uppföljning av vilket resultat skolsociala team får för barn och föräldrar.
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
@@ -287,6 +303,7 @@ Skolans elevhälsoarbete stärktes i skollagen 2023. Det innebär bland annat at
 
 Läs mer här: [Kunskapsguiden: Vägledning för elevhälsan ](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/vagledning-for-elevhalsa/)
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om skolsociala team**
 
@@ -301,6 +318,8 @@ Läs mer här: [Kunskapsguiden: Vägledning för elevhälsan ](https://kunskapsg
 ### Kunskapsbaserade insatser och program i förskola och skola
 
 Barns måluppfyllelse i förskola samt skola är starkt kopplat till deras mående och trivsel i verksamheten samt vice versa. Utöver det kvalitetsarbete som görs inom skolväsendet och som även syftar till att främja barns välmående så finns kunskapsbaserade insatser och program som fokuserar på bemötande och förhållningssätt hos pedagoger och lärare och vars effekter går att utvärdera i relation till mer specifika utfall.  
+
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -357,11 +376,13 @@ Barns måluppfyllelse i förskola samt skola är starkt kopplat till deras måen
 
 - Det görs uppföljning av vilka resultat som insatserna får för barnen.
 
+_______________________________________________________________________________________________________________
 
 **Indikatorer**
 
 - [Kommunrapport: Andel elever som känner sig trygga i skolan](https://pgmj.github.io/DIDsteg2/www.kolada.se)
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om kunskapsbaserade insatser i förskola och skola**
 
@@ -386,6 +407,7 @@ Socialt fältarbete för barn och unga handlar om att arbeta förebyggande genom
 
 Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra delar av socialtjänsten, elevhälsan och fritidsgårdar är centrala aktörer tillsammans med civilsamhällets aktörer. Detta nätverkande är viktigt för att skapa en helhetsbild av den unges situation och för att samordna samt hänvisa till insatser.
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -401,11 +423,13 @@ Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra del
 
 -	Barn och ungdomars synpunkter och behov i inkluderas i utformningen av fältarbetet.
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
 Socialt fältarbete definieras inte i lagtexten men berörs delvis i förarbetena till socialtjänstlagen. Se avsnittet Uppsökande verksamhet och förebyggande arbete, 3 kap. 1 § SoL, 2 § första stycket, 2 § andra stycket.
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om socialt fältarbete**
 
@@ -417,7 +441,7 @@ Socialt fältarbete definieras inte i lagtexten men berörs delvis i förarbeten
 
 **------------------------------------------------------------------------------**
 
-## Lästips uppdelade på verksamhet
+## Ytterligare lästips uppdelade på verksamhet
 
 ### Förskola av hög kvalitét
 

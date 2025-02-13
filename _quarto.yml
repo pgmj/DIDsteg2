@@ -4,8 +4,10 @@ project:
 
 book:
   title: "Preventionspaletten"
-  subtitle: "Ett stöd för verksamhetskartläggning och analys utifrån skyddsfaktorer för barn & unga"
-  repo-url: "https://github.com/pgmj"
+  subtitle: |
+    Ett stöd för verksamhetskartläggning och analys \
+    utifrån skyddsfaktorer för barn & unga
+  repo-url: "https://github.com/pgmj/DIDsteg2"
   sidebar:
     style: floating
     search: true

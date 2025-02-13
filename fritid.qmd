@@ -13,7 +13,6 @@ Många olika aktörer och verksamheter spelar en viktig roll i att tillhandahål
 
 ## Underlag för verksamhetskartläggning och analys av *meningsfull fritid*
 
-I denna del av basutbudet beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag bör erbjuda och som stärker skyddsfaktorn *Meningsfull fritid.* Urvalet har förankrats med myndigheter, forskare, experter och kommuner men är inte fullständigt och kan komma att revideras över tid. 
 
 ### Barnkonventionen
 
@@ -24,6 +23,7 @@ I denna del av basutbudet beskrivs verksamheter och insatser som kommuner enligt
 -	**Artikel 31:** Barnet har rätt till lek, vila, fritid och rekreation samt fritt delta i det kulturella livet.
 
 
+
 ## Kartläggnings- och fördjupningsfrågor
 
 Frågorna i kartläggningen kan användas som stöd för analys och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned här: [Kartläggning av Basutbud Meningsfull fritid](/Kartläggning_fritid.xlsx) Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
@@ -31,9 +31,11 @@ Frågorna i kartläggningen kan användas som stöd för analys och kvalitetssä
 I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Klicka här för att hämta ner filen: [Dokumentation av fördjupande frågor](/Fördjupningsfrågor_fritid.docx). Denna kan ni sedan spara lokalt och arbeta vidare med.
 
 
+
 ## Verksamheter och insatser: En meningsfull fritid
 
 Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda för att stärka skyddsfaktorn *En meningsfull fritid.* Urvalet har förankrats med myndigheter, forskare, experter och kommuner men är inte fullständigt och kan komma att revideras över tid.
+
 
 
 ### Tidiga, samordnade insatser runt barn och ungdomar
@@ -42,6 +44,7 @@ En strukturerad samverkan på flera nivåer i den kommunala organisationen är e
 
 Samverkan, samarbeten, bidrag och stöd med lokal eller utrustning kan göra fritidsaktiviteter mer tillgängliga för grupper av unga som har sämre förutsättningar att delta i strukturerade aktiviteter. 
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -59,6 +62,7 @@ Samverkan, samarbeten, bidrag och stöd med lokal eller utrustning kan göra fri
 
 -	Barn och ungdomar involveras i utformningen av insatserna.
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om tidiga och samordnade insatser**
 
@@ -88,8 +92,9 @@ Barn ska erbjudas fritidshem upp till 13 års ålder som enligt skollagen ska st
 
 Fritidshemmen ingår i skolans systematiska kvalitetsarbete med målsättningen att fritidshemmet ska ge varje elev en meningsfull fritid och en utbildning av hög kvalitet som ger goda möjligheter att utvecklas och lära samt en god grund för fortsatt utbildning. 
 
-Lär mer här:[Skolverket: Nationellt kvalitetssystem](https://www.skolverket.se/skolutveckling/kvalitetsarbete/nationellt-kvalitetssystem)
+Lär mer här: [Skolverket: Nationellt kvalitetssystem](https://www.skolverket.se/skolutveckling/kvalitetsarbete/nationellt-kvalitetssystem)
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -101,6 +106,7 @@ Lär mer här:[Skolverket: Nationellt kvalitetssystem](https://www.skolverket.se
 
 -	Barnet och vårdnadshavare erbjuds inflytande över utbildningen i fritidshemmet.
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
@@ -111,6 +117,7 @@ Lär mer här:[Skolverket: Nationellt kvalitetssystem](https://www.skolverket.se
 *Skollagen kap 5*
 Åtgärder för trygghet och studiero i fritidshemmet 
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om fritidshem**
 
@@ -132,6 +139,7 @@ Den öppna fritidsverksamheten kännetecknas av att den ordnas under fria former
 
 Verksamheten har också en kompenserande roll för barn och ungdomar som inte har råd med fritidsaktiviteter som kostar. Öppen fritidsverksamhet av kvalitet kan även erbjuda vuxna förebilder och säkra alternativ till mer destruktiva miljöer genom att ge unga en plats att vara på efter skolan och under helger.
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -147,6 +155,7 @@ Verksamheten har också en kompenserande roll för barn och ungdomar som inte ha
 
 - Barn och ungdomar inkluderas i utformningen av verksamheten.
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
@@ -154,6 +163,8 @@ Verksamheten har också en kompenserande roll för barn och ungdomar som inte ha
 
 Den öppna fritidsverksamheten *(från 10-13 år)* ska genom pedagogisk verksamhet komplettera utbildningen i grundskolan, anpassade grundskolan, specialskolan, sameskolan och andra särskilda utbildningsformer i vilka skolplikt kan fullgöras. Verksamheten ska erbjuda barnen möjlighet till utveckling och lärande samt en meningsfull fritid och rekreation.
 Lag (2022:1315).
+
+_______________________________________________________________________________________________________________
 
 **Indikatorer**
 
@@ -163,6 +174,7 @@ Lag (2022:1315).
 
 -	[SCB: Medborgarundersökningen - Bra utbud av ställen för unga att träffas på i kommunen, andel (%)](https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0003/)
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om öppen fritidsverksamhet/mötesplatser**
 
@@ -186,6 +198,8 @@ Biblioteket ska vara en mötesplats som är till för alla och som ger tillgång
 
 Biblioteken bidrar också till språkutveckling och integration, särskilt för nyanlända barn och unga. Genom språkutvecklande aktiviteter och tillgång till litteratur på olika språk, hjälper biblioteken dessa barn att förbättra sina språkkunskaper och anpassa sig till sin nya miljö.
 
+_______________________________________________________________________________________________________________
+
 **Kartläggning**
 
 -	Det finns bibliotek med barn och ungdomsverksamhet i kommunen.
@@ -200,6 +214,7 @@ Biblioteken bidrar också till språkutveckling och integration, särskilt för 
 
 -	Barn och ungdomar inkluderas i utformningen av verksamheten.
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
@@ -213,6 +228,7 @@ Folkbiblioteken ska verka för att öka kunskapen om hur informationsteknik kan 
 
 Folkbiblioteken ska ägna särskild uppmärksamhet åt barn och ungdomar för att främja deras språkutveckling och stimulera till läsning, bland annat genom att erbjuda litteratur utifrån deras behov och förutsättningar.
 
+_______________________________________________________________________________________________________________
 
 **Indikatorer**
 
@@ -220,6 +236,7 @@ Folkbiblioteken ska ägna särskild uppmärksamhet åt barn och ungdomar för at
 
 -	SCB Medborgarundersökningen - bibliotekets aktiviteter (t.ex. bokklubbar, författarbesök, sagostunder, utbildning), andel (%). Här kan du söka statistik om medborgarnas syn på bibliotek hos SCB: [SCB: Medborgarnas syn på bibliotek, kulturliv och mötesplatser i kommunen efter region och bakgrund.](https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0003__ME0003F/MedborgKultur/)
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om bibliotek med barn- och ungdomsverksamhet**
 
@@ -235,6 +252,8 @@ Folkbiblioteken ska ägna särskild uppmärksamhet åt barn och ungdomar för at
 ### Kultur-/musikskola
 
 En kultur- och musikskola bidrar till barns och ungas välmående genom att erbjuda en plats för kreativt uttryck, personlig utveckling, social sammanhållning och tillit. Genom att delta i gruppaktiviteter och uppträdanden får barn och unga möjlighet att bygga relationer, lära sig samarbeta med andra och motverka social isolering. Verksamheten ska erbjuda en säker och stimulerande miljö där barn och unga kan utforska och utveckla sina intressen.
+
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -252,11 +271,13 @@ En kultur- och musikskola bidrar till barns och ungas välmående genom att erbj
 
 -	Barn och ungdomar inkluderas i utformningen av verksamheten.
 
+_______________________________________________________________________________________________________________
 
 **Indikatorer**
 
 Här kan du söka statistik om musik- och kulturskolor hos Kulturrådet: [Kulturrådet: Statistik om kulturskolor](https://www.kulturradet.se/kulturskolecentrum/statistik/)
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om inkluderande kultur-/musikskola**
 
@@ -275,6 +296,7 @@ Här kan du söka statistik om musik- och kulturskolor hos Kulturrådet: [Kultur
 
 Kostnadsfria lovaktiviteter kan bidra till att skapa en mer jämlik tillgång till meningsfulla fritidsaktiviteter. De kan också bidra till att förebygga psykisk ohälsa genom att erbjuda strukturerade och meningsfulla aktiviteter under loven, då barn annars kan vara utan tillsyn eller sysselsättning. Dessutom erbjuder dessa aktiviteter en säker miljö där barn kan vara under uppsyn av vuxna ledare, vilket minskar risken för att de hamnar i negativa eller destruktiva miljöer. Detta kan vara särskilt viktigt i områden med hög social utsatthet.
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -292,6 +314,7 @@ Kostnadsfria lovaktiviteter kan bidra till att skapa en mer jämlik tillgång ti
 
 - Barn och ungdomar inkluderas i utformningen av aktiviteterna.
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om kostnadsfria lovaktiviteter**
 
@@ -309,6 +332,7 @@ Socialt fältarbete för barn och unga handlar om att arbeta förebyggande genom
 
 Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra delar av socialtjänsten, elevhälsan och fritidsgårdar är centrala aktörer tillsammans med civilsamhällets aktörer. Detta nätverkande är viktigt för att skapa en helhetsbild av den unges situation och för att samordna samt hänvisa till insatser.
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -324,11 +348,13 @@ Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra del
 
 -	Barn och ungdomars synpunkter och behov i inkluderas i utformningen av fältarbetet.
 
+_______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
 Socialt fältarbete definieras inte i lagtexten men berörs delvis i förarbetena till socialtjänstlagen. Se avsnittet Uppsökande verksamhet och förebyggande arbete, 3 kap. 1 § SoL, 2 § första stycket, 2 § andra stycket.
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om socialt fältarbete**
 
@@ -346,6 +372,7 @@ En stor del av barn och ungas fritid tillbringas i utomhusmiljöer. Den öppna f
 
 Tillgång till grönområden kan bidra till att utjämna skillnaden i hälsa mellan socioekonomiskt svaga och starka grupper, och är särskilt viktigt i tätbebyggda områden. Grönområden ger även möjligheter för kostnadsfria aktiviteter genom exempelvis utegym och bollplaner. I områden med trångboddhet erbjuder även sitt- och grillplatser i utemiljön ett komplement till hemmet och en plats att mötas på.
 
+_______________________________________________________________________________________________________________
 
 **Kartläggning**
 
@@ -361,6 +388,7 @@ Tillgång till grönområden kan bidra till att utjämna skillnaden i hälsa mel
 
 •	Barn och ungdomar görs delaktiga i utformningen av utomhusmiljöer 
 
+_______________________________________________________________________________________________________________
 
 **Läs mer om utomhusmiljöer för lek, spontan idrott, friluftsliv och återhämtning**
 
