@@ -11,7 +11,7 @@ book:
   sidebar:
     style: floating
     search: true
-  author: 'Länsstyrelsen i Stockholms Län'
+  author: 'Länsstyrelserna'
   date: last-modified
   date-format: iso
   chapters:

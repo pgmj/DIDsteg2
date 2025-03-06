@@ -34,7 +34,7 @@ Läs mer här: [Nationell strategi för ett stärkt föräldraskapsstöd](https:
 
 ## Kartläggnings- och fördjupningsfrågor
 
-Frågorna kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned här: [Kartläggning av Basutbud Föräldra-Barnrelation](/Kartläggning_fldr.xlsx) Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
+Frågorna kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned här: [Kartläggning av Föräldra-Barnrelation](/Kartläggning_fldr.xlsx) Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
 
 I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Klicka här för att hämta ner filen: [Dokumentation av fördjupande frågor](/Fördjupningsfrågor_fldr.docx). Denna kan ni sedan spara lokalt och arbeta vidare med. 
 
@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
 **Kartläggning**
 
--	Det finns en överenskommelse rörande samordnade insatser runt barn och ungdomar mellan relevanta aktörer där föräldraskapsstöd ingår.
+-	Det finns en skriftlig överenskommelse rörande samordnade insatser runt barn och ungdomar mellan relevanta aktörer där föräldraskapsstöd ingår.
 
 -	Det finns mål och strategier för arbetet med samordnade insatser runt barn och ungdomar.
 
@@ -250,6 +250,8 @@ ________________________________________________________________________________
 
 Föräldragrupper inom mödrahälsovården (MHV) och barnhälsovården (BHV) syftar till att stärka föräldrar, främja goda uppväxtvillkor samt tidigt fånga upp föräldrar och barn i behov av stöd. I barnmorskemottagningarnas basprogram ingår att erbjuda generellt föräldraskapsstöd och inom barnhälsovården är föräldragrupper en grundläggande arbetsmetod. Samverkan inom och mellan regionens och kommunernas verksamheter för blivande föräldrar och föräldrar ingår också i uppdragen.
 
+I den nationella strategin för ett stärkt föräldraskapsstöd tydliggörs vikten av att föräldraskapsstödet behöver bidra till ett mer jämställt föräldraskap, till exempel genom att möta föräldrars behov av stöd i sin relation till varandra och i sina ambitioner att leva jämställt. Föräldraskapsstödet ska även utmana begränsande och destruktiva föreställningar om kön och främja alla föräldrars delaktighet i frågor som traditionellt har betraktats som antingen mammors eller pappors ansvarsområde. 
+
 _______________________________________________________________________________________________________________
 
 **Kartläggning**
@@ -273,11 +275,9 @@ ________________________________________________________________________________
 
 **Indikatorer**
 
--   [MFOF: Andel kvinnor respektive partner som deltagit i föräldrastöd efter typ av region](https://www.mfof.se/foraldraskapsstod/att-bygga-ett-hallbart-foraldraskapsstod/indikatorer-kvalitetsmatning-och-uppfoljning.html)
-
--   [MFOF: Andel kvinnor och män som deltagit i föräldragrupp på BHV av totalt antal födda barn per region](https://www.mfof.se/foraldraskapsstod/att-bygga-ett-hallbart-foraldraskapsstod/indikatorer-kvalitetsmatning-och-uppfoljning.html)
-
 -   [Folkhälsokollen: Deltagande i föräldraskapsstöd under graviditet](https://www.folkhalsokollen.se/webbverktyg/?id=260266)
+
+-   [Kolada: Föräldrapenningdagar som tas ut av män respektive kvinnor, andel av antal dagar (%)](https://www.kolada.se/verktyg/fri-sokning/?kpis=60615&years=30199,30198,30197,30196,30195,30194,30193,30192,30191&municipals=2328,16536&rows=municipal,kpi&visualization=line-chart&scale=blue&interval=10-80-10)
 
 
 _______________________________________________________________________________________________________________
@@ -296,11 +296,11 @@ ________________________________________________________________________________
 
 ### Universella föräldrastödsprogram
 
-Den nationella strategin för ett stärkt föräldraskapsstöd betonar att stöd ska erbjudas alla föräldrar, oberoende av problem och risk. Grunden är det universella stödet som ska stärka hälsan och förebygga ohälsa hos alla barn. 
+Den nationella strategin för ett stärkt föräldraskapsstöd betonar att stöd ska erbjudas alla föräldrar, oberoende av problem och risk. Grunden är det universella stödet som ska stärka hälsan och förebygga ohälsa hos alla barn. Strategin betonar även att föräldraskapsstödet behöver bidra till ett mer jämställt föräldraskap, till exempel genom att möta föräldrars behov av stöd i sin relation till varandra och i sina ambitioner att leva jämställt. Föräldraskapsstödet ska även utmana begränsande och destruktiva föreställningar om kön och främja alla föräldrars delaktighet i frågor som traditionellt har betraktats som antingen mammors eller pappors ansvarsområde. 
 
 Syftet med universella föräldraskapsstödsprogram är dels att ge alla föräldrar stöd i föräldraskapet och främja en god utveckling hos barn, dels att fånga upp och hänvisa vidare föräldrar med behov av mer stöd. Eftersom universellt stöd ofta erbjuds på öppna arenor kan det underlätta för familjer med lägre samhällstillit att söka stöd där.
 
-Studier visar att satsningar på föräldraskapsstödsprogram är hälsoekonomiskt lönsamt och kostnadsbesparande, även om effekten endast skulle kvarstå i ett år. Läs mer (www.mfof.se.
+Studier visar att satsningar på föräldraskapsstödsprogram är hälsoekonomiskt lönsamt och kostnadsbesparande, även om effekten endast skulle kvarstå i ett år. [Källa: MFoF](mfof.se)
 
 _______________________________________________________________________________________________________________
 
@@ -328,6 +328,12 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________
 
+**Indikatorer**
+
+ - [Kolada: Tillfälliga föräldrapenningdagar (VAB) som tas ut av män respektive kvinnor, andel av antal dagar (%)](https://www.kolada.se/verktyg/fri-sokning/?kpis=60615,60616&years=30199,30198,30197,30196,30195,30194,30193,30192,30191&municipals=2328,16536&rows=municipal,kpi&visualization=line-chart&scale=blue&interval=10-80-10)
+ 
+_______________________________________________________________________________________________________________
+
 **Läs mer om universella föräldrastödsprogram**
 
 - [MFOF: En nationell översikt av program och metoder för föräldraskapsstöd](https://mfof.se/foraldraskapsstod/program-och-metoder.html)
@@ -342,7 +348,7 @@ ________________________________________________________________________________
 
 ### Riktade föräldrastödsprogram
 
-Enligt den nationella strategin för ett stärkt föräldraskapsstöd ska riktat stöd till riskgrupper samt individuellt stöd till familjer med konstaterade problem komplettera det universella stödet. Föräldraskapsstöd bör erbjudas på flera olika arenor för att nå alla grupper av föräldrar.
+Enligt den nationella strategin för ett stärkt föräldraskapsstöd ska riktat stöd till riskgrupper samt individuellt stöd till familjer med konstaterade problem komplettera det universella stödet. Föräldraskapsstöd bör erbjudas på flera olika arenor för att nå alla grupper av föräldrar. Strategin betonar även att föräldraskapsstödet behöver bidra till ett mer jämställt föräldraskap, till exempel genom att möta föräldrars behov av stöd i sin relation till varandra och i sina ambitioner att leva jämställt. Föräldraskapsstödet ska även utmana begränsande och destruktiva föreställningar om kön och främja alla föräldrars delaktighet i frågor som traditionellt har betraktats som antingen mammors eller pappors ansvarsområde. 
 
 Syftet med riktade föräldrastödsprogram är att vända en negativ utveckling med bråk och konflikter i familjen eller normbrytande beteende hos barnet då detta utgör en risk för en fortsatt problematisk utveckling. Indikerat stöd ges till familjer med större identifierade problem eller tydliga symtom på ohälsa.
 
@@ -368,12 +374,6 @@ ________________________________________________________________________________
 - Det görs återkommande uppföljning av vilka som deltar i riktade föräldraskapsstödsprogram.
 
 - Det görs uppföljning av vilket resultat som programmen får för barn och föräldrar.
-
-_______________________________________________________________________________________________________________
-
-**Indikatorer**
-
--   [MFOF: Andel kommuner/stadsdelar som erbjuder minst ett manualbaserat föräldrastöd i grupp för barn med bråkigt/normbrytande beteende, per län](https://www.mfof.se/foraldraskapsstod/att-bygga-ett-hallbart-foraldraskapsstod/indikatorer-kvalitetsmatning-och-uppfoljning.html)
 
 _______________________________________________________________________________________________________________
 
@@ -451,8 +451,6 @@ ________________________________________________________________________________
 
 **Indikatorer**
 
--   [MFOF: Familjerådgivning](https://mfof.se/statistik_familjeradgivning)
-
 -   [SCB: Familjerådgivning: Teknisk rapport - En beskrivning av genomförande och metoder](https://mfof.se/download/18.7fecc00c1884c539cd42e4b1/1686116419181/Statistik%20familjer%C3%A5dgivning%202022_Teknisk%20rapport.pdf)
 
 _______________________________________________________________________________________________________________
@@ -488,14 +486,6 @@ ________________________________________________________________________________
 **Lagstiftning**
 
 Enligt socialtjänstlagen (2001:453), (5 kap. 3 §), ska kommunen sörja för att föräldrar kan erbjudas samtal under sakkunnig ledning i syfte att nå enighet i frågor som gäller vårdnad, boende och umgänge (samarbetssamtal). I föräldrabalken infördes samtidigt en möjlighet för rätten att besluta om samarbetssamtal när en process om vårdnad och umgänge inletts.
-
-_______________________________________________________________________________________________________________
-
-**Indikatorer**
-
--   [MFOF:Familjerätt](https://mfof.se/sarskilda-innehallssidor/statistik/officiell-statistik/familjeratt.html)
-
--   [SCB: Familjerätt: Teknisk rapport - En beskrivning av genomförande och metoder](https://mfof.se/download/18.7fecc00c1884c539cd429235/1685968985912/Statistik%20om%20familjer%C3%A4tt%202022_Teknisk%20rapport.pdf)
 
 _______________________________________________________________________________________________________________
 
@@ -584,68 +574,4 @@ ________________________________________________________________________________
 
 -   [SKR: Motverka normbrytande beteende och förebyggande socialt fältarbete](https://skr.se/skr/samhallsplaneringinfrastruktur/trygghetsakerhet/brottsforebyggande/barnochungasombegarbrott/tidigaresandningar/motverkanormbrytandebeteendeochforebyggandesocialtfaltarbete.64373.html)
 
-**------------------------------------------------------------------------------**
-
-## Ytterligare lästips uppdelade på verksamhet
-
-### Utökat hembesöksprogram
-
--   [Växa tryggt - Ett föräldraskapsstöd i samverkan](https://kfsk.se/vaxatryggt/forskning/)
-
--   [Att finna sin roll, att så ett frö – föräldrastödjarnas arbete i barnhälsovården)](https://goteborgsregionen.se/kunskapsbank/foraldrastodjarnasarbeteibarnhalsovarden.5.35b4a66318002ba975a13312.html)
-
--   [Utökat hembesöksprogram för förstagångsföräldrar i Rinkeby – samverkan mellan barnhälsovård och socialtjänst](https://nordicwelfare.org/integration-norden/exempel/utokat-hembesoksprogram-for-forstagangsforaldrar-i-rinkeby-samverkan-mellan-barnhalsovard-och-socialtjanst/)
-
--   [Uppdrag att stödja och stimulera barnhälsovårdens förebyggande arbete med hembesöksprogram](https://www.regeringen.se/regeringsuppdrag/2023/05/uppdrag-att-stodja-och-stimulera-barnhalsovardens-forebyggande-arbete-med-hembesoksprogram/)
-
--   [Risk och skyddsfaktorer - vad vet vi och vad kan göras med kunskapen?](https://osf.io/ntcw3)
-
--   [Extended postnatal home visiting programme](https://ki.se/en/gph/extended-postnatal-home-visiting-programme)
-
-
-### Familjecentral
-
--   Abrahamsson A, Bing V. Vad är en familjecentral? Socialmedicinsk tidskrift. 2011;88(2):98-9.
-
--   Kouvonen P, editor. Nordens barn - utvecklingen av nordiska familjecentraler. Stockholm: Nordens välfärdscenter; 2012.
-
--   [Family centre practice and modernity - a qualitative study from Sweden](https://www.diva-portal.org/smash/get/diva2:407369/FULLTEXT01.pdf)
-
--   Bing V. Historisk utveckling av familjecentraler i Sverige och Norden. In: Kekkonen M, Montonen M, Viitala R, editors. Familjecenter i Norden -- en resurs för barn och familjer. Köpenhamn: Nordiska ministerrådet; 2011.
-
--   [Familjecentraler](https://www.rikshandboken-bhv.se/metoder--riktlinjer/samverkan-med-andra-verksamheter---oversikt/familjecentraler/)
-
--   [Nationell vägledning Familjecentral - Samverkan för barns bästa!](https://utveckling.regionorebrolan.se/contentassets/28b5fc54d5454595ae632c79c415a178/nationell-vagledning-familjecentral---samverkan-for-barns-basta.pdf)
-
-
-### Öppen förskola
-
--   [Rätt till förskola](https://www.skolverket.se/regler-och-ansvar/ansvar-i-skolfragor/ratt-till-forskola)
-
-### Samverkan mellan förskola/skola och föräldrar
-
--   [Del 2 - Samarbete och kommunikation för elevernas bästa](https://www.spsm.se/systematik-for-tidiga-stodinsatser/del-4---att-prova-och-omprova-tillsammans/samarbete-och-kommunikation-for-elevernas-basta/)
-
--   [Moment 3 - Samverkan för lärande](https://spsm.se/studiepaket-amnesomraden/moment-3/)
-
-### Riktade föräldraskapsstödsprogram
-
--   [Föräldraskapsstöd för nyanlända - vad fungerar?](https://goteborgsregionen.se/download/18.22a3cc881780d1faddf1b9f/1615394403965/Foraldraskapsstod_for_nyanlanda_foraldrar_%E2%80%93_vad_fungerar.pdf)
-
--   [Exempel på förebyggande arbete, stöd och insatser](https://kunskapsguiden.se/omraden-och-teman/arbetsmetoder-och-perspektiv/interkulturellt-perspektiv/forebyggande-arbete-stod-och-insatser/)
-
--   [Program för att förebygga psykisk ohälsa hos barn](https://www.sbu.se/sv/publikationer/SBU-utvarderar/program-for-att-forebygga-psykisk-ohalsa-hos-barn2/)
-
--   [Program för att förebygga suicid och suicidförsök hos barn](https://www.sbu.se/sv/publikationer/SBU-utvarderar/program-for-att-forebygga-suicid-och-suicidforsok-hos-barn/)
-
--   [Risk- och skyddsfaktorer – vad vet vi och vad kan göras med kunskapen?](https://osf.io/ntcw3)
-
-
-### Samarbetssamtal
-
--   [Samarbetssamtal - Kartläggning av föräldrars och samtalsledares erfarenheter](https://mfof.se/download/18.7a15f94516e8e25421b18716/1574925630064/samarbetssamtal-kartlaggning.pdf)
-
--   [Samarbetssamtal och medling vid vårdnadstvist eller konflikt](https://www.sbu.se/sv/publikationer/sbus-upplysningstjanst/samarbetssamtal-och-medling-vid-vardnadstvist-eller-konflikt/?pub=68399&lang=sv)
-
--   [Intervensjoner for å dempe foreldrekonflikt – en kunnskapsoversikt](https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2013/intervensjoner-for-a-dempe-foreldrekonflikt---en-kunnskapsoversikt.pdf)
 

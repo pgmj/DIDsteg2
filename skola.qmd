@@ -51,7 +51,7 @@ I Kvalitetssystemet finns nationella målsättningar, delmål och indikatorer. �
 
 Läs mer här: [Skolverket: Faktorer för framgångsrik skolutveckling - Bilaga: Underlag för självvärdering](https://www.skolverket.se/download/18.3cf0d66d187913b54fe15f5/1684139148009/faktorer-underlag for sjalvvardering-2.pdf)
 
-Denna verksamhetskartläggning kan ses som ett sätt att arbeta med kvalitetssystemet och det som tas fram inom kvalitetssystemet kan bli ett underlag för arbetet med verksamhetskartläggning och analys. I kartläggningen inkluderas fler aktörer och insatser för de mål som kvalitetssystemet också strävar mot. 
+Preventionspaletten  kan ses som ett sätt att arbeta med kvalitetssystemet och det som tas fram inom kvalitetssystemet kan bli ett underlag för arbetet med verksamhetskartläggning och analys i Preventionspaletten. I Preventionspaletten inkluderas fler aktörer och insatser för de mål som kvalitetssystemet också strävar mot. 
 
 ### Konventionen om barnets rättigheter
 
@@ -72,7 +72,7 @@ I artikel 28 beskrivs vikten av skolnärvaro och att åtgärder för att uppmunt
 
 ## Kartläggnings- och fördjupningsfrågor
 
-Frågorna kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned här: [Kartläggning av Basutbud Skola](/Kartläggning_skola.xlsx). Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
+Frågorna kan användas som stöd vid kartläggning och kvalitetssäkring av främjande och förebyggande verksamheter i kommunen. Med de kartläggande frågorna fångas inte enbart förekomst av en insats eller verksamhet utan även några grundläggande förutsättningar för ett kvalitativt arbete såsom finansiering, långsiktighet och uppföljning. De kartläggande frågorna syns under varje enskild verksamhet men kan även laddas ned här: [Kartläggning av Skola](/Kartläggning_skola.xlsx). Denna kan ni sedan spara lokalt och arbeta vidare med, till exempel om ni vill jämföra de kartläggande frågorna över tid.
 
 I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen på ett mer djupgående sätt. Frågorna kräver mer detaljerade svar och syftar till att identifiera eventuella utvecklings- och förbättringsområden såsom tillgänglighet, målgruppsanpassning, kompetensutveckling samt tillvägagångssätt för uppföljning. Klicka här för att hämta ner filen: [Dokumentation av fördjupande frågor](/Fördjupningsfrågor_skola.docx). Denna kan ni sedan spara lokalt och arbeta vidare med.
 
@@ -91,7 +91,7 @@ ________________________________________________________________________________
 
 **Kartläggning**
 
--	Det finns en överenskommelse mellan relevanta aktörer rörande samordnade insatser för barn och ungdomar där förskola, skola och elevhälsan ingår.
+-	Det finns en skriftlig överenskommelse mellan relevanta aktörer rörande samordnade insatser för barn och ungdomar där förskola, skola och elevhälsan ingår.
 
 -	Det finns plattformar eller forum för tvärsektoriellt arbete där förskola, skola och elevhälsan ingår. 
 
@@ -140,8 +140,6 @@ ________________________________________________________________________________
 
 - Det finns långsiktig finansiering av den öppna förskolan.
 
-- Det finns samverkansöverenskommelser mellan öppna förskolan och andra närliggande verksamheter.
-
 - Det görs kontinuerlig uppföljning av vilka som besöker den öppna förskolan.
 
 - Besökare inkluderas i utformning av innehållet i verksamheten. 
@@ -159,6 +157,9 @@ Den öppna förskolan ska erbjuda barn en pedagogisk verksamhet i samarbete med 
 
 -   [Kolada: Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun](https://www.kolada.se/verktyg/fri-sokning/?kpis=148817&years=30200,30199,30198&municipals=82304&rows=municipal,kpi&visualization=bar-chart)
 
+-   [Kolada: Öppen förskola, andel (%) heltidstjänster med pedagogisk högskoleutbildning](https://www.kolada.se/verktyg/fri-sokning/?kpis=148822&years=30200,30199,30198&municipals=82304&rows=municipal,kpi&visualization=bar-chart)
+
+-   [Kolada: Öppen förskola, öppethållande minst 16 tim/vecka](https://www.kolada.se/verktyg/fri-sokning/?kpis=148816&years=30200,30199,30198&municipals=82304&rows=municipal,kpi&visualization=bar-chart)
 _______________________________________________________________________________________________________________
 
 **Läs mer om öppen förskola**
@@ -199,21 +200,23 @@ ________________________________________________________________________________
 
 **Indikatorer**
 
-- [Kolada: Skolfrånvaro, andel elever över x % (15-20)](https://www.kolada.se/)
+- Skolfrånvaro, andel elever över x % (15-20)
 
-- Barn 3-5 år inskrivna i förskola, andel %. Här kan du söka statistik om inskrivna i förskola hos Skolverket [Skolverket: Sök statistik ](https://www.skolverket.se/skolutveckling/statistik/sok-statistik-om-forskola-skola-och-vuxenutbildning?sok=SokC&verkform=F%C3%B6rskola&omrade=Barn%20och%20grupper&lasar=2023&run=1)
+- [Kolada: •	Kolada: Barn 3-5 år inskrivna i förskola, andel % ](https://www.kolada.se/verktyg/fri-sokning/?kpis=167146&years=30201,30200,30199&municipals=33612&rows=municipal,kpi&visualization=bar-chart)
 
 _______________________________________________________________________________________________________________
 
 **Lagstiftning**
 
-*Skollagen 7 kap. 19 a §*
-Om en elev har upprepad eller längre frånvaro från den verksamhet som avses i 17 § ska rektorn, oavsett om det är fråga om giltig eller ogiltig frånvaro, se till att frånvaron skyndsamt utreds om det inte är obehövligt. Utredningen ska genomföras i samråd med eleven och elevens vårdnadshavare samt med elevhälsan.
+*Skollagen* 
 
-*Skollagen 7 kap. 22 §*
-Huvudmannen ska se till att eleverna i huvudmannens förskoleklass, grundskola och anpassad grundskola fullgör sin skolgång.
+- 7 kap. 19 a § Om en elev har upprepad eller längre frånvaro från den verksamhet som avses i 17 § ska rektorn, oavsett om det är fråga om giltig eller ogiltig frånvaro, se till att frånvaron skyndsamt utreds om det inte är obehövligt. Utredningen ska genomföras i samråd med eleven och elevens vårdnadshavare samt med elevhälsan.
 
-Se även *Skollagen 8 kap. 12 a §* och *Skollagen 29 kap 19 §* samt proposition 2021/22:132.
+- 7 kap. 22 § Huvudmannen ska se till att eleverna i huvudmannens förskoleklass, grundskola och anpassad grundskola fullgör sin skolgång.
+
+- 8 kap. 12 a §* och 29 kap 19 §  
+
+*Proposition 2021/22:132*
 
 Läs mer här: [Skolverket: Kommuners arbete för fler barn i förskolan](https://www.skolverket.se/skolutveckling/leda-och-organisera-skolan/uppsokande-verksamhet-och-tillsyn-av-forskolor/kommuners-arbete-for-fler-barn-i-forskolan)
 
@@ -257,8 +260,9 @@ ________________________________________________________________________________
 
 **Lagstiftning**
 
-*Skollagen 1 kap. 4 §*
-Utbildningen syftar också till att i samarbete med hemmen främja barns och elevers allsidiga personliga utveckling till aktiva, kreativa, kompetenta och ansvarskännande individer och medborgare.
+*Skollagen*
+
+1 kap. 4 § Utbildningen syftar också till att i samarbete med hemmen främja barns och elevers allsidiga personliga utveckling till aktiva, kreativa, kompetenta och ansvarskännande individer och medborgare.
 
 _______________________________________________________________________________________________________________
 
@@ -439,61 +443,4 @@ ________________________________________________________________________________
 
 -   [SKR: Motverka normbrytande beteende och förebyggande socialt fältarbete](https://skr.se/skr/samhallsplaneringinfrastruktur/trygghetsakerhet/brottsforebyggande/barnochungasombegarbrott/tidigaresandningar/motverkanormbrytandebeteendeochforebyggandesocialtfaltarbete.64373.html)
 
-**------------------------------------------------------------------------------**
 
-## Ytterligare lästips uppdelade på verksamhet
-
-### Förskola av hög kvalitét
-
--   [Förskolans påverkan på barns hälsa](https://www.folkhalsomyndigheten.se/contentassets/3addb7a81de44a8b8a8f4bfa29b8306c/forskolans-paverkan-barns-halsa-01086.pdf)
-
--   [Ifous fokuserar: Att främja psykisk hälsa och motverka psykisk ohälsa i förskola](https://ifous.se/ifous-fokuserar-psykisk-halsa-i-forskola/)
-
--   [Hälsa för lärande – lärande för hälsa](https://www.skolverket.se/publikationsserier/forskning-for-skolan/2019/halsa-for-larande---larande-for-halsa)
-
-### Läsfrämjande insatser
-
--   [Läsning på gång!](https://wwwbiblioteksfor.cdn.triggerfish.cloud/uploads/2021/09/lasning-pa-gang-webb.pdf)
-
--   [Dags att höja ribban! Samverkan för små barns språkutveckling](https://regionhalland.se/app/uploads/2019/03/dags-att-hoja-ribban-2017-webb.pdf)
-
--   [Insatser för att stärka barns och elevers läsande](https://www.skolverket.se/publikationsserier/regeringsuppdrag/2022/insatser-for-att-starka-barns-och-elevers-lasande)
-
--   [Kulturrådet och Skolverket i gemensam satsning på högläsning i förskolan](https://www.skolverket.se/om-oss/aktuellt/nyheter/nyheter/2022-08-24-kulturradet-och-skolverket-i-gemensam-satsning-pa-hoglasning-i-forskolan)
-
--   [Så kan du stärka elevers läsning](https://www.skolverket.se/skolutveckling/inspiration-och-stod-i-arbetet/stod-i-arbetet/sa-kan-du-starka-elevers-lasning)
-
--   [Viktigt att skapa stimulerande läsmiljöer i förskolan](https://www.skolverket.se/skolutveckling/forskning-och-utvarderingar/artiklar-om-forskning/viktigt-att-skapa-stimulerande-lasmiljoer-i-forskolan)
-
--   [Läsfrämjande arbete i grundskolan](https://www.skolinspektionen.se/beslut-rapporter-statistik/publikationer/kvalitetsgranskning/2022/lasframjande-arbete-i-grundskolan/)
-
--   [Stödja och stimulera kommunikations- och språkutveckling bland barn 0 till 2 år - Ett kunskapsstöd för barnhälsovården](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2022-3-7794.pdf)
-
-
-### Trygga skolövergångar
-
--   [Positiva kamratrelationer är en skyddsfaktor vid skolövergångar](https://www.skolverket.se/skolutveckling/forskning-och-utvarderingar/artiklar-om-forskning/positiva-kamratrelationer-ar-en-skyddsfaktor-vid-skolovergangar)
-
--   [Lärares roll och utmaningar i arbetet med barns tidiga skolövergångar](https://mdh.diva-portal.org/smash/record.jsf?pid=diva2%3A1621860&dswid=-8160)
-
-
-### Närvarofrämjande arbete
-
--   [Handlingsplan vid skolfrånvaro – så här gör du](https://www.folkhalsan.fi/globalassets/unga/professionella/skolfranvaro/fh_skolfranvaro_handlingsplan.pdf)
-
--   [Förebygga skolfrånvaro](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/forebygga-skolfranvaro/)
-
-
-### Hälsofrämjande insatser
-
--   [Mer rörelse i skolan](https://www.skolverket.se/skolutveckling/inspiration-och-stod-i-arbetet/stod-i-arbetet/mer-rorelse-i-skolan)
-
--   [Främjande av psykiskt välbefinnande hos barn och ungdomar](https://www.sbu.se/sv/publikationer/SBU-utvarderar/framjande-av-psykiskt-valbefinnande-hos-barn-och-ungdomar/)
-
--   [Slutbetänkande av Kommittén för främjande av ökad fysisk aktivitet](https://generationpep.se/sv/aktuellt/slutbetankande-kommitten-2023/)
-
--   [Hälsa för lärande – lärande för hälsa](https://www.skolverket.se/publikationsserier/forskning-for-skolan/2019/halsa-for-larande---larande-for-halsa)
-
--   [Hälsofrämjande perspektiv i förskolan viktigt för hela livet](https://www.skolverket.se/skolutveckling/forskning-och-utvarderingar/artiklar-om-forskning/halsoframjande-perspektiv-i-forskolan-viktigt-for-hela-livet)
-
--   [Kraftsamling för ungas psykiska hälsa - Kunskapssammanfattning och förslag till interventioner från Svenska Läkaresällskapet arbetsgrupp 2021](https://www.sls.se/globalassets/sls/dokument/rapport-kraftsamling-for-ungas-psykiska-halsa-20210521.pdf)
