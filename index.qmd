@@ -26,7 +26,7 @@ I preventionspaletten beskrivs verksamheter och insatser som kommuner enligt for
 
 Genom att sortera verksamheterna under de fyra skyddsfaktorerna är förhoppningen att tydliggöra att fler verksamheter och förvaltningar har betydelse för att motverka olika problemutfall samt att samverkan är centralt för att nå målsättningarna i respektive förvaltning.
 
-![](preventionspaletten.jpeg){width="80%"}
+![](preventionspaletten.png){width="80%"}
 
 
 
