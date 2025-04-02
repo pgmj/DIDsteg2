@@ -15,8 +15,6 @@ Byggstenar för en god relation är värme, närvaro, bekräftelse och tydliga r
 
 I texten avses både *föräldrar och vårdnadshavare*, men enbart begreppet föräldrar kommer att skrivas ut om texten inte är ett direkt referat från myndighet eller dylikt där andra begrepp använts.
 
-Föräldraskapsstöd är en viktig insats som enligt forskning stärker föräldrabarnrelationen och främjar barns utveckling och hälsa. Föräldraskapsstöd lyfts även fram i FN:s barnkonvention och av Sveriges regering.
-
 
 ### Konventionen om barnets rättigheter
 
@@ -25,9 +23,9 @@ Artikel 5 och 18 handlar om att det är föräldrarna som tillsammans har huvuda
 
 ### Nationell strategi för ett stärkt föräldraskapsstöd
 
-Regeringen tog 2018 beslut om en nationell strategi för ett stärkt föräldraskapsstöd. Målet är att alla föräldrar ska erbjudas föräldraskapsstöd under hela barnets uppväxt för att barnets hälsa och utveckling ska främjas. Enligt den nationella strategin för ett stärkt föräldraskapsstöd är föräldraskapsstöd definierad som olika insatser, aktiviteter och verksamheter riktade till föräldrar som stärker föräldraförmågan och relationen mellan förälder och barn. Strategin betonar att stöd ska erbjudas alla föräldrar, oberoende av problem och risk. Grunden är det universella stödet som ska stärka hälsan och förebygga ohälsa hos alla barn. Riktat stöd till riskgrupper samt individuellt stöd till familjer med konstaterade problem ska komplettera det generella stödet. Föräldraskapsstöd bör erbjudas på flera olika arenor för att nå alla grupper av föräldrar.
+Regeringen tog 2018 beslut om en nationell strategi för ett stärkt föräldraskapsstöd. Målet är att alla föräldrar ska erbjudas föräldraskapsstöd under hela barnets uppväxt för att barnets hälsa och utveckling ska främjas. Enligt den nationella strategin för ett stärkt föräldraskapsstöd är föräldraskapsstöd definierat som olika insatser, aktiviteter och verksamheter riktade till föräldrar som stärker föräldraförmågan och relationen mellan förälder och barn. Strategin betonar att stöd ska erbjudas alla föräldrar, oberoende av problem och risk. Grunden är det universella stödet som ska stärka hälsan och förebygga ohälsa hos alla barn. Riktat stöd till riskgrupper samt individuellt stöd till familjer med konstaterade problem ska komplettera det generella stödet. Föräldraskapsstöd bör erbjudas på flera olika arenor för att nå alla grupper av föräldrar.
 
-I strategin finns även skrivningar som tydliggör vikten av att föräldraskapsstödet behöver bidra till ett mer jämställt föräldraskap, till exempel genom att möta föräldrars behov av stöd i sin relation till varandra och i sina ambitioner att leva jämställt. Ett jämställt föräldraskap, där båda föräldrarna deltar och gemensamt utövar omsorgen om barnet, gynnar barns hälsa och utveckling. Vidare behöver föräldraskapsstödet utmana begränsande och destruktiva föreställningar om kön och främja alla föräldrars delaktighet i frågor som traditionellt har betraktats som antingen mammors eller pappors ansvarsområde. 
+I strategin finns även skrivningar som tydliggör vikten av att föräldraskapsstödet bidrar till ett mer jämställt föräldraskap, till exempel genom att möta föräldrars behov av stöd i sin relation till varandra och i sina ambitioner att leva jämställt. Ett jämställt föräldraskap, där båda föräldrarna deltar och gemensamt utövar omsorgen om barnet, gynnar barns hälsa och utveckling. Vidare behöver föräldraskapsstödet utmana begränsande och destruktiva föreställningar om kön och främja alla föräldrars delaktighet i frågor som traditionellt har betraktats som antingen mammors eller pappors ansvarsområde. 
 
 Läs mer här: [Nationell strategi för ett stärkt föräldraskapsstöd](https://www.mfof.se/download/18.1af131d916e45020f6b3a437/1574348799172/En nationell strategi f%C3%B6r ett st%C3%A4rkt f%C3%B6r%C3%A4ldraskapsst%C3%B6d WEBB (1).pdf)
 
@@ -53,7 +51,7 @@ ________________________________________________________________________________
 
 **Kartläggning**
 
--	Det finns en skriftlig överenskommelse rörande samordnade insatser runt barn och ungdomar mellan relevanta aktörer där föräldraskapsstöd ingår.
+-	Det finns en skriftlig överenskommelse rörande samordnade insatser runt barn och ungdomar där föräldraskapsstöd ingår.
 
 -	Det finns mål och strategier för arbetet med samordnade insatser runt barn och ungdomar.
 
@@ -73,7 +71,7 @@ ________________________________________________________________________________
 
 -   [SKR: Kronobarnsmodellen](https://skr.se/skr/halsasjukvard/utvecklingavverksamhet/naravard/nyaarbetssatt/samordningutifranbarnetsfokus.73797.html)
 
--   [Kunskapsgudien: Om tidiga och samordnade insatser (TSI)](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/)
+-   [Kunskapsguiden: Om tidiga och samordnade insatser (TSI)](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/)
 
 -   [TSI-boken - Stöd i arbetet med tidiga och samordnade insatser för barn och unga](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-10-8779.pdf)
 
@@ -113,7 +111,7 @@ ________________________________________________________________________________
 
 -   [Karolinska institutet. Utvärderingsrapport 2015. Utökat barnhälsovårdsprogram för förstagångsföräldrar - samverkan mellan Rinkeby BVC och föräldrarådgivare inom Rinkeby-Kista socialtjänst. ](http://dok.slso.sll.se/CES/FHG/Rapport-FHM-utokat-barnhalsovardsprogram.pdf)
 
--   [Göteborgsregionen: Betydelser och effekter av utökade hembesök i Göteborg)](https://goteborgsregionen.se/kunskapsbank/betydelserocheffekteravutokadehembesokigoteborg.5.28065c9318a25ff30f8d89a.html)
+-   [Göteborgsregionen: Betydelser och effekter av utökade hembesök i Göteborg](https://goteborgsregionen.se/kunskapsbank/betydelserocheffekteravutokadehembesokigoteborg.5.28065c9318a25ff30f8d89a.html)
 
 
 **------------------------------------------------------------------------------**
@@ -162,7 +160,9 @@ ________________________________________________________________________________
 
 ### Öppen förskola
 
-Öppen förskola är en kompletterande förskoleverksamhet för barn som inte är inskrivna i förskola samt medföljande förälder, dagbarnvårdare eller annan vuxen. Syftet är både att erbjuda barn en pedagogisk verksamhet samt att ge föräldrar stöd i föräldrarollen. Den öppna förskolan är också en mötesplats för föräldrar och kan bidra till integration och språkutveckling. Verksamheten är i allmänhet avgiftsfri.
+Öppen förskola är en pedagogisk verksamhet för barn samt medföljande förälder, dagbarnvårdare eller annan vuxen. Den fungerar som en mötesplats där barn kan leka och delta i olika aktiviteter under pedagogisk ledning. Samtidigt kan föräldrarna träffa andra vuxna, utbyta erfarenheter och få stöd i sitt föräldraskap. Öppna förskolan är en verksamhet med låga trösklar och därför även en viktig arena för informationsinsatser för att öka deltagandet i förskolan för barn med utländsk bakgrund samt bidra till integration och språkutveckling.
+
+Öppna förskolor finansieras oftast av kommunen och kan vara samlokaliserad i en familjecentral. Verksamheten är i allmänhet avgiftsfri.
 
 _______________________________________________________________________________________________________________
 
@@ -190,7 +190,12 @@ ________________________________________________________________________________
 
 **Indikatorer**
 
--   [Kolada:Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun](https://www.kolada.se/verktyg/fri-sokning/?kpis=148817&years=30200,30199,30198&municipals=82304&rows=municipal,kpi&visualization=bar-chart)
+-   [Kolada: Antal öppna förskolor, samt varav på familjecentral, i relation till antal barn 0-6 år per län och kommun](https://www.kolada.se/verktyg/fri-sokning/?kpis=148817&years=30200,30199,30198&municipals=82304&rows=municipal,kpi&visualization=bar-chart)
+
+-	[Kolada: Öppen förskola, andel (%) heltidstjänster med pedagogisk högskoleutbildning](https://www.kolada.se/verktyg/fri-sokning/?kpis=148822&years=30200,30199,30198&municipals=82304&rows=municipal,kpi&visualization=bar-chart)
+
+-	[Kolada: Öppen förskola, öppethållande minst 16 tim/vecka](https://www.kolada.se/verktyg/fri-sokning/?kpis=148816&years=30200,30199,30198&municipals=82304&rows=municipal,kpi&visualization=bar-chart)
+
 
 _______________________________________________________________________________________________________________
 
@@ -214,15 +219,17 @@ ________________________________________________________________________________
 
 **Kartläggning**
 
-- Det finns en kommunövergripande plan för förskolans och skolans samverkan med föräldrar
+- Det finns en kommunövergripande plan för förskolans, skolans och fritidshemmens samverkan med föräldrar.
 
-- Respektive förskola/skola har en gemensam strategi för att möjliggöra för hem och vårdnadshavare att bli delaktiga i frågor som rör elevens skolgång.
+-	Kommunen erbjuder personalen kunskapshöjande insatser om föräldraskapsstöd och föräldrasamverkan.
 
-- Respektive förskola/skola har gemensamma förhållningssätt i kontakter med vårdnadshavare och hemmen
+- Respektive förskola/skola har en gemensam strategi för att möjliggöra för hem och föräldrar att bli delaktiga i frågor som rör elevens skolgång.
 
-- Stöd till vårdnadshavare i föräldraskapet erbjuds via förskolor/skolor i kommunen. 
+- Respektive förskola/skola har gemensamma förhållningssätt i kontakter med föräldrar och hemmen.
 
-- Det görs kontinuerlig uppföljning av hur vårdnadshavare uppfattar samverkan med förskola/skola. 
+- Stöd i föräldraskapet erbjuds via förskolor/skolor i kommunen. 
+
+- Det görs kontinuerlig uppföljning av hur föräldrar uppfattar samverkan med förskola/skola. 
 
 _______________________________________________________________________________________________________________
 
@@ -242,7 +249,9 @@ ________________________________________________________________________________
 
 -   [Skolverket: Checklista för att utveckla er skolas samverkan med hem och vårdnadshavare ](https://www.skolverket.se/download/18.3cf0d66d187913b54fe15f6/1684141494320/checklista-utveckla-samverkan-1.pdf)
 
--   [SKR: Påverkansfaktorer på barns lärande](https://skr.se/download/18.7c1c4ddb17e3d28cf9ba687f/1643196854985/7164-706-1.pdf)
+-   [Skolverket: Skolan och hemmet - exempel och forskning om lärares samarbete med elevernas vårdnadshavare](https://www.skolverket.se/publikationsserier/stodmaterial/2015/skolan-och-hemmet)
+
+-   [Specialpedagogiska skolmyndigheten (SPSM): Samarbete och kommunikation för elevernas bästa](https://www.spsm.se/systematik-for-tidiga-stodinsatser/del-4---att-prova-och-omprova-tillsammans/samarbete-och-kommunikation-for-elevernas-basta/)
 
 **------------------------------------------------------------------------------**
 
@@ -250,7 +259,7 @@ ________________________________________________________________________________
 
 Föräldragrupper inom mödrahälsovården (MHV) och barnhälsovården (BHV) syftar till att stärka föräldrar, främja goda uppväxtvillkor samt tidigt fånga upp föräldrar och barn i behov av stöd. I barnmorskemottagningarnas basprogram ingår att erbjuda generellt föräldraskapsstöd och inom barnhälsovården är föräldragrupper en grundläggande arbetsmetod. Samverkan inom och mellan regionens och kommunernas verksamheter för blivande föräldrar och föräldrar ingår också i uppdragen.
 
-I den nationella strategin för ett stärkt föräldraskapsstöd tydliggörs vikten av att föräldraskapsstödet behöver bidra till ett mer jämställt föräldraskap, till exempel genom att möta föräldrars behov av stöd i sin relation till varandra och i sina ambitioner att leva jämställt. Föräldraskapsstödet ska även utmana begränsande och destruktiva föreställningar om kön och främja alla föräldrars delaktighet i frågor som traditionellt har betraktats som antingen mammors eller pappors ansvarsområde. 
+I den nationella strategin för ett stärkt föräldraskapsstöd tydliggörs vikten av att föräldraskapsstödet bidrar till ett mer jämställt föräldraskap, till exempel genom att möta föräldrars behov av stöd i sin relation till varandra och i sina ambitioner att leva jämställt. Föräldraskapsstödet ska även utmana begränsande och destruktiva föreställningar om kön och främja alla föräldrars delaktighet i frågor som traditionellt har betraktats som antingen mammors eller pappors ansvarsområde. 
 
 _______________________________________________________________________________________________________________
 
@@ -260,11 +269,11 @@ ________________________________________________________________________________
 
 - Det finns samverkan mellan kommun och region gällande föräldragrupperna. 
 
-- Det finns mål och strategier för arbetet med föräldragrupper.
+- Det finns mål och strategier för arbetet med föräldragrupperna.
 
-- Det finns långsiktig finansiering för arbetet med föräldragrupper.
+- Det finns långsiktig finansiering för arbetet med föräldragrupperna.
 
-- Barn och föräldrar involveras i utformningen av grupperna.
+- Föräldrars synpunkter involveras i utformningen av grupperna.
 
 - Det görs uppföljning av vilka som deltar i föräldragrupper på MHV respektive BHV.
 
@@ -320,7 +329,7 @@ ________________________________________________________________________________
 
 - Det finns struktur för arbetet (exempelvis återkommande utbildning av gruppledare, samordnare och kompetensutveckling).
 
--	Vårdnadshavare och föräldrar involveras i föräldraskapsstödets utformning.
+-	Föräldrars synpunkter involveras i föräldraskapsstödets utformning.
 
 - Det görs återkommande uppföljning av vilka som deltar i universella föräldraskapsstödsprogram.
 
@@ -369,7 +378,7 @@ ________________________________________________________________________________
 
 - Det finns struktur för arbetet (exempelvis återkommande utbildning av gruppledare, samordnare och kompetensutveckling).
 
--	Vårdnadshavare och föräldrar involveras i föräldraskapsstödets utformning.
+-	Föräldrars synpunkter involveras i föräldraskapsstödets utformning.
 
 - Det görs återkommande uppföljning av vilka som deltar i riktade föräldraskapsstödsprogram.
 
@@ -403,7 +412,7 @@ ________________________________________________________________________________
 
 - Det finns mål och strategier för arbetet med föräldraföreläsningar.
 
--	Vårdnadshavare samt barn och unga involveras i föräldraföreläsningarnas innehåll och utformning.
+-	Föräldrar samt barn och unga involveras i föräldraföreläsningarnas innehåll och utformning.
 
 - Det finns långsiktig finansiering av föräldraföreläsningar.
 
@@ -419,7 +428,7 @@ ________________________________________________________________________________
 
 ### Familjerådgivning
 
-Familjerådgivning består av samtal med syfte att bearbeta samlevnadskonflikter i parförhållanden och familjer. På universell nivå kan familjerådgivningen genom sitt utåtriktade uppdrag ge breda folkbildade insatser om relationer och relationsproblem på arenor som exempelvis mödravårdens, barnhälsovårdens och familjecentralens föräldrautbildningar. På selektiv nivå kan familjerådgivning istället rikta insatser mot särskilda grupper som identifierats av kommunen.
+Familjerådgivning består av samtal med syfte att bearbeta samlevnadskonflikter i parförhållanden och familjer. På universell nivå kan familjerådgivningen genom sitt utåtriktade uppdrag ge breda folkbildande insatser om relationer och relationsproblem på arenor som exempelvis mödravårdens, barnhälsovårdens och familjecentralens föräldrautbildningar. På selektiv nivå kan familjerådgivning istället rikta insatser mot särskilda grupper som identifierats av kommunen.
 
 _______________________________________________________________________________________________________________
 
@@ -433,7 +442,7 @@ ________________________________________________________________________________
 
 - Standardiserade modeller, metoder, verktyg eller bedömningsinstrument används under samtalen.
 
-- Det görs uppföljning av vilka som deltar i familjerådgivning. 
+- Det görs uppföljning av vilka som deltar i familjerådgivningen. 
 
 -	Det görs uppföljning av vilket resultat familjerådgivningen får för barn och föräldrar.
 
@@ -501,7 +510,7 @@ ________________________________________________________________________________
 
 ### Skolsociala team
 
-Skolsociala team har ett tvärprofessionellt arbetssätt där socialtjänst och skola samverkar för att öka trygghet, skolnärvaro och måluppfyllelse samt ge elever med en ogynnsam utveckling stöd i ett tidigt skede. Skolsociala team kan till exempel erbjuda stödinsatser till vårdnadshavare och underlätta kommunikation och samarbete mellan vårdnadshavare och övriga aktörer som finns runt den enskilda eleven som till exempel hälso- och sjukvård och fritidssektor.
+Skolsociala team är ett tvärprofessionellt arbetssätt där socialtjänst och skola samverkar för att öka trygghet, skolnärvaro och måluppfyllelse samt ge elever med en ogynnsam utveckling stöd i ett tidigt skede. Skolsociala team kan till exempel erbjuda stödinsatser till föräldrar och underlätta kommunikation och samarbete mellan föräldrar och övriga aktörer som finns runt den enskilda eleven som till exempel hälso- och sjukvård och fritidssektor.
 
 _______________________________________________________________________________________________________________
 
@@ -540,7 +549,7 @@ ________________________________________________________________________________
 ### Socialt fältarbete
 Socialt fältarbete för barn och unga handlar om att arbeta förebyggande genom att vara uppsökande och relationsskapande. Arbetet sker på platser och miljöer där barn och unga befinner sig och handlar om att skapa goda relationer för att kunna identifiera behov och erbjuda stöd och vägledning i barn och ungas vardag. Det kan handla om att ha kontakt med och ge stöd till föräldrar, ge råd om fritidsaktiviteter, eller stötta barn och unga direkt på plats. Genom att fältarbetarna är synliga och tillgängliga i närsamhället skapas en länk mellan invånarna och samhällets stödstrukturer. Förtroendet som byggs upp gör det lättare för individer att söka hjälp och stöd.
 
-Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra delar av socialtjänsten, elevhälsan och fritidsgårdar är centrala aktörer tillsammans med civilsamhällets aktörer. Detta nätverkande är viktigt för att skapa en helhetsbild av den unges situation och för att samordna samt hänvisa till insatser.
+Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra delar av socialtjänsten, elevhälsan och fritidsgårdar är centrala aktörer tillsammans med civilsamhällets aktörer. Detta nätverkande är viktigt för att skapa en helhetsbild av barn och ungas situation och för att samordna samt hänvisa till insatser.
 
 _______________________________________________________________________________________________________________
 

@@ -21,7 +21,7 @@ Fler aktörer än förskola och skola kan bidra till måluppfyllelse i skolan, t
 -   [Folkhälsomyndigheten: Förskolans påverkan på barns hälsa](https://www.folkhalsomyndigheten.se/contentassets/3addb7a81de44a8b8a8f4bfa29b8306c/forskolans-paverkan-barns-halsa-01086.pdf)
 
 
-## Underlag för verksamhetskartläggning och analys av *måluppfyllelse i förskola/skola*
+## Underlag för verksamhetskartläggning och analys av *måluppfyllelse i förskola och skola*
  
 En stor del av insatserna berör förskolan och skolan som verksamheter, eftersom möjligheter att påverka skyddsfaktorn här är stora, detta förutsätter dock att verksamheterna är av hög kvalitet. Studier visar att de viktigaste kvalitetsaspekterna är personalens utbildningsnivå och möjlighet till kompetensutveckling. 
 
@@ -79,7 +79,7 @@ I de fördjupande frågorna kartläggs kvalitén i verksamheten eller insatsen p
 
 ## Verksamheter och insatser: Måluppfyllelse i förskola och skola
 
-Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda och som stärker skyddsfaktorn *Måluppfyllelse i skola och förskola*. Urvalet har förankrats med myndigheter, forskare, experter och kommuner men är inte fullständigt och kan komma att revideras över tid.
+Nedan beskrivs verksamheter och insatser som kommuner enligt forskning, myndighetsrekommendationer eller lag kan/ska erbjuda och som stärker skyddsfaktorn *Måluppfyllelse i förskola och skola*. Urvalet har förankrats med myndigheter, forskare, experter och kommuner men är inte fullständigt och kan komma att revideras över tid.
 
 ### Tidiga, samordnade insatser runt barn och ungdomar
 
@@ -111,7 +111,7 @@ ________________________________________________________________________________
 
 -   [SKR: Kronobarnsmodellen](https://skr.se/skr/halsasjukvard/utvecklingavverksamhet/naravard/nyaarbetssatt/samordningutifranbarnetsfokus.73797.html)
 
--   [Kunskapsgudien: Om tidiga och samordnade insatser (TSI)](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/)
+-   [Kunskapsguiden: Om tidiga och samordnade insatser (TSI)](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/)
 
 -   [TSI-boken - Stöd i arbetet med tidiga och samordnade insatser för barn och unga](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-10-8779.pdf)
 
@@ -202,7 +202,7 @@ ________________________________________________________________________________
 
 - Skolfrånvaro, andel elever över x % (15-20)
 
-- [Kolada: •	Kolada: Barn 3-5 år inskrivna i förskola, andel % ](https://www.kolada.se/verktyg/fri-sokning/?kpis=167146&years=30201,30200,30199&municipals=33612&rows=municipal,kpi&visualization=bar-chart)
+- [Kolada: Barn 3-5 år inskrivna i förskola, andel % ](https://www.kolada.se/verktyg/fri-sokning/?kpis=167146&years=30201,30200,30199&municipals=33612&rows=municipal,kpi&visualization=bar-chart)
 
 _______________________________________________________________________________________________________________
 
@@ -252,9 +252,9 @@ ________________________________________________________________________________
 
 - Kommunen erbjuder personalen kunskapshöjande insatser om föräldraskapsstöd och föräldrasamverkan.
 
-- Respektive förskola/skola/fritidshem har en gemensam strategi för att möjliggöra för hem och vårdnadshavare att bli delaktiga i frågor som rör elevens skolgång.
+- Respektive förskola/skola/fritidshem har en gemensam strategi för att möjliggöra för hem och föräldrar att bli delaktiga i frågor som rör elevens skolgång.
 
-- Respektive förskola/skola/fritidshem har gemensamma förhållningssätt i kontakter med vårdnadshavare och hemmen.
+- Respektive förskola/skola/fritidshem har gemensamma förhållningssätt i kontakter med föräldrarna och hemmen.
 
 _______________________________________________________________________________________________________________
 
@@ -281,7 +281,7 @@ ________________________________________________________________________________
 **------------------------------------------------------------------------------**
 
 ### Skolsociala team
-Skolsociala team har ett tvärprofessionellt arbetssätt där socialtjänst och skola samverkar för att öka trygghet, skolnärvaro och måluppfyllelse samt ge elever med en ogynnsam utveckling stöd i ett tidigt skede. Skolsociala team kan till exempel erbjuda stödinsatser till vårdnadshavare och underlätta kommunikation och samarbete mellan vårdnadshavare och övriga aktörer som finns runt den enskilda eleven som till exempel hälso- och sjukvård och fritidssektor.
+Skolsociala team är ett tvärprofessionellt arbetssätt där socialtjänst och skola samverkar för att öka trygghet, skolnärvaro och måluppfyllelse samt ge elever med en ogynnsam utveckling stöd i ett tidigt skede. Skolsociala team kan till exempel erbjuda stödinsatser till föräldrar och underlätta kommunikation och samarbete mellan föräldrar och övriga aktörer som finns runt den enskilda eleven som till exempel hälso- och sjukvård och fritidssektor.
 
 _______________________________________________________________________________________________________________
 
@@ -376,7 +376,7 @@ ________________________________________________________________________________
 
 -	Det finns långsiktig finansiering för de kunskapsbaserade insatserna.
 
--	Det finns struktur för de kunskapsbaserade insatserna (exempelvis återkommande utbildning av pedagoger, samordnare och kompetensutveckling).  
+-	Det finns en struktur för de kunskapsbaserade insatserna (exempelvis återkommande utbildning av pedagoger, samordnare och kompetensutveckling).  
 
 - Det görs uppföljning av vilka resultat som insatserna får för barnen.
 
@@ -409,7 +409,7 @@ ________________________________________________________________________________
 ### Socialt fältarbete
 Socialt fältarbete för barn och unga handlar om att arbeta förebyggande genom att vara uppsökande och relationsskapande. Arbetet sker på platser och miljöer där barn och unga befinner sig med syftet att kunna identifiera behov och erbjuda stöd och vägledning i barn och ungas vardag. Det kan handla om att ha kontakt med och ge stöd till föräldrar, ge råd om fritidsaktiviteter, eller stötta barn och unga direkt på plats. Genom att fältarbetarna är synliga och tillgängliga i närsamhället skapas en länk mellan invånarna och samhällets stödstrukturer. Förtroendet som byggs upp gör det lättare för individer att söka hjälp och stöd.
 
-Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra delar av socialtjänsten, elevhälsan och fritidsgårdar är centrala aktörer tillsammans med civilsamhällets aktörer. Detta nätverkande är viktigt för att skapa en helhetsbild av den unges situation och för att samordna samt hänvisa till insatser.
+Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra delar av socialtjänsten, elevhälsan och fritidsgårdar är centrala aktörer tillsammans med civilsamhällets aktörer. Detta nätverkande är viktigt för att skapa en helhetsbild av barn och ungas situation och för att samordna samt hänvisa till insatser.
 
 _______________________________________________________________________________________________________________
 

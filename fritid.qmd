@@ -6,9 +6,9 @@ title: "Meningsfull fritid"
 
 ## Definition Skyddsfaktor
 
-Att ha en utvecklande och meningsfull fritid är en viktig del av uppväxttiden och främjar fysisk, mental och social utveckling och stärker resiliens. Fysisk aktivitet, att exempelvis delta i sport och lek, ger stora hälsofördelar såväl fysiskt som psykiskt. En annan viktig friskfaktor är betydelsen av vila, återhämtning och avkoppling. Fritiden är också ett viktigt sammanhang för barn att lära sig sociala färdigheter som samarbete, kommunikation och konflikthantering och blir genom det informella lärandet ett komplement till skolans mer formella lärande. Fritiden erbjuden en arena för unga att göra sin röst hörd och bli en aktiv medskapare. Deltagande i gruppaktiviteter kan bidra till personlig utveckling, en känsla av tillhörighet och sammanhang och vara ett alternativ för barn och unga som annars riskerar bli indragna i riskbeteenden och riskmiljöer. 
+Att ha en utvecklande och meningsfull fritid är en viktig del av uppväxttiden som stärker barn och ungas motståndskraft samt främjar fysisk, mental och social utveckling. Fysisk aktivitet, att exempelvis delta i sport och lek, ger stora hälsofördelar såväl fysiskt som psykiskt. En annan viktig friskfaktor är betydelsen av vila, återhämtning och avkoppling. Fritiden är också ett viktigt sammanhang för barn att lära sig sociala färdigheter som samarbete, kommunikation och konflikthantering och blir genom det informella lärandet ett komplement till skolans mer formella lärande. Deltagande i gruppaktiviteter kan bidra till personlig utveckling, en känsla av tillhörighet och sammanhang och vara ett alternativ för barn och unga som annars riskerar bli indragna i riskbeteenden och riskmiljöer. 
 
-Många olika aktörer och verksamheter spelar en viktig roll i att tillhandahålla möjligheter till en meningsfull fritid för barn och unga Under ungdomsåren blir även andra vuxna, som kommer in i ungas liv genom deras fritid, nya viktiga personer utöver föräldrarna.
+Många olika aktörer och verksamheter spelar en viktig roll i att tillhandahålla möjligheter till en meningsfull fritid för barn och unga. Under ungdomsåren blir även andra vuxna, som kommer in i ungas liv genom deras fritid, nya viktiga personer utöver föräldrarna.
 
 ## Underlag för verksamhetskartläggning och analys av *meningsfull fritid*
 
@@ -23,6 +23,10 @@ Många olika aktörer och verksamheter spelar en viktig roll i att tillhandahål
 
 -	**Artikel 31:** Barnet har rätt till lek, vila, fritid och rekreation samt fritt delta i det kulturella livet.
 
+
+### Plan- och bygglagen
+
+**God livsmiljö (2 kap):** PBL föreskriver att planläggning ska ske med hänsyn till natur- och kulturvärden samt miljö- och klimataspekter. Planläggningen ska även främja en estetiskt tilltalande utformning av bebyggelse med närhet till bland annat torg, parker, grönområden och platser för lek och motion samt förebygga olyckor, ohälsa och osäkerhet. Sammanfattningsvis en god livsmiljö tillgänglig och användbar för alla samhällsgrupper.
 
 
 ## Kartläggnings- och fördjupningsfrågor
@@ -68,7 +72,7 @@ ________________________________________________________________________________
 
 **Läs mer om tidiga och samordnade insatser**
 
--   [Kunskapsgudien: Om tidiga och samordnade insatser (TSI)](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/)
+-   [Kunskapsguiden: Om tidiga och samordnade insatser (TSI)](https://kunskapsguiden.se/omraden-och-teman/barn-och-unga/tidiga-och-samordnade-insatser-tsi/)
 
 -   [TSI-boken - Stöd i arbetet med tidiga och samordnade insatser för barn och unga](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2023-10-8779.pdf)
 
@@ -241,13 +245,13 @@ ________________________________________________________________________________
 
 -   [Svensk biblioteksförening: Rekommendationer för folkbibliotekens barn- och ungdomsverksamhet](https://www.biblioteksforeningen.se/rapporter/pa-barn-och-ungdomars-villkor/)
 
--   [Mediemynidgheten](https://www.mediemyndigheten.se/medie-och-informationskunnighet-mik/natverket-mik-sverige/)
+-   [Mediemyndigheten](https://www.mediemyndigheten.se/medie-och-informationskunnighet-mik/natverket-mik-sverige/)
 
 **------------------------------------------------------------------------------**
 
 ### Kultur-/musikskola
 
-En kultur- och musikskola bidrar till barns och ungas välmående genom att erbjuda en plats för kreativt uttryck, personlig utveckling, social sammanhållning och tillit. Genom att delta i gruppaktiviteter och uppträdanden får barn och unga möjlighet att bygga relationer, lära sig samarbeta med andra och motverka social isolering. Verksamheten ska erbjuda en säker och stimulerande miljö där barn och unga kan utforska och utveckla sina intressen.
+Kultur- och musikskolan bidrar till barns och ungas välmående genom att erbjuda en plats för kreativt uttryck, personlig utveckling, social sammanhållning och tillit. Genom att delta i gruppaktiviteter och uppträdanden får barn och unga möjlighet att bygga relationer, lära sig samarbeta med andra och motverka social isolering. Verksamheten ska erbjuda en säker och stimulerande miljö där barn och unga kan utforska och utveckla sina intressen.
 
 _______________________________________________________________________________________________________________
 
@@ -291,7 +295,7 @@ ________________________________________________________________________________
 
 ### Kostnadsfria lovaktiviteter  
 
-Kostnadsfria lovaktiviteter kan bidra till att skapa en mer jämlik tillgång till meningsfulla fritidsaktiviteter. Det handlar främst och ett främjande arbete för en inkluderande fritid tillgänglig för alla men kan också bidra till att förebygga exempelvis psykisk ohälsa genom att erbjuda strukturerade och meningsfulla aktiviteter under loven, då barn annars kan vara utan sysselsättning. Dessutom erbjuder dessa aktiviteter en säker miljö där barn kan ha tillgängliga vuxna ledare, vilket minskar risken för att de hamnar i negativa eller destruktiva miljöer. Detta kan vara särskilt viktigt i områden med hög social utsatthet. 
+Kostnadsfria lovaktiviteter kan bidra till att skapa en mer jämlik tillgång till meningsfulla fritidsaktiviteter. De kan också bidra till att förebygga exempelvis psykisk ohälsa genom att erbjuda strukturerade och meningsfulla aktiviteter under loven, då barn annars kan vara utan sysselsättning. Dessutom erbjuder dessa aktiviteter en säker miljö där barn kan ha tillgängliga vuxna ledare, vilket minskar risken för att de hamnar i negativa eller destruktiva miljöer. Detta kan vara särskilt viktigt i områden med hög social utsatthet. 
 
 _______________________________________________________________________________________________________________
 
@@ -327,7 +331,7 @@ ________________________________________________________________________________
 
 Det finns betydande skillnader i tillgången till och nyttjandet av fritidsaktiviteter för barn och unga i Sverige. Barn- och unga med socioekonomiska utmaningar, utländsk bakgrund, funktionsnedsättningar, hbtqi-personer samt de som bor i lands- och glesbygd rapporterar i större utsträckning om hinder för att kunna ta del av önskade fritidsaktiviteter.
 
-Inkluderande föreningsverksamhet kännetecknas av tillgänglighet och öppenhet där lokaler ska vara anpassade för alla, och information om verksamheten ska spridas brett och vara lätt att förstå. Kommunerna kan exempelvis erbjuda subventionerade eller helt kostnadsfria aktiviteter, ge bidrag till föreningar eller tillhandahålla gratis lokaler och utrustning. Kommunen kan även jobba för samverkan mellan kommunens öppna barn- och ungdomsverksamheten och föreningslivet. Ledare och instruktörer i föreningsverksamheten kan genomgå regelbunden utbildning i inkluderande pedagogik och ledarskap. Vidare gynnas tillgängligheten av ett nära samarbete med skolor och socialtjänst för att hjälpa till att identifiera barn och unga som kan ha särskilt stor nytta av att delta i föreningsverksamheten.
+Inkluderande föreningsverksamhet kännetecknas av tillgänglighet och öppenhet där lokaler ska vara anpassade för alla och information om verksamheten ska spridas brett och vara lätt att förstå. Kommunerna kan exempelvis erbjuda subventionerade eller helt kostnadsfria aktiviteter, ge bidrag till föreningar eller tillhandahålla gratis lokaler och utrustning. Kommunen kan även jobba för samverkan mellan kommunens öppna barn- och ungdomsverksamhet samt föreningslivet. Ledare och instruktörer i föreningsverksamheten kan genomgå regelbunden utbildning i inkluderande pedagogik och ledarskap. Vidare gynnas tillgängligheten av ett nära samarbete med skolor och socialtjänst för att hjälpa till att identifiera barn och unga som kan ha särskilt stor nytta av att delta i föreningsverksamheten.
 
 _______________________________________________________________________________________________________________
 
@@ -341,7 +345,7 @@ ________________________________________________________________________________
 
 -	Det görs kontinuerliga uppföljningar av hur föreningsverksamheten lever upp till utformade krav.
 
--	Det görs uppföljningar av vilka målgrupper som tar del av fritidsverksamheter i kommunen och om identifierade riskgrupper nås.
+-	Det görs uppföljningar av vilka målgrupper som tar del av föreningsverksamheter i kommunen och om identifierade riskgrupper nås.
 
 _______________________________________________________________________________________________________________
 
@@ -371,7 +375,7 @@ ________________________________________________________________________________
 
 Socialt fältarbete för barn och unga handlar om att arbeta förebyggande genom att vara uppsökande och relationsskapande. Arbetet sker på platser och miljöer där barn och unga befinner sig med syftet att kunna identifiera behov och erbjuda stöd och vägledning i barn och ungas vardag. Det kan handla om att ha kontakt med och ge stöd till föräldrar, ge råd om fritidsaktiviteter, eller stötta barn och unga direkt på plats samt länka vidare till hälsofrämjande sammanhang och aktiviteter. Genom att fältarbetarna är synliga och tillgängliga i närsamhället skapas en länk mellan invånarna och samhällets stödstrukturer. Förtroendet som byggs upp gör det lättare för individer att söka hjälp och stöd.
 
-Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra delar av socialtjänsten, elevhälsan och fritidsgårdar är centrala aktörer tillsammans med civilsamhällets aktörer. Detta nätverkande är viktigt för att skapa en helhetsbild av den unges situation och för att samordna samt hänvisa till insatser.
+Samverkan med andra aktörer är en viktig uppgift där polis, skolor, andra delar av socialtjänsten, elevhälsan och fritidsgårdar är centrala aktörer tillsammans med civilsamhällets aktörer. Detta nätverkande är viktigt för att skapa en helhetsbild av barn och ungas situation och för att samordna samt hänvisa till insatser.
 
 _______________________________________________________________________________________________________________
 
@@ -409,9 +413,9 @@ ________________________________________________________________________________
 
 ### Utomhusmiljöer för lek, spontanidrott, friluftsliv och återhämtning
 
-En stor del av barn och ungas fritid tillbringas i utomhusmiljöer. En viktig friskfaktor är vila, återhämtning och avkoppling. Ungas fritid behöver därför även rymma ostrukturerad tid och utrymmen för umgänge utan krav.
+En viktig friskfaktor är vila, återhämtning och avkoppling. Ungas fritid behöver därför även rymma ostrukturerad tid och utrymmen för umgänge utan krav.
 
-Tillgång till grönområden kan bidra till att utjämna skillnaden i hälsa mellan socioekonomiskt svaga och starka grupper, och är särskilt viktigt i tätbebyggda områden. Grönområden ger även möjligheter för kostnadsfria aktiviteter genom exempelvis utegym och bollplaner. I områden med trångboddhet erbjuder även sitt- och grillplatser i utemiljön ett komplement till hemmet och en plats att mötas på.
+En stor del av barn och ungas fritid tillbringas i utomhusmiljöer. Tillgång till grönområden kan bidra till att utjämna skillnaden i hälsa mellan socioekonomiskt svaga och starka grupper, och är särskilt viktigt i tätbebyggda områden. Grönområden ger även möjligheter för kostnadsfria aktiviteter genom exempelvis utegym och bollplaner. I områden med trångboddhet erbjuder även sitt- och grillplatser i utemiljön ett komplement till hemmet och en plats att mötas på.
 
 _______________________________________________________________________________________________________________
 
@@ -429,7 +433,7 @@ ________________________________________________________________________________
 
 •	Det görs uppföljningar av vilka som nyttjar utomhusmiljöer så som parker och naturområden.
 
-•	Barn och ungdomar görs delaktiga i utformningen av utomhusmiljöer genom till exempel brukarundersökningar, dialog och enkäter.
+•	Barn och ungdomar görs delaktiga i utformningen av utomhusmiljöer.
 
 _______________________________________________________________________________________________________________
 
